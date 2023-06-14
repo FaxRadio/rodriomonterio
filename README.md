@@ -27,9 +27,31 @@ http://stream.zeno.fm/uhoa45pks0vvv.m3u
 #EXTINF:-1 tvg-id="" tvg-name="FAX Alex Silva Produtor 11 941386627"tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="ALEX RADIO FAX",FAX Alex Silva Produtor 11 941386627
 https://stream-51.zeno.fm/hu70hmkcu68uv
 
+#EXTM3U url-tvg=" http://grade-de-CANAIS Da WEB.xml "
+ ############## CANAIS Da WEB ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS Da WEB" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="CinePIX TV "tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/840254a95bac6a1f369b4d9641ef4dfa.webp" group-title="CANAIS Da WEB",CinePIX TV 
+https://stmv1.srvif.com/channel1/channel1/chunklist_w1372131370.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SERTÃO TV"tvg-logo="https://1.bp.blogspot.com/-R7MUaLTBuV0/XsYA4yqgH4I/AAAAAAAAC0o/W3b9oCbMJz4Y6kj2b8xjgcVCPzDEEo73ACLcBGAsYHQ/s320/Screenshot_2020-05-21-01-14-40.png" group-title="CANAIS Da WEB",SERTÃO TV
+https://5a2b083e9f360.streamlock.net/sertaotv/sertaotv.sdp/chunklist_w1970156229.m3u8
+#EXTINF:-1 tvg-id="TV INDAIATUBA" tvg-name="TV INDAIATUBA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJfuBNBg3Pjq8dXZ3hTWWSObD9mJuBjTFHMS9UvL0fnQHHg7psw0rEE_XMdqVGm60xBdvYZgXpddSU24Av2wthcymQF_KsTgAVM9-vFCYienzp1BTEUG1RCdcIukTjUKWdf6qGgRKx11HsXpvsdi4KQOPJqp1qBSOdzHhP-O0x1vrbdxYzfi58XZyB/s200/TV%20INDAIATUBA.webp" group-title="CANAIS Da WEB",TV INDAIATUBA
+https://stmv1.srvif.com/tvindaiatuba/tvindaiatuba/chunklist_w279274413.m3u8
+#EXTINF:-1 tvg-id="TIERRA MIA TV" tvg-name="TIERRA MIA TV" tvg-logo="https://2.bp.blogspot.com/-DAaHVRNV_kw/XzNMF4rotJI/AAAAAAAADJc/kgD73_FM-rIUFbhBHtCmgWDEYmznQPTOwCPcBGAYYCw/s320/Screenshot_2020-08-11-22-52-42.png" group-title="CANAIS Da WEB",TIERRA MIA TV
+https://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w2027922071_b1864000_sleng.m3u8
+#EXTINF:-1 tvg-id="TV ALVORADA SERTANEJA" tvg-name="TV ALVORADA SERTANEJA" tvg-logo="https://2.bp.blogspot.com/-ofKWc03Obdg/Xk7MqLdHORI/AAAAAAAACgc/1kQBCPVcByc4k88bbVkuSMeBsy5jkWO1ACPcBGAYYCw/s320/2020-02-20%2B14.04.20.png" group-title="CANAIS Da WEB",TV ALVORADA SERTANEJA
+https://stmv1.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/chunklist_w1114598459.m3u8
+#EXTINF:-1 tvg-id="TV VISÃO E RESGATE" tvg-name="TV VISÃO E RESGATE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIyq2MNRJCOPkQpxgzPjbVOyFfkLsHrvAau_edPEppoTGA9nlTPnUu_yCX-_lDA8UigJFqTUxLxoEOhAT__zq7dxJKv8b8y-l-nrmGPihf9lkl7gj34qz4mYOF78i__z1zi6lV1wY9cap4w4FzXIADCVytVSqH_2Z0w2J8iu1FzGl-Ntr8otP6O53k/s200/WEB%20TV%20VIS%C3%83O%20E%20RESGATE.webp" group-title="CANAIS Da WEB",TV VISÃO E RESGATE
+https://stmv1.liveplushd.com.br/tvvisaoresgate/tvvisaoresgate/chunklist_w2061740055.m3u8
+#EXTINF:-1 tvg-id="CONECTV" tvg-logo="https://4.bp.blogspot.com/-nHLWN1nL-cI/XbJBEoP5-uI/AAAAAAAACL4/shXzS3Ohsjoqj4Q__2KvzIkd5Omhm9QHACLcBGAsYHQ/s320/Screenshot_2019-10-24-21-06-26.png" group-title="CANAIS Da WEB",CONECTV
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+#EXTINF:-1 tvg-id="ALPHA CHANNEL TV" tvg-logo="https://1.bp.blogspot.com/-vWIupjRUu80/XON4_e9cHrI/AAAAAAAAA5Y/6Xl6ggQI7fcdLZao1GAkwYgKXWeovgw5ACLcBGAs/s320/Screenshot_2019-05-21-00-28-46.png" group-title="CANAIS Da WEB",ALPHA CHANNEL TV
+https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/chunklist_w320143634.m3u8
+
 #EXTM3U url-tvg=" http://grade-de-CANAIS  SP.xml "
  ############## CANAIS  SP ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS  SP" group-title="
+
 
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4VNbSwpViVQWJb4jur1VsWQqPubPmT-dPg7SXZkFV_Cp.jpg" group-title="CANAIS  SP",RECORD SP
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
@@ -193,10 +215,6 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 https://stmv1.srvif.com/nattv/nattv/playlist.m3u8
 #EXTINF:-1 tvg-id="NDTVRecordTVCriciuma.br" tvg-logo="https://i.imgur.com/wskp11q.png" group-title="CANAIS  SP",NDTV Record TV Criciuma
 https://caikron.com.br:19360/criciuma/criciuma.m3u8
-#EXTINF:-1 tvg-id="NickClassico.br" tvg-logo="https://i.imgur.com/Crip6wT.png" group-title="CANAIS  SP",Nick Classico
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f12151794c1800007a8ae63&deviceLat=-23.5475&deviceLon=-46.6361&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false&sid=730&terminate=false&userId=
-#EXTINF:-1 tvg-id="NickJrClubBrazil.br" tvg-logo="https://i.imgur.com/GCenuyl.png" group-title="CANAIS  SP",Nick Jr Club Brazil
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="NovaEraTV.br" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="CANAIS  SP",Nova Era TV
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 #EXTINF:-1 tvg-id="NovaTVAgrotour.br" tvg-logo="https://i.imgur.com/cgN2hfm.png" group-title="CANAIS  SP",Nova TV Agrotour
@@ -289,11 +307,11 @@ http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeSPTV.br" tvg-logo="https://i.imgur.com/kh3LGAP.png" group-title="CANAIS  SP",Rede SPTV
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="https://i.imgur.com/ZJgD38F.png" group-title="CANAIS  SP",Rede TV!
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="https://i.imgur.com/ZJgD38F.png" group-title="CANAIS  SP",Rede TV
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeTVES.br" tvg-logo="https://i.imgur.com/k7vO9Bk.png" group-title="CANAIS  SP",Rede TV! ES
+#EXTINF:-1 tvg-id="RedeTVES.br" tvg-logo="https://i.imgur.com/k7vO9Bk.png" group-title="CANAIS  SP",Rede TV ES
 https://hls.brasilstream.com.br/live/redetves/redetves/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeTVTocantins.br" tvg-logo="https://i.imgur.com/SEe2ki7.png" group-title="CANAIS  SP",RedeTV! Tocantins
+#EXTINF:-1 tvg-id="RedeTVTocantins.br" tvg-logo="https://i.imgur.com/SEe2ki7.png" group-title="CANAIS  SP",RedeTV Tocantins
 https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeUTV.br" tvg-logo="https://i.imgur.com/Usw2e9d.png" group-title="CANAIS  SP",Rede UTV
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
@@ -311,8 +329,6 @@ https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 https://streaming.portaltvparaense.com.br/hls/rtp.m3u8
 #EXTINF:-1 tvg-id="SertaoTV.br" tvg-logo="https://i.imgur.com/b5xOCsC.png" group-title="CANAIS  SP",Sertao TV
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="SESCTV.br" tvg-logo="https://i.imgur.com/Mu8O6CV.png" group-title="CANAIS  SP",SESC TV
-https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index.m3u8
 #EXTINF:-1 tvg-id="SICTV.br" tvg-logo="https://i.imgur.com/mHxQyB2.png" group-title="CANAIS  SP",SIC TV
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
 #EXTINF:-1 tvg-id="SOUTV.br" tvg-logo="https://i.ibb.co/8cKmCNm/ezgif-com-gif-maker.png" group-title="CANAIS  SP",SOU TV
@@ -2287,7 +2303,6 @@ http://meuplay.shop:80/828474929852/34882748924/550
 
 #EXTM3U url-tvg=" http://grade-de-Canais | Esportes Combate.xml "
  ############## Canais | Esportes Combate ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais | Esportes Combate" group-title="
 
 #EXTINF:-1 tvg-name="Combate FHD" tvg-logo="https://fivetv.xyz/logos/combate.png" group-title="Canais | Esportes Combate",Combate FHD
  http://5ce.co:80/live/mlindoso/qwe9673/16866.m3u8
@@ -2598,6 +2613,12 @@ http://srv.cldplay.net:80/live/820584rohs/67864336899/83382.m3u8
  ############## Canais  FOX Sports 2 ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCanais  FOX Sports 2" group-title="
 
+#EXTINF:-1 tvg-name="Fox Sports 2 wwe" tvg-logo="https://cdn.dribbble.com/users/3163204/screenshots/7945741/media/cf0d95cc831bea024169f3e6732d69da.gif" group-title="Canais | FOX Sports 2",Fox Sports 2 wwe
+http://cdn.xcore.ca:80/zzosvkxr/1j6omlet/40699
+#EXTINF:-1 tvg-name="Fox Sports 2 wwe" tvg-logo="https://cdn.dribbble.com/users/3163204/screenshots/7945741/media/cf0d95cc831bea024169f3e6732d69da.gif" group-title="Canais | FOX Sports 2",Fox Sports 2 wwe
+http://cdn.xcore.ca:80/zzosvkxr/1j6omlet/12
+#EXTINF:-1 tvg-name="Fox Sports 2 FHD" tvg-logo="http://70.ms/dR" group-title="Canais | FOX Sports 2",Fox Sports 2 FHD
+http://liontv.me:80/mgfb2ed/mgf239161/34
 #EXTINF:-1 tvg-name="Fox Sports 2 FHD" tvg-logo="http://70.ms/dR" group-title="Canais | FOX Sports 2",Fox Sports 2 FHD
  http://5ce.co:80/live/mlindoso/qwe9673/10363.m3u8
 #EXTINF:-1 tvg-name="Fox Sports 2 FHD²" tvg-logo="http://70.ms/Xb" group-title="Canais | FOX Sports 2",Fox Sports 2 FHD²
@@ -2626,14 +2647,6 @@ http://srv.cldplay.net:80/live/820584rohs/67864336899/83216.m3u8
 http://srv.cldplay.net:80/live/820584rohs/67864336899/147567.m3u8
 #EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 SD" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais | FOX Sports 2",FOX Sports 2 SD
 http://srv.cldplay.net:80/live/820584rohs/67864336899/83561.m3u8
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD" tvg-logo="https://imgur.com/uvjIrfv.png" group-title="Canais | FOX SPORTS 2",FOX SPORTS 2 FHD
-http://meuplay.shop:80/67598237854pw/9875352849pw/773
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 H265" tvg-logo="https://imgur.com/uvjIrfv.png" group-title="Canais | FOX SPORTS 2",FOX SPORTS 2 H265
-http://meuplay.shop:80/67598237854pw/9875352849pw/245
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://imgur.com/uvjIrfv.png" group-title="Canais | FOX SPORTS 2",FOX SPORTS 2 HD
-http://meuplay.shop:80/67598237854pw/9875352849pw/32
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="https://imgur.com/uvjIrfv.png" group-title="Canais | FOX SPORTS 2",FOX SPORTS 2 SD
-http://meuplay.shop:80/67598237854pw/9875352849pw/484
 
 #EXTM3U url-tvg=" http://grade-de-Canais  Libertadores/Sul-Americana.xml "
  ############## Canais  Libertadores/Sul-Americana ############## ### 
@@ -2668,13 +2681,13 @@ http://srv.cldplay.net:80/live/820584rohs/67864336899/83714.m3u8
  ############## Canais  Premiere FC ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCanais  Premiere FC" group-title="
 
-#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere 1 Clubes 4K" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | 4K - H265",Premiere 1 Clubes 4K
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere 1 Clubes 4K" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 1 Clubes 4K
 http://apkwuv.xyz:80/cristina2021/graniptv2005/151037
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere 1 Clubes FHD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 1 Clubes FHD
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83813
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere 1 Clubes FHD [Alt]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 1 Clubes FHD [Alt]
 http://apkwuv.xyz:80/cristina2021/graniptv2005/147633
-#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere 1 Clubes FHD [H265]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | 4K - H265",Premiere 1 Clubes FHD [H265]
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere 1 Clubes FHD [H265]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 1 Clubes FHD [H265]
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83405
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere 1 Clubes HD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 1 Clubes HD
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83251
@@ -2686,7 +2699,7 @@ http://apkwuv.xyz:80/cristina2021/graniptv2005/83601
 http://apkwuv.xyz:80/cristina2021/graniptv2005/87323
 #EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 FHD [Alt]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 2 FHD [Alt]
 http://apkwuv.xyz:80/cristina2021/graniptv2005/147635
-#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 FHD [H265]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | 4K - H265",Premiere 2 FHD [H265]
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 FHD [H265]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 2 FHD [H265]
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83406
 #EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 HD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 2 HD
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83245
@@ -2698,7 +2711,7 @@ http://apkwuv.xyz:80/cristina2021/graniptv2005/83602
 http://apkwuv.xyz:80/cristina2021/graniptv2005/87321
 #EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 FHD [Alt]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 3 FHD [Alt]
 http://apkwuv.xyz:80/cristina2021/graniptv2005/147637
-#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 FHD [H265]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | 4K - H265",Premiere 3 FHD [H265]
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 FHD [H265]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 3 FHD [H265]
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83407
 #EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 HD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 3 HD
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83246
@@ -2710,7 +2723,7 @@ http://apkwuv.xyz:80/cristina2021/graniptv2005/83603
 http://apkwuv.xyz:80/cristina2021/graniptv2005/87320
 #EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 FHD [Alt]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 4 FHD [Alt]
 http://apkwuv.xyz:80/cristina2021/graniptv2005/147639
-#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 FHD [H265]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | 4K - H265",Premiere 4 FHD [H265]
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 FHD [H265]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 4 FHD [H265]
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83408
 #EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 HD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 4 HD
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83247
@@ -2722,7 +2735,7 @@ http://apkwuv.xyz:80/cristina2021/graniptv2005/83604
 http://apkwuv.xyz:80/cristina2021/graniptv2005/152926
 #EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 FHD [Alt]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 5 FHD [Alt]
 http://apkwuv.xyz:80/cristina2021/graniptv2005/147641
-#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 FHD [H265]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | 4K - H265",Premiere 5 FHD [H265]
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 FHD [H265]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 5 FHD [H265]
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83409
 #EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 HD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 5 HD
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83248
@@ -2734,7 +2747,7 @@ http://apkwuv.xyz:80/cristina2021/graniptv2005/83605
 http://apkwuv.xyz:80/cristina2021/graniptv2005/87319
 #EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 FHD [Alt]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 6 FHD [Alt]
 http://apkwuv.xyz:80/cristina2021/graniptv2005/147643
-#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 FHD [H265]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | 4K - H265",Premiere 6 FHD [H265]
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 FHD [H265]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 6 FHD [H265]
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83410
 #EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 HD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 6 HD
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83249
@@ -2746,7 +2759,7 @@ http://apkwuv.xyz:80/cristina2021/graniptv2005/83606
 http://apkwuv.xyz:80/cristina2021/graniptv2005/87318
 #EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 FHD [Alt]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 7 FHD [Alt]
 http://apkwuv.xyz:80/cristina2021/graniptv2005/147645
-#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 FHD [H265]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | 4K - H265",Premiere 7 FHD [H265]
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 FHD [H265]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 7 FHD [H265]
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83411
 #EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 HD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 7 HD
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83250
@@ -2845,6 +2858,12 @@ http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83607
  ############## Canais | SporTV ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCanais | SporTV" group-title="
 
+#EXTINF:-1 tvg-id="SporTV" tvg-name="RS NEWS SPORTS TV 3" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHYF_aGW2ZPqrkD20FNY-M_YSBEuUBu0fK10CAyU2UukuNA5f1urXvuBqx0cUECs9cs82yOzIzKUcCJFciHv6GgRFsOztRk-dAi7PnNdhkaVojcCJY7nhpTV8zIk9RbXgD0o905f30DqVv5CDiPUDz6HPp4z3m8i7kjGE_giNzWglSAcalhIdNZyLR/s200/RS%20NEWS%20SPORTS.jpg" group-title="Canais | SporTV",RS NEWS SPORTS TV 3
+https://59f1cbe63db89.streamlock.net:1443/rsnews03/_definst_/rsnews03/chunklist_w1951872443.m3u8
+#EXTINF:-1 tvg-id="SporTV" tvg-name="RS NEWS SPORTS TV 4" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHYF_aGW2ZPqrkD20FNY-M_YSBEuUBu0fK10CAyU2UukuNA5f1urXvuBqx0cUECs9cs82yOzIzKUcCJFciHv6GgRFsOztRk-dAi7PnNdhkaVojcCJY7nhpTV8zIk9RbXgD0o905f30DqVv5CDiPUDz6HPp4z3m8i7kjGE_giNzWglSAcalhIdNZyLR/s200/RS%20NEWS%20SPORTS.jpg" group-title="Canais | SporTV",RS NEWS SPORTS TV 4
+https://59f1cbe63db89.streamlock.net:1443/rsnews04/_definst_/rsnews04/chunklist_w1423542831.m3u8
+#EXTINF:-1 tvg-id="SporTV" tvg-name="RS NEWS SPORTS TV 5" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHYF_aGW2ZPqrkD20FNY-M_YSBEuUBu0fK10CAyU2UukuNA5f1urXvuBqx0cUECs9cs82yOzIzKUcCJFciHv6GgRFsOztRk-dAi7PnNdhkaVojcCJY7nhpTV8zIk9RbXgD0o905f30DqVv5CDiPUDz6HPp4z3m8i7kjGE_giNzWglSAcalhIdNZyLR/s200/RS%20NEWS%20SPORTS.jpg" group-title="Canais | SporTV",RS NEWS SPORTS TV 5
+https://59f1cbe63db89.streamlock.net:1443/danielteste/_definst_/danielteste/chunklist_w89875179.m3u8
 #EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV 1 FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv.png" group-title="Canais | SporTV",SporTV 1 FHD
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83814
 #EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV 1 FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv.png" group-title="Canais | SporTV",SporTV 1 FHD [Alt]
@@ -3007,17 +3026,65 @@ http://srv.cldplay.net:80/live/820584rohs/67864336899/83561.m3u8
 http://srv.cldplay.net:80/live/820584rohs/67864336899/83389.m3u8
 
 #EXTM3U url-tvg="http://grade-de-FILMES  TV FAX.xml"
-############## FILMES  TV FAX ################# 
+############## FILMES  TV FAX #################
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES  TV FAX" group-title="
 
+#EXTINF:-1 tvg-id="" tvg-name="Mad Max 2 A Calçada Continua"tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/90/62/67/20105229.jpg"group-title="FILMES | TV FAX",Mad Max 2 A Calçada Continua
+https://ia802707.us.archive.org/31/items/assistir-mad-max-2-a-cacada-continua-online-gratis-mega-fi/Assistir%20Mad%20Max%202%20A%20Ca%C3%A7ada%20Continua%20Online%20Gr%C3%A1tis%20-%20Mega%20Fi.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abismo Do Medo 2"tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/87/89/57/19962652.jpg"group-title="FILMES | TV FAX",Abismo Do Medo 2
+https://ia802602.us.archive.org/3/items/assistir-abismo-do-medo-2-online-gratis-filme-em-hd/Assistir%20Abismo%20do%20Medo%202%20Online%20Gr%C3%A1tis%20-%20Filme%20em%20HD.mp4
+#EXTINF:-1 tvg-id="" tvg-name="À Espera De Um Milagre"tvg-logo="https://64.media.tumblr.com/d3323ff32919b77fe6ec1476c0b8729c/3b9075077300210a-33/s500x750/aa32168d47b9054f458dcbe24b00d378f83ce6db.gif"group-title="FILMES | TV FAX",À Espera De Um Milagre
+https://ia803409.us.archive.org/14/items/a-espera-de-um-milagre-1999-720p-dublado/%C3%80%20Espera%20de%20um%20Milagre%20%281999%29%20720p%20dublado.ia.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Queda"tvg-logo="https://br.web.img2.acsta.net/pictures/22/10/04/19/16/5487644.jpg"group-title="FILMES | TV FAX",A Queda
+https://ia902602.us.archive.org/26/items/a-queda_202306/A%20Queda.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Pequena Sereia (2023)"tvg-logo="https://www.omelete.com.br/webstories/a-pequena-sereia-e-estreias-da-semana/assets/2.gif"group-title="FILMES | TV FAX",A Pequena Sereia (2023)
+https://ia601601.us.archive.org/15/items/a-pequena-sereia-2023-filme-completo-dublado/A%20Pequena%20Sereia%20%282023%29%20FILME%20COMPLETO%20DUBLADO%F0%9F%8E%A5%20%F0%9F%A7%9C.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ano Um "tvg-logo="https://images.justwatch.com/poster/257627384/s592/ano-um"group-title="FILMES | TV FAX",Ano Um 
+https://ia902707.us.archive.org/5/items/ano-um-720p-dublado-2009-99-films/Ano%20Um%20%20-%20720p%20Dublado%20%282009%29%20-%2099%20Film%27s.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Prisão"tvg-logo="https://cinepop.com.br/wp-content/uploads/2018/10/the-shawshank-redemption-cinepop.jpg"group-title="FILMES | TV FAX",Prisão
+https://ia902606.us.archive.org/13/items/prisao-filme-completo-dublado/pris%C3%A3o%20-%20Filme%20completo%20dublado.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Noé"tvg-logo="https://oportaln10.com.br/todocanal/wp-content/uploads/2022/12/filme-noe.jpg"group-title="FILMES | TV FAX",Noé
+https://ia902602.us.archive.org/33/items/noe-filme-completo-dublado-2014/No%C3%A9%20-%20Filme%20Completo%20Dublado%20%282014%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VERÍDICO REAL"tvg-logo="https://cdn.maioresemelhores.com/imagens/melhores-filmes-baseados-em-fatos-reais-og.jpg"group-title="FILMES | TV FAX",VERÍDICO REAL
+https://ia902703.us.archive.org/11/items/filmes-baseados-em-fatos-reais-filme-veri-dico-real-muito-bom-leia-descrica-o/FILMES%20BASEADOS%20EM%20FATOS%20REAIS%20%20FILME%20VER%C3%8DDICO%20REAL%20MUITO%20BOM%20-%20LEIA%20DESCRI%C3%87%C3%83O.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VIDA DE INSETO"tvg-logo="https://smucdata.s3.amazonaws.com/wp-content/uploads/blogger/-I76StfvOjSQ/XBjj48-cfzI/AAAAAAAAIak/drjOPJ0C2bc93_npP5zKTDttvmMzCHVSACK4BGAYYCw/s1600/1_IkUXnkT26OpuakvQcPziWw.jpeg"group-title="FILMES | TV FAX",VIDA DE INSETO
+https://ia802603.us.archive.org/33/items/filme-vida-de-inseto-dublado-completo/FILME%20VIDA%20DE%20INSETO%20DUBLADO%20COMPLETO.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Antuerpia"tvg-logo="https://www.uninassau.edu.br/sites/mauriciodenassau.edu.br/files/fields/imagemLateral/noticias/2016/09/cinema.jpg"group-title="FILMES | TV FAX",Antuerpia
+https://ia902609.us.archive.org/35/items/Antuerpia/Antuerpia.mp4
+#EXTINF:-1 tvg-id="" tvg-name="thanatomorphose"tvg-logo="https://pa1.aminoapps.com/7308/24177768dc6f65a2d5294ebd9f6ad726aec5247cr1-300-176_hq.gif"group-title="FILMES | TV FAX",thanatomorphose
+https://ia802703.us.archive.org/26/items/thanatomorphose_202306/Thanatomorphose.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BRICHOS"tvg-logo="https://1.bp.blogspot.com/-NYyG2GbFzZY/YU4PXfCOp3I/AAAAAAABcX8/fYRwCnREPeAfHkRZup11ihbFBtXw7yEtwCLcBGAsYHQ/s460/Vida%2B-%2BSecreta%2B-%2Bdos%2B-%2BBichos%2B-%2Bem%2B-%2BGifsi%2B%25287%2529.gif"group-title="FILMES | TV FAX",BRICHOS
+https://vdn.libreflix.org/video/brichos2/brichos2.360.mp4
+#EXTINF:-1 tvg-id="" tvg-name=Alta Velocidade"tvg-logo="https://media.fstatic.com/asWdTE36MWEyheG_3EIHp6d5YZs=/322x478/smart/filters:format(webp)/media/movies/covers/2021/02/3415_-_29x41-.jpg"group-title="FILMES | TV FAX",Alta Velocidade
+https://play.prod.gcp.vix.services/driven_pt/driven_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Semente do mal"tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/appurushido_pt/appurushido_pt_200x300.jpg"group-title="FILMES | TV FAX",Semente do mal
+https://play.prod.gcp.vix.services/appurushido_pt/appurushido_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Unidade de Combate"tvg-logo="https://images.justwatch.com/poster/8820475/s592/684-unidade-de-combate"group-title="FILMES | TV FAX",Unidade de Combate
+https://play.prod.gcp.vix.services/silmido_pt/silmido_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Verônica"tvg-logo="https://ottvsimg.ottvs.com.br/cov/eur.023665/0023665_335.jpg"group-title="FILMES | TV FAX",Verônica
+https://play.prod.gcp.vix.services/veronica_pt/veronica_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Além da Fronteira"tvg-logo="https://br.web.img2.acsta.net/pictures/210/417/21041708_20130919131255498.jpg"group-title="FILMES | TV FAX",Além da Fronteira
+https://play.prod.gcp.vix.services/out-in-the-dark_en/out-in-the-dark_en_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O Último Resgate"tvg-logo="https://br.web.img3.acsta.net/pictures/21/03/01/14/39/3588230.jpg"group-title="FILMES | TV FAX",O Último Resgate
+https://play.prod.gcp.vix.services/we-go-dawn_pt/we-go-dawn_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sem Retorno"tvg-logo="https://1.bp.blogspot.com/-sPX6Vl1yQ9g/VrH08SqcqfI/AAAAAAAAS-A/ZAxyRsSNaSs/s1600/Sem%2BRetorno%2B01.jpg"group-title="FILMES | TV FAX",Sem Retorno
+https://play.prod.gcp.vix.services/point-no-return_pt/point-no-return_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Alma de Guerreiro"tvg-logo="https://i.ytimg.com/vi/MjaoceszRjM/maxresdefault.jpg"group-title="FILMES | TV FAX",Alma de Guerreiro
+https://play.prod.gcp.vix.services/viking-blood_pt/viking-blood_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Natureza Selvagem"tvg-logo="https://www.atoupeira.com.br/wp-content/uploads/2021/05/Natureza-Selvagem_port.jpg"group-title="FILMES | TV FAX",Natureza Selvagem
+https://play.prod.gcp.vix.services/werewolf_pt/werewolf_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Solo - A Ilha do Medo"tvg-logo="https://br.web.img2.acsta.net/pictures/16/01/27/19/55/235266.jpg"group-title="FILMES | TV FAX",Solo - A Ilha do Medo
+https://play.prod.gcp.vix.services/solo_en/solo_en_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Velozes E Furiosos 10"tvg-logo="https://photos.google.com/photo/AF1QipP6NQei9Bx11Ruo6RP0DjjbASTAtQPp3nRibzrl"group-title="FILMES | TV FAX",Velozes E Furiosos 10
 http://7go.xyz:8080/movie/zogbi11/982451290/312832.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Velozes E Furiosos 10  2023"tvg-logo="https://photos.google.com/photo/AF1QipP6NQei9Bx11Ruo6RP0DjjbASTAtQPp3nRibzrl"group-title="FILMES | TV FAX",Velozes E Furiosos 10  2023
+#EXTINF:-1 tvg-id="" tvg-name="Velozes E Furiosos 10  2023"tvg-logo="https://uproxx.com/wp-content/uploads/2023/02/5-fastx-momoa-arms.gif"group-title="FILMES | TV FAX",Velozes E Furiosos 10  2023
 https://ia902709.us.archive.org/15/items/velozes-e-furiosos-10-2023-portalfilmeseries/Velozes%20e%20Furiosos%2010%20%5B2023%5D%20-%20%40portalfilmeseries.ia.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Gato de Botas 2: O Último Pedido" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="FILMES | TV FAX",Gato de Botas 2: O Último Pedido
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83314
 #EXTINF:-1 tvg-id="" tvg-name="Pantera Negra: Wakanda Para Sempre" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="FILMES | TV FAX",Pantera Negra: Wakanda Para Sempre
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83315
+#EXTINF:-1 tvg-id="" tvg-name="Boogey Um Monstro Adorável" tvg-logo="https://image.tmdb.org/t/p/w185/mghRagZrG8ZGVmmc72o09k98COR.jpg" group-title="FILMES | TV FAX",Boogey Um Monstro Adorável
+https://delivery-node-sq0tgp6zzeel6axe.voe-network.net/engine/hls2/01/08532/gw7jaoxfix84_n/index-v1-a1.m3u8?t=WJ_xZQ44XeQWEeJQXz7Z9LDqLXPwhK5O7Mtg3F0MrQ8&s=1686523356&e=14400&f=42661414&node=delivery-node-sq0tgp6zzeel6axe.voe-network.net&i=168.227&sp=3500&asn=264914
 #EXTINF:-1 tvg-id="" tvg-name="O Menino Cego Órfão De Pai E Mãe Nelinho De Deus Faça Alguma Coisa Vídeo Oficial. DM MÚSICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRccoLYcVcoEyQ1n132A_B9DYT9lX57mrFFHjX_NG5zJt9jSSKByqsXWrHKwrpCgGG_xrs&usqp=CAU" group-title="FILMES | TV FAX",O Menino Cego Órfão De Pai E Mãe Nelinho De Deus Faça Alguma Coisa Vídeo Oficial. DM MÚSICA
 https://ia902700.us.archive.org/9/items/o-menino-cego-orfao-de-pai-e-mae-nelinho-de-deus-faca-alguma-coisa-video-official.-dm-music/O%20menino%20Cego%20%C3%B3rf%C3%A3o%20de%20pai%20e%20m%C3%A3e%20%20Nelinho%20de%20Deus%20_fa%C3%A7a%20alguma%20coisa%20%20Video%20Official.%20DM-MUSIC.ia.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Stan e Ollie - O Gordo e o Magro - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMk8iriC4lSPXG3HVmNqo13pHHJ.jpg" group-title="FILMES | TV FAX",Stan e Ollie - O Gordo e o Magro - 2018
@@ -3408,10 +3475,9 @@ https://play.prod.gcp.vix.services/pat-coletanea-amigos_pt/pat-coletanea-amigos_
 https://play.prod.gcp.vix.services/pat-coletanea-remexe_pt/pat-coletanea-remexe_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.makeagif.com/media/3-24-2016/8K0GwO.gif" group-title="Patati Patatá | Patati Patatá",Coletânea de Sucessos 2 - É Tão Bom
 
-
-#EXTM3U url-tvg="http://grade-de-FILMES  INFANTIL CINEMA.xml"
-############## FILMES  INFANTIL CINEMA ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES  INFANTIL CINEMA" group-title="
+#EXTM3U url-tvg="http://grade-de-FILMES | INFANTIL CINEMA.xml"
+############## FILMES | INFANTIL CINEMA ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES | INFANTIL CINEMA" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="Agente Mirim"tvg-id="https://imagens.ebc.com.br/RAZnjCXPVV4KFuv6wnG3r0APh7I=/365x0/smart/https://tvbrasil.ebc.com.br/sites/default/files/thumbnails/image/agente_mirim_cartaz.jpg?itok=CfgJjlTW" group-title="FILMES | INFANTIL CINEMA",Agente Mirim
 https://play.prod.gcp.vix.services/ace-the-case_pt/ace-the-case_pt_1-1/play_v1_hls_1080p.m3u8
@@ -4422,7 +4488,7 @@ http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138777610.mp4
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138777085.mp4
 #EXTINF:-1 tvg-name="Kill Boksoon (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uC3qqSlXli8WRJroahhjIWNXu0q.jpg" group-title="Filmes | Lançamentos 2023",Kill Boksoon (2023)
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138776729.mp4
-#EXTINF:-1 tvg-name="Amy’s Fucket List [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4lFMnotILTWriXPoEhTIuVRNPr.jpg" group-title="Filmes | Lançamentos 2023",Amy’s Fucket List [CINEMA] (2023)
+#EXTINF:-1 tvg-name="Amy s Fucket List [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4lFMnotILTWriXPoEhTIuVRNPr.jpg" group-title="Filmes | Lançamentos 2023",Amy s Fucket List [CINEMA] (2023)
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138776728.mp4
 #EXTINF:-1 tvg-name="Raquel 1:1 [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sH3U0DWNzTaSiC9Y395DubOhPdo.jpg" group-title="Filmes | Lançamentos 2023",Raquel 1:1 [CINEMA] (2023)
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138776741.mp4
@@ -4458,7 +4524,7 @@ http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775426.mp4
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775164.mp4
 #EXTINF:-1 tvg-name="Roubo pelos Ares (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wbjshzUHdfFhvdqHoNraGXhpLY.jpg" group-title="Filmes | Lançamentos 2023",Roubo pelos Ares (2023)
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775161.mp4
-#EXTINF:-1 tvg-name="Why Can't My Life Be a Rom-Com? [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9l5Tg3rLwBXqvWRaTC3aRmfXhc.jpg" group-title="Filmes | Lançamentos 2023",Why Can't My Life Be a Rom-Com? [CINEMA] (2023)
+#EXTINF:-1 tvg-name="Why Can t My Life Be a Rom Com  [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9l5Tg3rLwBXqvWRaTC3aRmfXhc.jpg" group-title="Filmes | Lançamentos 2023",Why Can t My Life Be a Rom Com [CINEMA] (2023)
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775165.mp4
 #EXTINF:-1 tvg-name="The Donor Party [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zWOPibu4RqGz9Y4zj657HslR964.jpg" group-title="Filmes | Lançamentos 2023",The Donor Party [CINEMA] (2023)
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775023.mp4
@@ -4496,9 +4562,9 @@ http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138777590.mp4
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138777580.mp4
 #EXTINF:-1 tvg-name="Meu Amigo Lutcha (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CbBbgftaC2fQYwHYMfrSXkKML0.jpg" group-title="Filmes | Lançamentos 2023",Meu Amigo Lutcha (2023)
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138777629.mp4
-#EXTINF:-1 tvg-name="Shazam! Fúria dos Deuses (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GE5FwsQIQKNDWkSEBVIWYx7zCK.jpg" group-title="Filmes | Lançamentos 2023",Shazam! Fúria dos Deuses (2023)
+#EXTINF:-1 tvg-name="Shazam Fúria dos Deuses (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GE5FwsQIQKNDWkSEBVIWYx7zCK.jpg" group-title="Filmes | Lançamentos 2023",Shazam Fúria dos Deuses (2023)
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138777630.mp4
-#EXTINF:-1 tvg-name="Shazam! Fúria dos Deuses (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GE5FwsQIQKNDWkSEBVIWYx7zCK.jpg" group-title="Filmes | Lançamentos 2023",Shazam! Fúria dos Deuses (2023)
+#EXTINF:-1 tvg-name="Shazam Fúria dos Deuses (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GE5FwsQIQKNDWkSEBVIWYx7zCK.jpg" group-title="Filmes | Lançamentos 2023",Shazam Fúria dos Deuses (2023)
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138777630.mp4
 #EXTINF:-1 tvg-name="Rainhas em Fuga (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iL0hVqtK0NUa6B9UJXkoq5jSXAz.jpg" group-title="Filmes | Lançamentos 2023",Rainhas em Fuga (2023)
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138778857.mp4
@@ -4535,11 +4601,9 @@ http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/222039.mp4
 http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/262450.mp4
 #EXTINF:-1 tvg-id="" tvg-name="365 Dias Finais (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pxKwxMbd5l3BxK5fBgVCWYweH2.jpg" group-title="Filmes: Lancamentos 2022",365 Dias Finais (2022)
 http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/251198.mp4
-#EXTINF:-1 tvg-id="" tvg-name="30 Noites com a Minha Ex (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9GUOSsdQrchL57N4HTAncDEWxKO.jpg" group-title="Filmes: Lancamentos 2023",30 Noites com a Minha Ex (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/273711.mp4
-#EXTINF:-1 tvg-id="" tvg-name="#Comvocê: Volume 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yiY4nI6HPAqnpGt5cPmszC6pTR7.jpg" group-title="Filmes: Lancamentos 2022",#Comvocê: Volume 2 (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Comvocê: Volume 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yiY4nI6HPAqnpGt5cPmszC6pTR7.jpg" group-title="Filmes: Lancamentos 2022",Comvocê: Volume 2 (2022)
 http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/249404.mp4
-#EXTINF:-1 tvg-id="" tvg-name="#PartiuFama: Cancelado no Amor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/24eEIEi7bgGmNDnsfkC6FAQTF8.jpg" group-title="Filmes: Lancamentos 2022",#PartiuFama: Cancelado no Amor (2022)
+#EXTINF:-1 tvg-id="" tvg-name="PartiuFama: Cancelado no Amor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/24eEIEi7bgGmNDnsfkC6FAQTF8.jpg" group-title="Filmes: Lancamentos 2022",PartiuFama: Cancelado no Amor (2022)
 http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/258731.mp4
 #EXTINF:-1 tvg-id="" tvg-name="13: O Musical (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ndpRWh8iOvckVtHptIsD4OtayN.jpg" group-title="Filmes: Lancamentos 2022",13: O Musical (2022)
 http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/250720.mp4
@@ -6987,6 +7051,22 @@ http://7go.xyz:8080/zogbi11/982451290/116623
 ############## RELIGIOSOS ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeRELIGIOSOS" group-title="
 
+#EXTINF:-1 tvg-id="" tvg-name="TV TEMPO DE VITÓRIA"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi_vv3prFCiRdti3kQlGCfVimtC0AFlHma4sAGIUpLAjhRQxq4sJbSa67mtFSoleWdmkkfbXGdl5UU1UkSo_yzgJ--j9fGSY2S-hzX7lMDPNHRc6HVSQ6Vp4lQxuWD_tewwLW1rMKY_3Mu0o5r6-I4ENhrLVq60srPZxSTiagEEUz49mFCycta0lHB/s200/TV%20TEMPO%20DE%20VIT%C3%93RIA.jpg" group-title="RELIGIOSOS",TV TEMPO DE VITÓRIA
+https://5cf4a2c2512a2.streamlock.net/tempodevitoria/tempodevitoria/chunklist_w333621650.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IMPD"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpnRko9zmDWDO1Iuy3idC4GYBY_1dertzmtAAc3mR7YXIo7E_AaxmCgdnpw8YdHrrjN8-LfVWXe9NnqsJYydiEpuR-hH5dw9jG578SwS9CqHxgN2Zu8y6B4KDc2C12TI51jKiEjGE4ZoCzz8vY2YqeNeANLsQCMMW2f3YGgstZ_Coh7OEhKBZRAyoN/s200/IMPD%20TV.jpg" group-title="RELIGIOSOS",IMPD
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/chunklist_w399145978_b1196000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tvuniversal"tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/66/Logotipo_da_TV_Universal.png" group-title="RELIGIOSOS",tvuniversal
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_404abe9b-14c1-47a8-acb8-a80c7a0a6968.m3u8
+#EXTINF:-1 tvg-id="TV AMOR ETERNO" tvg-name="TV AMOR ETERNO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXesi4XfVFrmM4L9qEKD82EQlUuLFx1fCT7dSJaiSR3X7Il9qWeEzrvs0yi3WDkmKI6pPKb1Zl8_0CqpPpEJLBbeoI3QVL9CSQa9285H6gmXEe_j52u_Mj94pkpbC3TqDqUEpYxw0wYwjCi7EynGWlVDYosn3i_NQw4B6P4_P8y0J43oKIz9IlzjgR/s200/WEB%20TV%20AMOR%20ETERNO.jpg" group-title="RELIGIOSOS",TV AMOR ETERNO
+https://stmv1.srvif.com/amoreterno/amoreterno/chunklist_w1809899050.m3u8
+#EXTINF:-1 tvg-id="PELA FÉ TV GOSPEL" tvg-name="PELA FÉ TV GOSPEL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPs3lWBdoD4wSQFKNFgvPHzo-9lvKw_dCOSB3D5t68JzcmUmbSeaD59h5-uAZIBc7Dnxd0CKVIGmRWxO8S5hmgFq7Y-Kmy1kJzCzG6SeVvlBp7XpoUpn4aRjm1j1IEsuCml6anA4c0-vEMp90HTjSrGwIzEBtfYVk39D061fSgXOuLN97xTTZBQIbe/s200/PELA%20F%C3%89%20TV%20GOSPEL.jpg" group-title="RELIGIOSOS",PELA FÉ TV GOSPEL
+https://stmv1.samcast.com.br/pelafetv/pelafetv/chunklist_w1521544827.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLENITUDE TV"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyCE-U_CHPIK5-KLTDlV50xZGwmGlsolBEvbGrSzf8gouhoKszMMVIUrPPED0dBNeHfWD0wb-5fZ7AcX5OVO4xOGV-kokUAOyFJihTvHzGlVyzY0oPJ-BjHo_4TA58XMKOYVi4fQXR_izws_PZ_f7IqW0QiPBU-30wBmnPZI42sN5GAO_cWAIjJyIW/s200/PLENITUDE%20TV.jpg" group-title="RELIGIOSOS",PLENITUDE TV
+https://meupainel.top:1936/iaptd/iaptd/chunklist_w1541570558.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV CRISTO VIVE"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj43B3eeKqX1hEpEwsXBUzzzfF-Q8UrpGgbXwcK24CZTQV93NuucXILsm_ebBaBaG_fkkoaMlUi0OIuIbRbV6BzO0b-DS12eFX6zSk-vbzU5MdWURMnY2EQPGe6eVOS83zhBZQY2gz5MagwGIgpq4ZO659uwe9flcJmxjWn9lO-L_wMsVU-YchP59Ws/s200/TV%20CRISTO%20VIVE.jpg" group-title="RELIGIOSOS",TV CRISTO VIVE
+https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/chunklist_w1651966114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Missão"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyxbjHgxlzRbR1J7V0WBcp8FW0j8qncoRufmSPpv-o_XPfjAVrcEgcuzRie3_pUxf0PAUB3s_rng7Vd7BLuhUr51eBODanGB2nHfp6fSEQ29w99QIbAfkgvyEarNkOSgxbaudAUOKPD3moQNtLl4J7nZCIrgrSHTMbkL3qzoeUh_wdYB2cbluE8NWt/s200/TV%20MISS%C3%83O.jpg" group-title="RELIGIOSOS",TV Missão
+https://59f1cbe63db89.streamlock.net:1443/canalmissionario/_definst_/canalmissionario/chunklist_w542780058.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" topmixtv  " tvg-logo="http://www.topmixtv.com.br/wp-content/uploads/2023/01/topmixtvlogocapa2.png" group-title="RELIGIOSOS",topmixtv
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w32285497.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="  Novo Tempo TV online " tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/f/f5/Tvnovotempo.jpg/revision/latest?cb=20160619201050&path-prefix=pt-br" group-title="RELIGIOSOS",Novo Tempo TV online
@@ -7159,6 +7239,27 @@ http://7go.xyz:8080/movie/zogbi11/982451290/50082.mp4
 http://7go.xyz:8080/movie/zogbi11/982451290/50083.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 6 (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yeF9WQvxHRrJnr5fGEfnzDpn4pA.jpg" group-title=" FILMES | COLETÂNEA VELOZES E FURIOSOS",Velozes  Furiosos 6 (2013)
 http://7go.xyz:8080/movie/zogbi11/982451290/41266.mp4
+
+#EXTM3U url-tvg="http://grade-de- Serie FUBAR.xml"
+############## Serie FUBAR ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSerie FUBAR" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="01 Dia de levar a filha para o trabalho S01 E01" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="Serie FUBAR",01 Dia de levar a filha para o trabalho S01 E01
+https://ia902707.us.archive.org/14/items/royal-flush-a-9-a-10/01Dia%20de%20levar%20a%20filha%20para%20o%20trabalhoA01A02.mp4
+#EXTINF:-1 tvg-id="" tvg-name="02 Trem roubado S01 E02" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="Serie FUBAR",02 Trem roubado S01 E02
+https://ia902707.us.archive.org/14/items/royal-flush-a-9-a-10/02Trem%20roubado%20A03A04.mp4
+#EXTINF:-1 tvg-id="" tvg-name="03 Isca S01 E03 " tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="Serie FUBAR",03 Isca S01 E03 
+https://ia802707.us.archive.org/14/items/royal-flush-a-9-a-10/03Isca%20A05A06%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="0 4Armado e Perigoso S01 E04" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="Serie FUBAR",04 Armado e Perigoso S01 E04
+https://ia802707.us.archive.org/14/items/royal-flush-a-9-a-10/04Armado%20e%20Perigoso%20A07A08.mp4
+#EXTINF:-1 tvg-id="" tvg-name="05 Hoje aqui, amanhã quem sabe S01 E05" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="Serie FUBAR",05 Hoje aqui, amanhã quem sabe S01 E05
+https://ia802707.us.archive.org/14/items/royal-flush-a-9-a-10/05Hoje%20aqui%2C%20amanh%C3%A3%20quem%20sabe%20A09A10.mp4
+#EXTINF:-1 tvg-id="" tvg-name="00 6Royal Flush S01 E06" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="Serie FUBAR",006 Royal Flush S01 E06
+https://ia902707.us.archive.org/14/items/royal-flush-a-9-a-10/006Royal%20Flush%20A11A12.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007 Urina da Sorte S01 E07" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="Serie FUBAR",007 Urina da Sorte S01 E07
+https://ia802707.us.archive.org/14/items/royal-flush-a-9-a-10/007Urina%20da%20Sorte%20A13A14.mp4
+#EXTINF:-1 tvg-id="" tvg-name="08 É isso, e acabou S01 E08" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="Serie FUBAR",08 É isso, e acabou S01 E08
+https://ia902707.us.archive.org/14/items/royal-flush-a-9-a-10/08%C3%89%20isso%2C%20e%20acabou%20A15A16.mp4
 
 #EXTM3U url-tvg="http://grade-de-SÉRIES | ANIMESs.xml"
 ############## SÉRIES | ANIMES ################# 
@@ -7631,90 +7732,6 @@ http://7go.xyz:8080/series/zogbi11/982451290/231737.mp4
 http://7go.xyz:8080/series/zogbi11/982451290/231738.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S03 E09" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S03 E09
 http://7go.xyz:8080/series/zogbi11/982451290/231739.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E01" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E01
-http://7go.xyz:8080/series/zogbi11/982451290/158466.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E02" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E02
-http://7go.xyz:8080/series/zogbi11/982451290/158467.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E03" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E03
-http://7go.xyz:8080/series/zogbi11/982451290/158468.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E04" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E04
-http://7go.xyz:8080/series/zogbi11/982451290/158469.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E05" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E05
-http://7go.xyz:8080/series/zogbi11/982451290/158470.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E06" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E06
-http://7go.xyz:8080/series/zogbi11/982451290/158471.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E07" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E07
-http://7go.xyz:8080/series/zogbi11/982451290/158472.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E08" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E08
-http://7go.xyz:8080/series/zogbi11/982451290/158473.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E09" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E09
-http://7go.xyz:8080/series/zogbi11/982451290/158474.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E10" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E10
-http://7go.xyz:8080/series/zogbi11/982451290/158475.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E11" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E11
-http://7go.xyz:8080/series/zogbi11/982451290/158476.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E12" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E12
-http://7go.xyz:8080/series/zogbi11/982451290/158477.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E13" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E13
-http://7go.xyz:8080/series/zogbi11/982451290/158478.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E14" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E14
-http://7go.xyz:8080/series/zogbi11/982451290/158479.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E15" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E15
-http://7go.xyz:8080/series/zogbi11/982451290/158480.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E16" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E16
-http://7go.xyz:8080/series/zogbi11/982451290/158481.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E17" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E17
-http://7go.xyz:8080/series/zogbi11/982451290/158482.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E18" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E18
-http://7go.xyz:8080/series/zogbi11/982451290/158483.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E19" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E19
-http://7go.xyz:8080/series/zogbi11/982451290/158484.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E20" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E20
-http://7go.xyz:8080/series/zogbi11/982451290/158485.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E21" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E21
-http://7go.xyz:8080/series/zogbi11/982451290/158486.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E22" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E22
-http://7go.xyz:8080/series/zogbi11/982451290/158487.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E23" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E23
-http://7go.xyz:8080/series/zogbi11/982451290/158488.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E24" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E24
-http://7go.xyz:8080/series/zogbi11/982451290/158489.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E25" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E25
-http://7go.xyz:8080/series/zogbi11/982451290/158490.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E26" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E26
-http://7go.xyz:8080/series/zogbi11/982451290/158491.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E27" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E27
-http://7go.xyz:8080/series/zogbi11/982451290/158492.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E28" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E28
-http://7go.xyz:8080/series/zogbi11/982451290/158493.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E29" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E29
-http://7go.xyz:8080/series/zogbi11/982451290/158494.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E30" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E30
-http://7go.xyz:8080/series/zogbi11/982451290/158495.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E31" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E31
-http://7go.xyz:8080/series/zogbi11/982451290/158496.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E32" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E32
-http://7go.xyz:8080/series/zogbi11/982451290/158497.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E33" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E33
-http://7go.xyz:8080/series/zogbi11/982451290/158498.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S05 E01" tvg-logo="http://7online.xyz:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S05 E01
-http://7go.xyz:8080/series/zogbi11/982451290/231740.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S05 E02" tvg-logo="http://7online.xyz:8080/images/f3f0af70e821c238e36ceb1a8d7ee9c0.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S05 E02
-http://7go.xyz:8080/series/zogbi11/982451290/231741.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S05 E03" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S05 E03
-http://7go.xyz:8080/series/zogbi11/982451290/231742.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S05 E04" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S05 E04
-http://7go.xyz:8080/series/zogbi11/982451290/231743.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S05 E05" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S05 E05
-http://7go.xyz:8080/series/zogbi11/982451290/231744.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S05 E06" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S05 E06
-http://7go.xyz:8080/series/zogbi11/982451290/231745.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S05 E07" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S05 E07
-http://7go.xyz:8080/series/zogbi11/982451290/231746.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S05 E08" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S05 E08
-http://7go.xyz:8080/series/zogbi11/982451290/231747.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S05 E09" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S05 E09
-http://7go.xyz:8080/series/zogbi11/982451290/231748.mp4
 
 #EXTM3U url-tvg="http://grade-de-SÉRIES | NCIS Havaí.xml"
 ############## SÉRIES | NCIS Havaí  ################# 
@@ -7999,222 +8016,6 @@ http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97816.mp4
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97817.mp4
 #EXTINF:-1 tvg-name="CSI: Miami S05E24" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVbH0JOz0hhfEgRzyluBPlLFinF7TED2FgAb-sRoZ9Usg.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S05E24
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97818.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S06E01" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWBlPY2UpkKjPfUcIefKg9TDfXih1NFE5ZXlF6AFaf609yx9_592SYvisk64eJFRbY.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S06E01
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97819.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S06E02" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWBlPY2UpkKjPfUcIefKg9TDfXih1NFE5ZXlF6AFaf609yx9_592SYvisk64eJFRbY.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S06E02
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97820.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S06E03" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXnThILOv-AjjnuGevgNh0KgLr_A0ozno_4tb94AvQoDU2pOs2903CHD1y-q7aJ1qo.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S06E03
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97821.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S06E04" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQV3_fSsIDEbDYaijc1Oi-0oXB60KtP6k8l47rU6gYw2DVze3Oof0PXGjP8sarKN-XI.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S06E04
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97822.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S06E05" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUGJaJQolUwRW0GKBscSnQc5RVh1sndMwNagoqEVh-k_mwMvbNWG6Y7EzG-FxWi4TY.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S06E05
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97823.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S06E06" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVi79EBn6XCzgW7uUw6VTYZUEFHPVHzc3BAax7EuDlhs_KcPmDZlfPLTeSPw6WVcCY.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S06E06
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97824.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S06E07" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVZrCRMIBU-0MPgN9MufVGNHKFWkk_FNqjWR6xXNax1QdtbyDQp5SCwGFhk81GVyx8.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S06E07
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97825.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S06E08" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVDx_SU4SmLVUl7WYuvEF5neDj5Vpf7cY_prir3iXKoc3xcNpq1zdRfrq2sFGMve60.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S06E08
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97826.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S06E09" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWont29Q3qVNHz2r2tUsz6f-xj5JSBX9BAnJ-FY3PPQHl4DUMYwWeeUOsXegLr3Kg0.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S06E09
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97827.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S06E10" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVtOUXhhsZfiIbyf0WohPLnhq2I8BZwAWmZM4UbX1nMtU9pq1HrwRTOTQMM33xQYI8.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S06E10
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97828.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S06E11" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUfxE0Awqwtis89O6EVqgk_ltaA6P2iBQu50LSmBEc9bAb5wOPmW8wMVIItTB-ceMg.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S06E11
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97829.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S06E12" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUBzDaLv3PNtE2_smuwxdVVa0-7m_vEgW-PAfQXX8VzqoSyhJv9Rd0Fb5CIPka0YHs.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S06E12
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97830.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S06E13" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQU5TV-aYGWNhzJgWMUXpDu_zm7jjo-oV4kUH0yjjON1s26lETAzMyRzqvgu_1dEvTo.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S06E13
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97831.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S06E14" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQX8hjC1UMgPOIXYscdCi7VW4w8mAdJawB0kTDkHEmQ4Z6tNH_OAuJ7OPbFSntZahKY.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S06E14
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97832.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S06E15" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVmjjkcXgktnyYuY9cJHAUhQcn_BbknLe7qdZmb7tyQ_Aa2e06_mCknib2yBbBsEi8.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S06E15
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97833.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S06E16" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUbTunZjyFg6ircBhVTth21WPrQ367UF4hSHl4Beu6w_0tZWAM7yL9M5ccPYQQYWS0.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S06E16
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97834.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S06E17" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWFcPTCnquyFUewvmT88QA82axspt5JsJz9_v9CPt7omA.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S06E17
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97835.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S06E18" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQW_EO-7UnAG0AQwKMbayalHk5Vk0wQMfZjYicXIDveezgRZuLeinx5pdMK2Nw0z040.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S06E18
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97836.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S06E19" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVi0bnhagpcm6GJR6RGCOrQA-Ro6X-5jZEVHv-EI9NKzqtwdxVrbnwNVHFTPa_qELg.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S06E19
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97837.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S06E20" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVjM_9QJT9DxkBSD6rd2yR0DoPb4X2okMXyyhQT8Pxst0MKdjJWr4abdLyDJy26L5E.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S06E20
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97838.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S07E01" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXfvM3HfZvWC7W77lal9f4LAOQp0QeuDCeVgvqIdcWtBdAp_1uRxGvTq1l9OKd3KIA.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E01
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97839.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S07E02" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQV7TcRLYewYdA6g-f_a6Pbgw_8Up1LfpWgGYO5LE9r4AIZxe-4BqrXG3cNjRJKy4z0.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E02
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97840.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S07E03" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQV2Cokrd1PCep4jcRePANfSPEosBML8r69Rr55YIs20pofin8GhomsbZfn33ua75U0.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E03
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97841.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S07E04" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXKkJTq0VD0cvmDEVUVyCjRf_mGBWmyKVZGLRcxebW0JH_2qmQq6wvmBaLvX1f_y1Q.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E04
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97842.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S07E05" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVe01TRu357-rPCR7UXXLgfR4FRiEcgz9ow-KNkVa_5phdp8O2IQYrgchr0QVYuJ-k.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E05
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97843.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S07E06" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVe01TRu357-rPCR7UXXLgfR4FRiEcgz9ow-KNkVa_5phdp8O2IQYrgchr0QVYuJ-k.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E06
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97844.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S07E07" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUGwHC_LIlkJw76R1eoHWO8gdjPdP_xofNARfbnNvkEfofqp9ytDS7sS7UWYNK_iPM.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E07
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97845.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S07E08" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQX4r_HqHZ9u31ILE7cP_bFM4w4b4g8slTGTVG3W0PNpNaqu_p2T5kfao5Fe6z0pw3U.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E08
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97846.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S07E09" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUHaLkKUnB62O5Om3SjUkfZvxWLmP9FbWeyOds4RwokcqoYAnXhQodkn5uYqyXkt1E.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E09
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97847.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S07E10" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUHaLkKUnB62O5Om3SjUkfZvxWLmP9FbWeyOds4RwokcqoYAnXhQodkn5uYqyXkt1E.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E10
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97848.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S07E11" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUHaLkKUnB62O5Om3SjUkfZvxWLmP9FbWeyOds4RwokcqoYAnXhQodkn5uYqyXkt1E.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E11
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97849.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S07E12" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUHaLkKUnB62O5Om3SjUkfZvxWLmP9FbWeyOds4RwokcqoYAnXhQodkn5uYqyXkt1E.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E12
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97850.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S07E13" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUHaLkKUnB62O5Om3SjUkfZvxWLmP9FbWeyOds4RwokcqoYAnXhQodkn5uYqyXkt1E.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E13
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97851.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S07E14" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWz7hwmdvOZ9hqnKGgI67ss7g6IBjCUc4aU4ISqi8L_wTQi-dsRO1YI5NJ7g4860cY.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E14
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97852.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S07E15" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQX09ceGcp8XHkvWl-LhEX2Pf0Up83TmX2KrJtCmlqs8cjc3e2l3fUYu3f4StpHf30U.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E15
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97853.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S07E16" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVbtP37JfydVlWefMcp2qC6hvStapRDLE7nch-o6_HIMNPz-AzXzmJJt5mi_0928b4.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E16
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97854.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S07E17" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUlo5xLXcQPpPlsc_Q8ZM3KL416iUXiTEzLJEY2twyAykVP0Te21K8-O4QjmKeUlcc.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E17
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97855.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S07E18" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQX5aqksS-MK12ICjTeoQx0feRMqYQSXO-mO5UZ3P1x9BkUNCs7lQk8PqtINRTPKeuo.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E18
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97856.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S07E19" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQX5aqksS-MK12ICjTeoQx0feRMqYQSXO-mO5UZ3P1x9BkUNCs7lQk8PqtINRTPKeuo.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E19
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97857.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S07E20" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQX5aqksS-MK12ICjTeoQx0feRMqYQSXO-mO5UZ3P1x9BkUNCs7lQk8PqtINRTPKeuo.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E20
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97858.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S07E21" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQX5aqksS-MK12ICjTeoQx0feRMqYQSXO-mO5UZ3P1x9BkUNCs7lQk8PqtINRTPKeuo.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E21
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97859.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S07E22" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQX5aqksS-MK12ICjTeoQx0feRMqYQSXO-mO5UZ3P1x9BkUNCs7lQk8PqtINRTPKeuo.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E22
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97860.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S07E23" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQX5aqksS-MK12ICjTeoQx0feRMqYQSXO-mO5UZ3P1x9BkUNCs7lQk8PqtINRTPKeuo.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E23
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97861.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S07E24" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUsUFTHfXuhR_6NTiYit358qvs7JoCP6Wj1D5TznBLKrgz_Cf36Cyk4fChCJmIdG5E.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E24
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97862.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S07E25" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUsUFTHfXuhR_6NTiYit358qvs7JoCP6Wj1D5TznBLKrgz_Cf36Cyk4fChCJmIdG5E.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E25
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97863.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S08E01" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUsUFTHfXuhR_6NTiYit358qvs7JoCP6Wj1D5TznBLKrgz_Cf36Cyk4fChCJmIdG5E.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E01
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97864.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S08E02" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUsUFTHfXuhR_6NTiYit358qvs7JoCP6Wj1D5TznBLKrgz_Cf36Cyk4fChCJmIdG5E.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E02
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97865.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S08E03" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUsUFTHfXuhR_6NTiYit358qvs7JoCP6Wj1D5TznBLKrgz_Cf36Cyk4fChCJmIdG5E.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E03
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97866.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S08E04" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUsUFTHfXuhR_6NTiYit358qvs7JoCP6Wj1D5TznBLKrgz_Cf36Cyk4fChCJmIdG5E.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E04
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97867.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S08E05" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUsUFTHfXuhR_6NTiYit358qvs7JoCP6Wj1D5TznBLKrgz_Cf36Cyk4fChCJmIdG5E.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E05
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97868.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S08E06" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUsUFTHfXuhR_6NTiYit358qvs7JoCP6Wj1D5TznBLKrgz_Cf36Cyk4fChCJmIdG5E.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E06
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97869.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S08E07" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUsUFTHfXuhR_6NTiYit358qvs7JoCP6Wj1D5TznBLKrgz_Cf36Cyk4fChCJmIdG5E.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E07
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97870.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S08E08" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUsUFTHfXuhR_6NTiYit358qvs7JoCP6Wj1D5TznBLKrgz_Cf36Cyk4fChCJmIdG5E.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E08
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97871.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S08E09" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUsUFTHfXuhR_6NTiYit358qvs7JoCP6Wj1D5TznBLKrgz_Cf36Cyk4fChCJmIdG5E.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E09
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97872.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S08E10" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUsUFTHfXuhR_6NTiYit358qvs7JoCP6Wj1D5TznBLKrgz_Cf36Cyk4fChCJmIdG5E.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E10
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97873.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S08E11" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUsUFTHfXuhR_6NTiYit358qvs7JoCP6Wj1D5TznBLKrgz_Cf36Cyk4fChCJmIdG5E.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E11
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97874.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S08E12" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E12
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97875.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S08E13" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E13
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97876.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S08E14" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E14
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97877.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S08E15" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E15
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97878.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S08E16" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E16
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97879.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S08E17" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E17
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97880.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S08E18" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E18
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97881.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S08E19" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E19
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97882.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S08E20" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E20
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97883.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S08E21" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E21
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97884.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S08E22" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E22
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97885.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S08E23" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E23
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97886.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S08E24" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E24
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97887.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S09E01" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S09E01
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97888.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S09E02" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S09E02
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97889.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S09E03" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S09E03
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97890.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S09E04" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S09E04
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97891.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S09E05" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S09E05
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97892.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S09E06" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S09E06
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97893.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S09E07" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S09E07
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97894.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S09E08" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S09E08
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97895.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S09E09" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S09E09
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97896.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S09E10" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S09E10
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97897.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S09E11" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S09E11
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97898.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S09E12" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S09E12
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97899.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S09E13" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S09E13
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97900.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S09E14" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S09E14
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97901.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S09E15" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWJeidvcXMyNiTp4aEnfMpLBk1W67lWoOh3LZG3uHBA2zfEM-X3nbDlYMWFBhUDa3k.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S09E15
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97902.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S09E16" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWJeidvcXMyNiTp4aEnfMpLBk1W67lWoOh3LZG3uHBA2zfEM-X3nbDlYMWFBhUDa3k.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S09E16
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97903.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S09E17" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXNVNJ1cmtvR_IwFsX1bYg9yCH0HkKlvqZl_QtR27bkCkj9Nlpyx8xWHJOFFIk9xP4.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S09E17
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97904.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S09E18" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUsnXgRnrAFJdmOmrtlvUNLtyB2NrN3B9bTsO_d3UH8Ya0tk1ByBXEEL3YHDEDxITg.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S09E18
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97905.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S09E19" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUfbNpxWIg7O4Se9WiTaqLEq0zB2x4y5F0GQgm5fmTFWda-loXV6slHMq_UBog0fC8.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S09E19
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97906.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S09E20" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVkBff5jM3n5lE9CyqY7J4yr5mnpPDZly7gAbDEb70mhritjZO2b_aOGNfL_lnCCyg.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S09E20
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97907.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S09E21" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQURJ0EFlPrxH9jmbUaOfbZASz3Q1162T1y6FvwC6mbuVGABPkAqwZud2WkV-ZPcUEY.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S09E21
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97908.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S09E22" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVoI5PFJaEU9xLJu-l37u-UN-p6wsQ83TwK8MgVvXlUVw.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S09E22
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97909.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S10E01" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVVqkV7BuFTEVtJ-D2ex5eHlJ60JHWtl2mrrzSOinsEvaogtJazScbv2EV2dCMykHI.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S10E01
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97910.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S10E02" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVVqkV7BuFTEVtJ-D2ex5eHlJ60JHWtl2mrrzSOinsEvaogtJazScbv2EV2dCMykHI.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S10E02
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97911.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S10E03" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVVqkV7BuFTEVtJ-D2ex5eHlJ60JHWtl2mrrzSOinsEvaogtJazScbv2EV2dCMykHI.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S10E03
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97912.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S10E04" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVVqkV7BuFTEVtJ-D2ex5eHlJ60JHWtl2mrrzSOinsEvaogtJazScbv2EV2dCMykHI.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S10E04
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97913.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S10E05" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQU6-ZeJBZpabPPIFubcrqbngB2F2sa2yCYFxO4nva9Pl0CWuZBskWH3ZcMqcps99Ko.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S10E05
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97914.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S10E06" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQU6-ZeJBZpabPPIFubcrqbngB2F2sa2yCYFxO4nva9Pl0CWuZBskWH3ZcMqcps99Ko.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S10E06
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97915.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S10E07" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVTxpPhsSTogi2koqS-xxzpkhqjCU0TodhSrzdmjwVBnux2dDOWRI7gbZwFQ7Wb5aM.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S10E07
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97916.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S10E08" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQW4b1mgpadfae_3YOqDWVJhUWGDhnKM5mTHwojQJNq7z9tOoRtj34lglcYK8hJff9k.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S10E08
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97917.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S10E09" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUGvRzOuJU8f2OMUC2sQ8aUYyDzGHB35KLyZyXFZ3p1zURzAwLbDmTRKD_mxomZj6A.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S10E09
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97918.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S10E10" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUGvRzOuJU8f2OMUC2sQ8aUYyDzGHB35KLyZyXFZ3p1zURzAwLbDmTRKD_mxomZj6A.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S10E10
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97919.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S10E11" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUGvRzOuJU8f2OMUC2sQ8aUYyDzGHB35KLyZyXFZ3p1zURzAwLbDmTRKD_mxomZj6A.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S10E11
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97920.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S10E12" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUGvRzOuJU8f2OMUC2sQ8aUYyDzGHB35KLyZyXFZ3p1zURzAwLbDmTRKD_mxomZj6A.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S10E12
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97921.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S10E13" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUGvRzOuJU8f2OMUC2sQ8aUYyDzGHB35KLyZyXFZ3p1zURzAwLbDmTRKD_mxomZj6A.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S10E13
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97922.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S10E14" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUGvRzOuJU8f2OMUC2sQ8aUYyDzGHB35KLyZyXFZ3p1zURzAwLbDmTRKD_mxomZj6A.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S10E14
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97923.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S10E15" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQW7yXVZD3WkIe_jloUxcbaG6B_kAJTHejfzTIU5WyWp0zWZ0l0DhEAF3HQafeJJwPo.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S10E15
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97924.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S10E18" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUmtVjSnL63vYgeYlx2nm198rodowtVxSc8LxT6wMFlZpABxz-4W1xj4Vy-v1dVxTQ.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S10E18
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97927.mp4
-#EXTINF:-1 tvg-name="CSI: Miami S10E19" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQW-fiuOPiRnlJ0Limo3Oy5yvip7GdIfFGY37G8DMbbPyS_vJPRCycKLXYmBzUXPmxk.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S10E19
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138772266.mp4
 
 #EXTM3U url-tvg="http://grade-de-SÉRIES | DIVERSAS.xml"
 ############## SÉRIES | DIVERSAS  ################# 
@@ -8261,58 +8062,7 @@ http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/73968.mp4
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/73969.mp4
 #EXTINF:-1 tvg-name="Inferno Sobre Rodas S02E10" tvg-logo="https://image.tmdb.org/t/p/w300/7oBf78h4nEBmcJRvk9xSzBFVoSH.jpg" group-title="SÉRIES | DIVERSAS",Inferno Sobre Rodas S02E10
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/73970.mp4
-#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E01" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL43EMay8V3Yff0rZI7WKPvJh0mpO7d9-icVWnwX-vXKY.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E01
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773391.mp4
-#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E02" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL-Cy4xuizxMbw-bvHMfJ4S4XOB9MvNqCqSB33mjFbLU8.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E02
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773392.mp4
-#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E03" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLg6OVmz050JK407dh7E-6xZrsBlCuvNXYFL6tLwhEKUQ.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E03
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773393.mp4
-#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E04" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLoLgDblOGGFf2gB5gd-tmLtOzx9LIjex39Nya4OWS_C0.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E04
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773394.mp4
-#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E05" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLfazGpCfwuxeDin1w3vrpifdd3mLuliRNtjZ_hUSi7aU.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E05
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773395.mp4
-#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E06" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLUkFK6d5L-kyO3mNB55lEkuuGtgvX8lPPK6WVIUPSL-M.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E06
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773396.mp4
-#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E07" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLrVUssVwa5-gLWKlCjLiiRJlFLF9celOyy9a-gb6V8dc.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E07
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773397.mp4
-#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E08" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLhLGUIHQ5rE-bVda4WeFnSzRbQ8S6x1NkmdPzkguMGWo.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E08
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773398.mp4
-#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E09" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLY2Yjw4vf24v__LyCiI_WM9yt2tKWok45x6CDfKtDa7k.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E09
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773399.mp4
-#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E10" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLxwCO-2PhAeAI4l1bzKSVlGcCSnfb5wvZDAn2r7IUvWk.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E10
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773400.mp4
-#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E11" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLRVJO-63CcZxBNYMGaGJQmgGHMw_sQohQbf8jpZCfjS8.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E11
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773401.mp4
-#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E12" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLLONdsSkwAu42MESQQX7TnRmTASAVnvgk3JDcjYATtkw.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E12
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773402.mp4
-#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E13" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLWEEn-NMQ0xrGTUER37jfl_vkLJeD-0wZQFUtP23oIMY.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E13
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773403.mp4
-#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E14" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLD8G4NTceR83_OAYX5civyDnrBP_oRMCsJqh-hlxA6Fg.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E14
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773404.mp4
-#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E15" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLO9qrLSLV_Xsy1REbVAbInJ4yEwnh1wQVJcCts22rxTs.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E15
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773405.mp4
-#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E16" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzKax0BbbhnTwWLPD5MHT2qmtKyEd942tNnluG9BjHe0.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E16
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773406.mp4
-#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E17" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLj5eKuu6QSlPiO-TECNsP86BJPIcUiQlYrj5cHiBBsJg.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E17
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773407.mp4
-#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E18" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLCtTlPd-L700E27QSG_cCgpOhLWS9-5xJTHZhyhxWV2o.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E18
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773408.mp4
-#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E19" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL1a3I3CiyfYb54EErgTUOlyeY-QeojEuFzaJoNhnP6w8.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E19
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773409.mp4
-#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E20" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLhZMKOKXpNfGdAX-1JJuhqtL0avHTe4Y2ElGL9OLoNzo.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E20
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773410.mp4
-#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E21" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL6AgmZIiG8TacQCyRaYAJwS_ivC-k9SIaJMn2IlfT1S0.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E21
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773411.mp4
-#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E22" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLkS7tnPfROlO-vU4hR00McD3enN4G0fjvMlu3q0ycgtg.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E22
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773412.mp4
-#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E23" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLWmLpmaPBWXRrdo3DOIFdVAY5EWCTvvem_JFQ93BQRNg.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E23
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773413.mp4
-#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E24" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLR9O5pzS09EhOUh3sAdQ9RN-8hcMSxTFOYAVz7CNddLo.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E24
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773414.mp4
-#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E25" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLv94UbnU70OObbDRFoyEO68Ce_ikVfrCyG86UwQ7wL2s.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E25
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773415.mp4
-#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E26" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLPU__PazQFW6AEMozNnW5oqRhB8dyKq2E0B7VCorMr5k.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E26
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773416.mp4
+
 #EXTINF:-1 tvg-name="O Mentalista S01E01" tvg-logo="https://image.tmdb.org/t/p/w300/jDP0SSNdjDO6NANoZA8q1ps5khm.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S01E01
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98405.mp4
 #EXTINF:-1 tvg-name="O Mentalista S01E02" tvg-logo="https://image.tmdb.org/t/p/w300/7VErwt3ZsyBjcLAXzCy1EJ39NZJ.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S01E02
@@ -8609,128 +8359,6 @@ http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/104389.mp4
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/104390.mp4
 #EXTINF:-1 tvg-name="O Mentalista S07E12" tvg-logo="https://image.tmdb.org/t/p/w300/tE6WZnyyS6HI39sh24wZWIeNmd5.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S07E12
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/104391.mp4
-
-#EXTINF:-1 tvg-name="Greenleaf S01E01" tvg-logo="https://image.tmdb.org/t/p/w300/ilYQgIHtY3S6MWzrY7kaMazIMhA.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S01E01
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98282.mp4
-#EXTINF:-1 tvg-name="Greenleaf S01E02" tvg-logo="https://image.tmdb.org/t/p/w300/bdlY9CzIdIp7kKRyX2nih7XxYAY.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S01E02
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98283.mp4
-#EXTINF:-1 tvg-name="Greenleaf S01E03" tvg-logo="https://image.tmdb.org/t/p/w300/d0d0x3urU6frKhUHyD9GqOhIFZf.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S01E03
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98284.mp4
-#EXTINF:-1 tvg-name="Greenleaf S01E04" tvg-logo="https://image.tmdb.org/t/p/w300/pKvfee3zOJFzHimXFzKRGBHwIRG.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S01E04
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98285.mp4
-#EXTINF:-1 tvg-name="Greenleaf S01E05" tvg-logo="https://image.tmdb.org/t/p/w300/amTGTDZOLyJWsGQP8V4qun0nelo.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S01E05
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98286.mp4
-#EXTINF:-1 tvg-name="Greenleaf S01E06" tvg-logo="https://image.tmdb.org/t/p/w300/kUGDDSsa3ycDkP3LVtHiw7kctce.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S01E06
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98287.mp4
-#EXTINF:-1 tvg-name="Greenleaf S01E07" tvg-logo="https://image.tmdb.org/t/p/w300/9gGFO3Vl3uhYKODxZlps2FoupLa.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S01E07
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98288.mp4
-#EXTINF:-1 tvg-name="Greenleaf S01E08" tvg-logo="https://image.tmdb.org/t/p/w300/mm6s7FeLsOpL0depDDm1vxF5rPo.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S01E08
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98289.mp4
-#EXTINF:-1 tvg-name="Greenleaf S01E09" tvg-logo="https://image.tmdb.org/t/p/w300/21nqWQnXjFgaEnby4u0CHDevmWx.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S01E09
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98290.mp4
-#EXTINF:-1 tvg-name="Greenleaf S01E10" tvg-logo="https://image.tmdb.org/t/p/w300/jhKrHA3ut41e0QlkuTqHKWdQSar.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S01E10
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98291.mp4
-#EXTINF:-1 tvg-name="Greenleaf S01E11" tvg-logo="https://image.tmdb.org/t/p/w300/2LFiqDRSqqhaod6mOqFT6ICUObd.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S01E11
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98292.mp4
-#EXTINF:-1 tvg-name="Greenleaf S01E12" tvg-logo="https://image.tmdb.org/t/p/w300/yGvuLlemNi9Gn2bHi22vPpQ86SB.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S01E12
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98293.mp4
-#EXTINF:-1 tvg-name="Greenleaf S01E13" tvg-logo="https://image.tmdb.org/t/p/w300/ioYcoAbARGjg6P5kTi6Opkdamcz.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S01E13
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98294.mp4
-#EXTINF:-1 tvg-name="Greenleaf S02E01" tvg-logo="https://image.tmdb.org/t/p/w300/t5iZ2X9zuLHOTfTBmNn6ajOVLnA.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S02E01
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98295.mp4
-#EXTINF:-1 tvg-name="Greenleaf S02E02" tvg-logo="https://image.tmdb.org/t/p/w300/yjnt6pUussoMHPQfi0UcmkriE3Y.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S02E02
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98296.mp4
-#EXTINF:-1 tvg-name="Greenleaf S02E03" tvg-logo="https://image.tmdb.org/t/p/w300/ubYkaCs90reLCCB4RguTaJK1KM6.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S02E03
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98297.mp4
-#EXTINF:-1 tvg-name="Greenleaf S02E04" tvg-logo="https://image.tmdb.org/t/p/w300/zUkvbmQXKPxOtAnOuv3gAl2vPR3.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S02E04
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98298.mp4
-#EXTINF:-1 tvg-name="Greenleaf S02E05" tvg-logo="https://image.tmdb.org/t/p/w300/44O2uSKYaFqksZWQ0yrUgRG15tW.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S02E05
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98299.mp4
-#EXTINF:-1 tvg-name="Greenleaf S02E06" tvg-logo="https://image.tmdb.org/t/p/w300/wLrO9vYhsTifauWov1LL3iJHWY2.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S02E06
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98300.mp4
-#EXTINF:-1 tvg-name="Greenleaf S02E07" tvg-logo="https://image.tmdb.org/t/p/w300/rjBvAvy5WukPMl2Iu5UQc7E1JPG.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S02E07
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98301.mp4
-#EXTINF:-1 tvg-name="Greenleaf S02E08" tvg-logo="https://image.tmdb.org/t/p/w300/87nvnFV7Jq4ZBSMXvu3TVQyP3N3.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S02E08
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98302.mp4
-#EXTINF:-1 tvg-name="Greenleaf S02E09" tvg-logo="https://image.tmdb.org/t/p/w300/vRgDj43QkyrSepHAkFH3QRFvcHA.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S02E09
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98303.mp4
-#EXTINF:-1 tvg-name="Greenleaf S02E10" tvg-logo="https://image.tmdb.org/t/p/w300/mHgrRYHPAz1UFi74APUig0I3vV2.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S02E10
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98304.mp4
-#EXTINF:-1 tvg-name="Greenleaf S02E11" tvg-logo="https://image.tmdb.org/t/p/w300/l0FKDRBHxZuimVlGmW1x2QebzLf.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S02E11
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98305.mp4
-#EXTINF:-1 tvg-name="Greenleaf S02E12" tvg-logo="https://image.tmdb.org/t/p/w300/bHYIozbgLQOz2szjjxVRRbtvCKZ.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S02E12
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98306.mp4
-#EXTINF:-1 tvg-name="Greenleaf S02E13" tvg-logo="https://image.tmdb.org/t/p/w300/wuuS44qsPMgUbBxC7i9gIRk9tUI.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S02E13
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98307.mp4
-#EXTINF:-1 tvg-name="Greenleaf S02E14" tvg-logo="https://image.tmdb.org/t/p/w300/7s9DbaY8f5yErj88PYrgdlxwIMW.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S02E14
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98308.mp4
-#EXTINF:-1 tvg-name="Greenleaf S02E15" tvg-logo="https://image.tmdb.org/t/p/w300/gpbH26iNcOiKdTexRR2WCyrb8mW.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S02E15
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98309.mp4
-#EXTINF:-1 tvg-name="Greenleaf S02E16" tvg-logo="https://image.tmdb.org/t/p/w300/AjjDX4amjtdTvI7V0OK6FpdDRoT.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S02E16
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98310.mp4
-#EXTINF:-1 tvg-name="Greenleaf S03E01" tvg-logo="https://image.tmdb.org/t/p/w300/a3c68XLJAARYIKWjVWqtmDS4hdL.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S03E01
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98311.mp4
-#EXTINF:-1 tvg-name="Greenleaf S03E02" tvg-logo="https://image.tmdb.org/t/p/w300/rtaqJNJzoxgPKiuucSR2IOmYuL1.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S03E02
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98312.mp4
-#EXTINF:-1 tvg-name="Greenleaf S03E03" tvg-logo="https://image.tmdb.org/t/p/w300/5rUT5ADizvvk0XmXhNAGeoflQ9R.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S03E03
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98313.mp4
-#EXTINF:-1 tvg-name="Greenleaf S03E04" tvg-logo="https://image.tmdb.org/t/p/w300/7LCiJZmYviU7XgglblDX8GEOppx.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S03E04
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98314.mp4
-#EXTINF:-1 tvg-name="Greenleaf S03E05" tvg-logo="https://image.tmdb.org/t/p/w300/883DlHr50ejxqMItyRX1Tdqj9q7.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S03E05
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98315.mp4
-#EXTINF:-1 tvg-name="Greenleaf S03E06" tvg-logo="https://image.tmdb.org/t/p/w300/9AAzH35KWWqqJKBqiQHnaoh9Yg0.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S03E06
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98316.mp4
-#EXTINF:-1 tvg-name="Greenleaf S03E07" tvg-logo="https://image.tmdb.org/t/p/w300/gbBnQlvX3ipT5dsRQWaigbs8Uxm.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S03E07
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98317.mp4
-#EXTINF:-1 tvg-name="Greenleaf S03E08" tvg-logo="https://image.tmdb.org/t/p/w300/6AaGGVtwzCYwWHj8w8dR91MOyMT.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S03E08
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98318.mp4
-#EXTINF:-1 tvg-name="Greenleaf S03E09" tvg-logo="https://image.tmdb.org/t/p/w300/oUcNbpc2VjVDOOjV8Uz2iX97ddE.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S03E09
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98319.mp4
-#EXTINF:-1 tvg-name="Greenleaf S03E10" tvg-logo="https://image.tmdb.org/t/p/w300/dOaGdujolSZDPHXttR0O7N617Ch.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S03E10
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98320.mp4
-#EXTINF:-1 tvg-name="Greenleaf S03E11" tvg-logo="https://image.tmdb.org/t/p/w300/9RIrGinQEZlOiaSCjzIHwk7cox0.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S03E11
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98321.mp4
-#EXTINF:-1 tvg-name="Greenleaf S03E12" tvg-logo="https://image.tmdb.org/t/p/w300/fxqOoZFbFnQM7mtbdTu9geDV85B.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S03E12
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98322.mp4
-#EXTINF:-1 tvg-name="Greenleaf S03E13" tvg-logo="https://image.tmdb.org/t/p/w300/a3mViZ2bzBsU2X5kPf8smckJhCz.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S03E13
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98323.mp4
-#EXTINF:-1 tvg-name="Greenleaf S04E01" tvg-logo="https://image.tmdb.org/t/p/w300/4MpF7fgIXp3VXsuq9CFVUUjQbs4.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S04E01
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98324.mp4
-#EXTINF:-1 tvg-name="Greenleaf S04E02" tvg-logo="https://image.tmdb.org/t/p/w300/4MpF7fgIXp3VXsuq9CFVUUjQbs4.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S04E02
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98325.mp4
-#EXTINF:-1 tvg-name="Greenleaf S04E03" tvg-logo="https://image.tmdb.org/t/p/w300/4MpF7fgIXp3VXsuq9CFVUUjQbs4.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S04E03
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98326.mp4
-#EXTINF:-1 tvg-name="Greenleaf S04E04" tvg-logo="https://image.tmdb.org/t/p/w300/4MpF7fgIXp3VXsuq9CFVUUjQbs4.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S04E04
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98327.mp4
-#EXTINF:-1 tvg-name="Greenleaf S04E05" tvg-logo="https://image.tmdb.org/t/p/w300/4MpF7fgIXp3VXsuq9CFVUUjQbs4.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S04E05
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98328.mp4
-#EXTINF:-1 tvg-name="Greenleaf S04E06" tvg-logo="https://image.tmdb.org/t/p/w300/4MpF7fgIXp3VXsuq9CFVUUjQbs4.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S04E06
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98329.mp4
-#EXTINF:-1 tvg-name="Greenleaf S04E07" tvg-logo="https://image.tmdb.org/t/p/w300/4MpF7fgIXp3VXsuq9CFVUUjQbs4.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S04E07
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98330.mp4
-#EXTINF:-1 tvg-name="Greenleaf S04E08" tvg-logo="https://image.tmdb.org/t/p/w300/4MpF7fgIXp3VXsuq9CFVUUjQbs4.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S04E08
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98331.mp4
-#EXTINF:-1 tvg-name="Greenleaf S04E09" tvg-logo="https://image.tmdb.org/t/p/w300/4MpF7fgIXp3VXsuq9CFVUUjQbs4.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S04E09
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98332.mp4
-#EXTINF:-1 tvg-name="Greenleaf S04E10" tvg-logo="https://image.tmdb.org/t/p/w300/4MpF7fgIXp3VXsuq9CFVUUjQbs4.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S04E10
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98333.mp4
-#EXTINF:-1 tvg-name="Greenleaf S05E01" tvg-logo="https://image.tmdb.org/t/p/w300/3jKoky8T6R0JdiBvWfTJEPq1Nav.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S05E01
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98334.mp4
-#EXTINF:-1 tvg-name="Greenleaf S05E02" tvg-logo="https://image.tmdb.org/t/p/w300/3jKoky8T6R0JdiBvWfTJEPq1Nav.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S05E02
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98335.mp4
-#EXTINF:-1 tvg-name="Greenleaf S05E03" tvg-logo="https://image.tmdb.org/t/p/w300/3jKoky8T6R0JdiBvWfTJEPq1Nav.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S05E03
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98336.mp4
-#EXTINF:-1 tvg-name="Greenleaf S05E04" tvg-logo="https://image.tmdb.org/t/p/w300/3jKoky8T6R0JdiBvWfTJEPq1Nav.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S05E04
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98337.mp4
-#EXTINF:-1 tvg-name="Greenleaf S05E05" tvg-logo="https://image.tmdb.org/t/p/w300/3jKoky8T6R0JdiBvWfTJEPq1Nav.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S05E05
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98338.mp4
-#EXTINF:-1 tvg-name="Greenleaf S05E06" tvg-logo="https://image.tmdb.org/t/p/w300/3jKoky8T6R0JdiBvWfTJEPq1Nav.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S05E06
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98339.mp4
-#EXTINF:-1 tvg-name="Greenleaf S05E07" tvg-logo="https://image.tmdb.org/t/p/w300/3jKoky8T6R0JdiBvWfTJEPq1Nav.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S05E07
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98340.mp4
-#EXTINF:-1 tvg-name="Greenleaf S05E08" tvg-logo="https://image.tmdb.org/t/p/w300/3jKoky8T6R0JdiBvWfTJEPq1Nav.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S05E08
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98341.mp4
-
 #EXTM3U url-tvg="http://grade-de-SÉRIES | DISNEY+.xml"
 ############## SÉRIES | DISNEY+  ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | DISNEY+" group-title="
@@ -8833,22 +8461,6 @@ http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782084.mp4
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782085.mp4
 #EXTINF:-1 tvg-name="Pronto-Socorro Animal S02E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4DpiOBnWTnI7LOfpzupYGavReN.jpg" group-title="SÉRIES | DISNEY+",Pronto-Socorro Animal S02E08
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782086.mp4
-#EXTINF:-1 tvg-name="As Pequenas Coisas da Vida S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6gDrSq8grmaY8TPQPKf8PCaxLC.jpg" group-title="SÉRIES | DISNEY+",As Pequenas Coisas da Vida S01E01
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778137.mp4
-#EXTINF:-1 tvg-name="As Pequenas Coisas da Vida S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHmqoeOrQj9v9Zvw8QQqjFCPpaw.jpg" group-title="SÉRIES | DISNEY+",As Pequenas Coisas da Vida S01E02
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778138.mp4
-#EXTINF:-1 tvg-name="As Pequenas Coisas da Vida S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gK9bcv7nqIEYSiMqG8gyIycPLe3.jpg" group-title="SÉRIES | DISNEY+",As Pequenas Coisas da Vida S01E03
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778139.mp4
-#EXTINF:-1 tvg-name="As Pequenas Coisas da Vida S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkcOhSQcH98aAaXurUmbXsu7Vuu.jpg" group-title="SÉRIES | DISNEY+",As Pequenas Coisas da Vida S01E04
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778140.mp4
-#EXTINF:-1 tvg-name="As Pequenas Coisas da Vida S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQErfy5QuP5iQi0zCvAvM99rnbz.jpg" group-title="SÉRIES | DISNEY+",As Pequenas Coisas da Vida S01E05
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778141.mp4
-#EXTINF:-1 tvg-name="As Pequenas Coisas da Vida S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vWUzHOadJ3SiKDkWQjXsVhURWfX.jpg" group-title="SÉRIES | DISNEY+",As Pequenas Coisas da Vida S01E06
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778142.mp4
-#EXTINF:-1 tvg-name="As Pequenas Coisas da Vida S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vizvR51nvLkGIhVKSzINgUUPly8.jpg" group-title="SÉRIES | DISNEY+",As Pequenas Coisas da Vida S01E07
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778143.mp4
-#EXTINF:-1 tvg-name="As Pequenas Coisas da Vida S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2kugRzI8PRiFy2UHOFtu6PzGF1.jpg" group-title="SÉRIES | DISNEY+",As Pequenas Coisas da Vida S01E08
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778144.mp4
 
 #EXTM3U url-tvg="http://grade-de-SÉRIES | NETFLIX.xml"
 ############## SÉRIES | NETFLIX ################# 
@@ -9218,26 +8830,6 @@ http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138779732.mp4
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138779733.mp4
 #EXTINF:-1 tvg-name="Daniel, o Caçador de Magia S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7xLz6sNiyfJawWhcoTXmJ155Ac.jpg" group-title="SÉRIES | NETFLIX",Daniel, o Caçador de Magia S01E10
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138779734.mp4
-#EXTINF:-1 tvg-name="Os Grandiosos Irmãos Robôs S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHqapPETQWFeIsRtrV4cTbKwVsz.jpg" group-title="SÉRIES | NETFLIX",Os Grandiosos Irmãos Robôs S01E01
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138780921.mp4
-#EXTINF:-1 tvg-name="Os Grandiosos Irmãos Robôs S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5sp71dDKNXmFcMxbspLf1UTavmz.jpg" group-title="SÉRIES | NETFLIX",Os Grandiosos Irmãos Robôs S01E02
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138780922.mp4
-#EXTINF:-1 tvg-name="Os Grandiosos Irmãos Robôs S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrwKgq7UlI52uLu6hJe5EFb2Ab8.jpg" group-title="SÉRIES | NETFLIX",Os Grandiosos Irmãos Robôs S01E03
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138780923.mp4
-#EXTINF:-1 tvg-name="Os Grandiosos Irmãos Robôs S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fR4ShS9IsujA9S4LXPKLeZm9hi5.jpg" group-title="SÉRIES | NETFLIX",Os Grandiosos Irmãos Robôs S01E04
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138780924.mp4
-#EXTINF:-1 tvg-name="Os Grandiosos Irmãos Robôs S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNjcTLhj5hb146pehTwYXXJjNLP.jpg" group-title="SÉRIES | NETFLIX",Os Grandiosos Irmãos Robôs S01E05
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138780925.mp4
-#EXTINF:-1 tvg-name="Os Grandiosos Irmãos Robôs S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxxlGWeaZ3WP1zcVf0LOTyr2zwH.jpg" group-title="SÉRIES | NETFLIX",Os Grandiosos Irmãos Robôs S01E06
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138780926.mp4
-#EXTINF:-1 tvg-name="Os Grandiosos Irmãos Robôs S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/92XqvHo7lc5D30QqHLLAW7HBSrR.jpg" group-title="SÉRIES | NETFLIX",Os Grandiosos Irmãos Robôs S01E07
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138780927.mp4
-#EXTINF:-1 tvg-name="Os Grandiosos Irmãos Robôs S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/na6nHZmZyx8kEY8fogq3efGTeIN.jpg" group-title="SÉRIES | NETFLIX",Os Grandiosos Irmãos Robôs S01E08
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138780928.mp4
-#EXTINF:-1 tvg-name="Os Grandiosos Irmãos Robôs S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/onMP54rURlR9mDktY3AY6MGmp5c.jpg" group-title="SÉRIES | NETFLIX",Os Grandiosos Irmãos Robôs S01E09
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138780929.mp4
-#EXTINF:-1 tvg-name="Os Grandiosos Irmãos Robôs S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPa2n3nl4R2YS0CGhM9V01vX0ae.jpg" group-title="SÉRIES | NETFLIX",Os Grandiosos Irmãos Robôs S01E10
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138780930.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S01 E01" tvg-logo="http://7online.xyz:8080/images/e59bd17a6f1f97b3a4f9bb6779eab0a6.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S01 E01
 http://7go.xyz:8080/series/zogbi11/982451290/217606.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S01 E02" tvg-logo="http://7online.xyz:8080/images/205ab171ba0f574d61f5691b92ea69d3.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S01 E02
@@ -9623,42 +9215,6 @@ http://7go.xyz:8080/series/zogbi11/982451290/210722.mp4
 http://7go.xyz:8080/series/zogbi11/982451290/210723.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E22" tvg-logo="http://7online.xyz:8080/images/ba1b40bd885270ba41e53668b6c4f41c.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E22
 http://7go.xyz:8080/series/zogbi11/982451290/210724.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S08 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hwZVDbsTX4LPq05uFmqzZtQOac.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S08 E01
-http://7go.xyz:8080/series/zogbi11/982451290/313185.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S08 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tW2NEKXWfbY9SRoz8NdYn8ba2VM.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S08 E02
-http://7go.xyz:8080/series/zogbi11/982451290/313186.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S08 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zKfzAkeoss8D8CQcduAWq9DrKkS.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S08 E03
-http://7go.xyz:8080/series/zogbi11/982451290/313187.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S08 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1ksD03IQqlHJc7Y59v8OTvU71eh.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S08 E04
-http://7go.xyz:8080/series/zogbi11/982451290/313188.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S08 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1ffl8vjWhq61blIgiDULlxDjnyP.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S08 E05
-http://7go.xyz:8080/series/zogbi11/982451290/313189.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S08 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5Q9EF22yEsrWlZ4vtvuJTnIL4gG.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S08 E06
-http://7go.xyz:8080/series/zogbi11/982451290/313190.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S08 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t00wIBnuNF0SZQb3EzSjdTQ0Z78.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S08 E07
-http://7go.xyz:8080/series/zogbi11/982451290/313191.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S08 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zWy2fCODyxbSNtY8e0am5KRd31f.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S08 E08
-http://7go.xyz:8080/series/zogbi11/982451290/313192.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S08 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1fFzezYjGrfVNAHpmwwJ20tjijV.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S08 E09
-http://7go.xyz:8080/series/zogbi11/982451290/313193.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S08 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/riepwGTN0pthBmsIbJRqjGrmVSF.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S08 E10
-http://7go.xyz:8080/series/zogbi11/982451290/313194.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S08 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bYJmVrD06ZpF3mpzmwk7OHZUO4G.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S08 E11
-http://7go.xyz:8080/series/zogbi11/982451290/313195.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S08 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ie6WYMU1CaHaAvtUPTXjfFm1hHt.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S08 E12
-http://7go.xyz:8080/series/zogbi11/982451290/313196.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S08 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ppFsqkFrb6gZyVr5DTPYpUF3cU0.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S08 E13
-http://7go.xyz:8080/series/zogbi11/982451290/313197.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S08 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/inkGktPKmBsiO3hbxgQnCyF0J3Y.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S08 E14
-http://7go.xyz:8080/series/zogbi11/982451290/313198.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S08 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eizp6THwR1zI5H8DGhJV8acpXro.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S08 E15
-http://7go.xyz:8080/series/zogbi11/982451290/313199.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S08 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9Pg4XPcJX8YMc4rAndDRNJy1Os3.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S08 E16
-http://7go.xyz:8080/series/zogbi11/982451290/313200.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S08 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cIuQ5wsKzxzj3EulSxxAslITXvF.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S08 E17
-http://7go.xyz:8080/series/zogbi11/982451290/313201.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S08 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dQ6SLJspr4sGqKdYxCO55AQCXhY.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S08 E18
-http://7go.xyz:8080/series/zogbi11/982451290/313202.mp4
 
 #EXTM3U url-tvg=" http://grade-de-SERIES | HBO / HBO MAX Batwoman.xml "
  ############## SERIES | HBO / HBO MAX Batwoman ############## ### 
@@ -10306,48 +9862,6 @@ http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782461.mp4
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782462.mp4
 #EXTINF:-1 tvg-name="Os Smurfs S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/D32TLlPbJQpHgNmGnsfGZOecxf.jpg" group-title="SÉRIES | KIDS",Os Smurfs S01E10
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782463.mp4
-#EXTINF:-1 tvg-name="As Fabulosas Aventuras dos Freak Brothers S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqflSz9OzSoIxYGdR5fDTrlmdk.jpg" group-title="SÉRIES | KIDS",As Fabulosas Aventuras dos Freak Brothers S01E01
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777897.mp4
-#EXTINF:-1 tvg-name="As Fabulosas Aventuras dos Freak Brothers S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ho5xBIftXOGtWtFkDxxSTNyf2mh.jpg" group-title="SÉRIES | KIDS",As Fabulosas Aventuras dos Freak Brothers S01E02
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777898.mp4
-#EXTINF:-1 tvg-name="As Fabulosas Aventuras dos Freak Brothers S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFDYW7faTKPLjpjP7w4HSVQJi29.jpg" group-title="SÉRIES | KIDS",As Fabulosas Aventuras dos Freak Brothers S01E03
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777899.mp4
-#EXTINF:-1 tvg-name="As Fabulosas Aventuras dos Freak Brothers S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5xfPOqSBTuSDSPPpjWqI8VEY2r.jpg" group-title="SÉRIES | KIDS",As Fabulosas Aventuras dos Freak Brothers S01E04
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777900.mp4
-#EXTINF:-1 tvg-name="As Fabulosas Aventuras dos Freak Brothers S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8nU5TcJl5pXJsIQFaKdoeW5M32b.jpg" group-title="SÉRIES | KIDS",As Fabulosas Aventuras dos Freak Brothers S01E05
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777901.mp4
-#EXTINF:-1 tvg-name="As Fabulosas Aventuras dos Freak Brothers S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJNxC43Z3ZdRe6nwMcWwghRplod.jpg" group-title="SÉRIES | KIDS",As Fabulosas Aventuras dos Freak Brothers S01E06
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777902.mp4
-#EXTINF:-1 tvg-name="As Fabulosas Aventuras dos Freak Brothers S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dTJOAXmXAZkCgtAhNrxgOLX4YlM.jpg" group-title="SÉRIES | KIDS",As Fabulosas Aventuras dos Freak Brothers S01E07
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777903.mp4
-#EXTINF:-1 tvg-name="As Fabulosas Aventuras dos Freak Brothers S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgk0iCRTavpwysMPIEUTSEniQrO.jpg" group-title="SÉRIES | KIDS",As Fabulosas Aventuras dos Freak Brothers S01E08
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777904.mp4
-#EXTINF:-1 tvg-name="Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWAvB1BOuZzf8taHLUE7w9K1ULT.jpg" group-title="SÉRIES | KIDS",Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E01
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777921.mp4
-#EXTINF:-1 tvg-name="Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cJiTi2o63xuoqgoD4NWna0azFx3.jpg" group-title="SÉRIES | KIDS",Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E02
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777922.mp4
-#EXTINF:-1 tvg-name="Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gY0LwTq3jico0ga8otN6XOIK4zy.jpg" group-title="SÉRIES | KIDS",Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E03
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777923.mp4
-#EXTINF:-1 tvg-name="Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXlRFysVbo6OBxhJu3zV5prGJTm.jpg" group-title="SÉRIES | KIDS",Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E04
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777924.mp4
-#EXTINF:-1 tvg-name="Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nIEstdg7X1JDzryM2tVQjpYMx1X.jpg" group-title="SÉRIES | KIDS",Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E05
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777925.mp4
-#EXTINF:-1 tvg-name="Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vwKLY9r0XMl0JIU4tOLVMItkWOQ.jpg" group-title="SÉRIES | KIDS",Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E06
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777926.mp4
-#EXTINF:-1 tvg-name="Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xwBrfib4jtnLH8T7NUy8NDrrKF.jpg" group-title="SÉRIES | KIDS",Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E07
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777927.mp4
-#EXTINF:-1 tvg-name="Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEW65bE6BOkW3N07UeDejJhH6l5.jpg" group-title="SÉRIES | KIDS",Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E08
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777928.mp4
-#EXTINF:-1 tvg-name="Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nn0OhNw49ENSTFdF77p0GPBwoT7.jpg" group-title="SÉRIES | KIDS",Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E09
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777929.mp4
-#EXTINF:-1 tvg-name="Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1S0O8v1ULLGXiZ1EUiyfaIYTgxg.jpg" group-title="SÉRIES | KIDS",Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E10
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777930.mp4
-#EXTINF:-1 tvg-name="Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/80QgQPtufA63Nbx2exRZg5gYt1Z.jpg" group-title="SÉRIES | KIDS",Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E11
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777931.mp4
-#EXTINF:-1 tvg-name="Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckSIT7WwTvtIvqcmd4NSiAgcZX1.jpg" group-title="SÉRIES | KIDS",Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E12
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777932.mp4
-#EXTINF:-1 tvg-name="Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouyzTu834aPl0yQm89c1gKtnEfS.jpg" group-title="SÉRIES | KIDS",Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E13
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777933.mp4
 #EXTINF:-1 tvg-name="Gus: O Pequeno Cavaleiro S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lhEtV8AOSorIvSI8QLwh0ekwAxz.jpg" group-title="SÉRIES | KIDS",Gus: O Pequeno Cavaleiro S01E01
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777946.mp4
 #EXTINF:-1 tvg-name="Gus: O Pequeno Cavaleiro S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xn6WmRMF3xCb05IcUFVlKBTjXOf.jpg" group-title="SÉRIES | KIDS",Gus: O Pequeno Cavaleiro S01E02
@@ -13548,75 +13062,6 @@ http://meuplay.shop:80/67598237854pw/9875352849pw/188
 #EXTINF:-1 tvg-id="" tvg-name="GERAÇÃO FUNK FM (RADIOS)" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="RADIOS",GERAÇÃO FUNK FM (RADIOS)
 http://meuplay.shop:80/67598237854pw/9875352849pw/191
 
-#EXTM3U url-tvg="http://grade-de-Rádios.xml"
-############## Rádios ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeRádios" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Rock To You" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Rock To You
-http://apkwuv.xyz:80/cristina2021/graniptv2005/141040
-#EXTINF:-1 tvg-id="" tvg-name="Edmonton CHEDAM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Edmonton CHEDAM
-http://apkwuv.xyz:80/cristina2021/graniptv2005/143730
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Cidade das Águas 101.3 FM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Rádio Cidade das Águas 101.3 FM
-http://apkwuv.xyz:80/cristina2021/graniptv2005/33439
-#EXTINF:-1 tvg-id="" tvg-name="Flash Disco Dance 80" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Flash Disco Dance 80
-http://apkwuv.xyz:80/cristina2021/graniptv2005/33438
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Dance Music Anos 2000" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Rádio Dance Music Anos 2000
-http://apkwuv.xyz:80/cristina2021/graniptv2005/33441
-#EXTINF:-1 tvg-id="" tvg-name="Axe Brasil Web Rádio" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Axe Brasil Web Rádio
-http://apkwuv.xyz:80/cristina2021/graniptv2005/33442
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Bossa Nova Brazil" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Rádio Bossa Nova Brazil
-http://apkwuv.xyz:80/cristina2021/graniptv2005/33444
-#EXTINF:-1 tvg-id="" tvg-name="DJ Red Web Rádio" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",DJ Red Web Rádio
-http://apkwuv.xyz:80/cristina2021/graniptv2005/33447
-#EXTINF:-1 tvg-id="" tvg-name="Vibe Eletro Hits" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Vibe Eletro Hits
-http://apkwuv.xyz:80/cristina2021/graniptv2005/33448
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Máxima 87.9 FM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Rádio Máxima 87.9 FM
-http://apkwuv.xyz:80/cristina2021/graniptv2005/33450
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Gold 94.7 FM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Rádio Gold 94.7 FM
-http://apkwuv.xyz:80/cristina2021/graniptv2005/33451
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Brasil Hits" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Rádio Brasil Hits
-http://apkwuv.xyz:80/cristina2021/graniptv2005/33452
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Dance Forever" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Rádio Dance Forever
-http://apkwuv.xyz:80/cristina2021/graniptv2005/33453
-#EXTINF:-1 tvg-id="" tvg-name="Rádio BSide Lounge" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Rádio BSide Lounge
-http://apkwuv.xyz:80/cristina2021/graniptv2005/33455
-#EXTINF:-1 tvg-id="" tvg-name="Black In Love Radio" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Black In Love Radio
-http://apkwuv.xyz:80/cristina2021/graniptv2005/33456
-#EXTINF:-1 tvg-id="" tvg-name="Heavy Metal Ears Radio" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Heavy Metal Ears Radio
-http://apkwuv.xyz:80/cristina2021/graniptv2005/33457
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Novidades Na Mídia" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Rádio Novidades Na Mídia
-http://apkwuv.xyz:80/cristina2021/graniptv2005/33459
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Reggae Brasil" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Rádio Reggae Brasil
-http://apkwuv.xyz:80/cristina2021/graniptv2005/33460
-#EXTINF:-1 tvg-id="" tvg-name="89 FM Rádio Rock" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",89 FM Rádio Rock
-http://apkwuv.xyz:80/cristina2021/graniptv2005/33461
-#EXTINF:-1 tvg-id="" tvg-name="Radioweb Sertaneja Raiz Só Modão" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Radioweb Sertaneja Raiz Só Modão
-http://apkwuv.xyz:80/cristina2021/graniptv2005/33463
-#EXTINF:-1 tvg-id="" tvg-name="Teen Stars FM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Teen Stars FM
-http://apkwuv.xyz:80/cristina2021/graniptv2005/33440
-#EXTINF:-1 tvg-id="" tvg-name="House Brazil Radio Show" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",House Brazil Radio Show
-http://apkwuv.xyz:80/cristina2021/graniptv2005/33464
-#EXTINF:-1 tvg-id="" tvg-name="Rádio 92 FM GO" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Rádio 92 FM GO
-http://apkwuv.xyz:80/cristina2021/graniptv2005/33465
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Antena 1 94.7 FM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Rádio Antena 1 94.7 FM
-http://apkwuv.xyz:80/cristina2021/graniptv2005/33466
-#EXTINF:-1 tvg-id="" tvg-name="Soul One" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Soul One
-http://apkwuv.xyz:80/cristina2021/graniptv2005/33467
-#EXTINF:-1 tvg-id="" tvg-name="SP: energia 97" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",SP: energia 97
-http://apkwuv.xyz:80/cristina2021/graniptv2005/140287
-#EXTINF:-1 tvg-id="" tvg-name="SP: Rádio Antena 1 FM 94.7" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",SP: Rádio Antena 1 FM 94.7
-http://apkwuv.xyz:80/cristina2021/graniptv2005/87716
-#EXTINF:-1 tvg-id="" tvg-name="SP: Rádio Arena  FM 106" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",SP: Rádio Arena  FM 106
-http://apkwuv.xyz:80/cristina2021/graniptv2005/89537
-#EXTINF:-1 tvg-id="" tvg-name="SP: Rádio Metropolitana FM 98.5" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",SP: Rádio Metropolitana FM 98.5
-http://apkwuv.xyz:80/cristina2021/graniptv2005/140290
-#EXTINF:-1 tvg-id="" tvg-name="Web Radio - Arena 106" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Web Radio - Arena 106
-http://apkwuv.xyz:80/cristina2021/graniptv2005/81096
-#EXTINF:-1 tvg-id="" tvg-name="Web Radio - Arena 106" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Web Radio - Arena 106
-http://apkwuv.xyz:80/cristina2021/graniptv2005/87715
-#EXTINF:-1 tvg-id="" tvg-name="Web Radio Jesus a Luz do Mundo" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Web Radio Jesus a Luz do Mundo
-http://apkwuv.xyz:80/cristina2021/graniptv2005/133444
-
 #EXTM3U url-tvg="http://grade-de-RITMOS.xml"
 ############## RITMOS ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeRITMOS" group-title="
@@ -13693,59 +13138,3 @@ http://apkwuv.xyz:80/cristina2021/graniptv2005/152600
 http://apkwuv.xyz:80/cristina2021/graniptv2005/152601
 #EXTINF:-1 tvg-id="" tvg-name="Bons Tempos FM" tvg-logo="https://img.radios.com.br/radio/lg/radio37027_1516218896.jpg" group-title="RITMOS",Bons Tempos FM
 http://apkwuv.xyz:80/cristina2021/graniptv2005/152602
-
-#EXTM3U url-tvg="http://grade-de-RADIO | GOSPEL.xml"
-############## RADIO | GOSPEL ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeRADIO | GOSPEL" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="  Paz FM  " tvg-logo="https://i.ytimg.com/vi/fScZxd6p2Ig/maxresdefault.jpg" group-title="RADIO | GOSPEL",Paz FM
-http://digital.umhost.com.br:9978/;
-#EXTINF:-1 tvg-id="" tvg-name="  Sertão Gospel  " tvg-logo="https://play-lh.googleusercontent.com/F7-9nBkTx3RLsjTyo0BHlXGKqu8til2gvvIaGz4lAGG2tJuWJ5sDuNbGVGeYfSlJ_g" group-title="RADIO | GOSPEL",Sertão Gospel
-https://stream-33.zeno.fm/fpg8s2gha9quv?zs=ndJRla2jTiCR7WdGog6PuQ
-#EXTINF:-1 tvg-id="" tvg-name="  Evangelizar 1060 AM  " tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/Radio-Evangelizar-ao-vivo.jpeg" group-title="RADIO | GOSPEL",Evangelizar 1060 AM
-https://stream-51.zeno.fm/hu70hmkcu68uv?zs=BCNf7eQIQmKhA1cYDoHmQw
-#EXTINF:-1 tvg-id="" tvg-name="  Deus é Amor 91.9 FM  " tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/02/igreja-Deus-e-amor-ao-vivo.jpeg" group-title="RADIO | GOSPEL",Deus é Amor 91.9 FM
-https://24943.live.streamtheworld.com/SP_STUDIOC.mp3?DeuseamorFM
-
-#EXTM3U url-tvg=" http://grade-de-Receitas Culinaria.xml "
- ############## Receitas Culinaria ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeReceitas Culinaria " group-title="
-
-#EXTINF:1 tvg-logo="https://cordcuttersnews.com/wp-content/uploads/2020/09/tastemade.jpg"group-title="ReceitasCulinaria",tastemade Brasil (1080p)
-https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:1 tvg-logo="https://www.abcdacomunicacao.com.br/wp-content/uploads/Tastemade-LOGO_BLACK-1-1024x609.jpg"group-title="ReceitasCulinaria",Tastemade (1080p)
-https://tastemade-freetv16min-plex.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-plex/CDN/playlist.m3u8
-#EXTINF:1 tvg-logo="https://www.guiadasemana.com.br/contentFiles/system/pictures/2015/6/136914/original/masterchef.jpg"group-title="ReceitasCulinaria",TV Cocina
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d0fbaa8742fa3093899da&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=956&terminate=false&userId=
-#EXTINF:1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjA2NDBhZTctZmI5NC00NWUxLThiYjEtZDYyNDdmZjZlNWIyXkEyXkFqcGdeQXVyMTUyMjEyMjMx._V1_.jpg"group-title="ReceitasCulinaria",TV America's Test Kitchen
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84f54a82f05300080e6746/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84f54a82f05300080e6746&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=605&terminate=false&userId=
-#EXTINF:1 tvg-logo="https://img.freepik.com/vetores-gratis/fonte-estilizada-da-tipografia-bon-appetit-desenhada-a-mao_53876-101096.jpg"group-title="ReceitasCulinaria",bon appétit
-https://bonappetit-samsung.amagi.tv/playlist.m3u8
-#EXTINF:1 tvg-logo="https://i.pinimg.com/736x/0f/3b/61/0f3b6129ae9176003f38f46d2162fc87--chocolate-branco-creme.jpg"group-title="ReceitasCulinaria",Coxinhas de leite ninho de dar água na boca
-https://play.prod.gcp.vix.services/coxinha-ninho_pt/coxinha-ninho_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://www.receitasagora.com.br/wp-content/uploads/2020/08/receita-de-bolo-gelado-de-leite-ninho-com-morango-e1596605193743.jpg"group-title="ReceitasCulinaria",Receita de bolo gelado de morango
-https://play.prod.gcp.vix.services/strawberry-cake_pt/strawberry-cake_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://blog.savegnago.com.br/wp-content/uploads/2023/01/GettyImages-484863388-scaled.jpg"group-title="ReceitasCulinaria",Receitas incríveis com maçã e pera
-https://play.prod.gcp.vix.services/apples-pears_pt/apples-pears_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://img.imageboss.me/experience/cdn/animation:true/wp-content/uploads/2020/04/Receita-Tastamade-Brownie-Header.jpg"group-title="ReceitasCulinaria",3 receitas de brownie imperdíveis
-https://play.prod.gcp.vix.services/brownie-recipes_pt/brownie-recipes_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://claudia.abril.com.br/wp-content/uploads/2020/02/receita-taca-creme-iogurte-com-frutas1.jpg"group-title="ReceitasCulinaria",Sobremesas com iogurte e frutas
-https://play.prod.gcp.vix.services/yogurt-ideas_pt/yogurt-ideas_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:1 tvg-logo="https://www.comidaereceitas.com.br/wp-content/uploads/2020/11/bolinho_feijoada-780x451.jpg"group-title="ReceitasCulinaria",Receita de bolinho de feijoada igual de boteco
-https://play.prod.gcp.vix.services/bolinho-feijoada_pt/bolinho-feijoada_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://www.receiteria.com.br/wp-content/uploads/pappardelle-ao-molho-branco-com-camarao-640x480.jpg"group-title="ReceitasCulinaria",Receitas com camarão: fáceis e irresistíveis
-https://play.prod.gcp.vix.services/shrimp-recipes_pt/shrimp-recipes_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://st1.uvnimg.com/c1/9e/43bb46bc4975bd1399492f324650/receita-lasanha-pao-1222-1400x800.jpg"group-title="ReceitasCulinaria",Lasanha caprese com pão italiano
-https://play.prod.gcp.vix.services/italian-lasagna_pt/italian-lasagna_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://img.itdg.com.br/tdg/images/blog/uploads/2018/01/chips-de-legumes.jpg"group-title="ReceitasCulinaria",Petiscos deliciosos e saudáveis
-https://play.prod.gcp.vix.services/healthy-snacks_pt/healthy-snacks_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://marolacomcarambola.com.br/wp-content/uploads/2015/12/batata-laminada-9.jpg"group-title="ReceitasCulinaria",Receitas com batatas que você não conhecia
-https://play.prod.gcp.vix.services/potato-chips_pt/potato-chips_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://xtudoreceitas.com/wp-content/uploads/Tapioca-Simples.jpg"group-title="ReceitasCulinaria",Receitas com tapioca para fugir do básico
-https://play.prod.gcp.vix.services/tapioca-recipes_pt/tapioca-recipes_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://receitatodahora.com.br/wp-content/uploads/2022/06/bolo-nha-benta.jpg"group-title="ReceitasCulinaria",Receita caseira de Nhá Benta
-https://play.prod.gcp.vix.services/nha-benta_pt/nha-benta_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.pinimg.com/236x/81/a5/4e/81a54efa6f05aa8e6d8130a658161e98--mocha-coffee.jpg"group-title="ReceitasCulinaria",3 receitas deliciosas feitas com café
-https://play.prod.gcp.vix.services/coffee-drinks_pt/coffee-drinks_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/GPvIj1ySfvU/maxresdefault.jpg"group-title="ReceitasCulinaria",Como fazer café decorado como um profissional
-https://play.prod.gcp.vix.services/coffee-decoration_pt/coffee-decoration_pt_1-1/play_v1_hls_1080p.m3u8
