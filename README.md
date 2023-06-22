@@ -13590,3 +13590,38 @@ http://apkwuv.xyz:80/cristina2021/graniptv2005/152599
 http://apkwuv.xyz:80/cristina2021/graniptv2005/152600
 #EXTINF:-1 tvg-id="" tvg-name="Rádio Antena 1 Lite FM 103.7 RJ" tvg-logo="https://img.radios.com.br/radio/lg/radio15456_1610635889.png" group-title="RADIOS",Radio Antena 1 Lite FM 103.7 RJ
 http://apkwuv.xyz:80/cristina2021/graniptv2005/162551
+
+#EXTM3U url-tvg="http://grade-de-RITMOS.xml"
+############## RITMOS ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeRITMOS" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Globo RJ 98.1 FM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="RITMOS",Rádio Globo RJ 98.1 FM
+http://apkwuv.xyz:80/cristina2021/graniptv2005/149370
+#EXTINF:-1 tvg-id="" tvg-name="Plus Rádio Fortaleza" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="RITMOS",Plus Rádio Fortaleza
+http://apkwuv.xyz:80/cristina2021/graniptv2005/149368
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Transamérica 100.1 FM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="RITMOS",Rádio Transamérica 100.1 FM
+http://apkwuv.xyz:80/cristina2021/graniptv2005/149371
+#EXTINF:-1 tvg-id="" tvg-name="Rádio FM O Dia 100.5" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="RITMOS",Rádio FM O Dia 100.5
+http://apkwuv.xyz:80/cristina2021/graniptv2005/149377
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Clube 105.5 FM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="RITMOS",Rádio Clube 105.5 FM
+http://apkwuv.xyz:80/cristina2021/graniptv2005/149375
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Mix 106.3 FM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="RITMOS",Rádio Mix 106.3 FM
+http://apkwuv.xyz:80/cristina2021/graniptv2005/149369
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Hot 107 FM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="RITMOS",Rádio Hot 107 FM
+http://apkwuv.xyz:80/cristina2021/graniptv2005/149376
+#EXTINF:-1 tvg-id="" tvg-name="Terra" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="RITMOS",Terra
+http://apkwuv.xyz:80/cristina2021/graniptv2005/126904
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Lupa 1 FM 94.5" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="RITMOS",Rádio Lupa 1 FM 94.5
+http://apkwuv.xyz:80/cristina2021/graniptv2005/149378
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Fla RJ" tvg-logo="https://img.radios.com.br/radio/lg/radio195257_1644619391.jpeg" group-title="RITMOS",Rádio Fla RJ
+http://apkwuv.xyz:80/cristina2021/graniptv2005/137144
+#EXTINF:-1 tvg-id="" tvg-name="Fita Cassete" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="RITMOS",Fita Cassete
+http://apkwuv.xyz:80/cristina2021/graniptv2005/162553
+#EXTINF:-1 tvg-id="" tvg-name="Radio Gospel Life" tvg-logo="https://img.radios.com.br/radio/lg/radio49251_1552934266.jpg" group-title="RITMOS",Radio Gospel Life
+http://apkwuv.xyz:80/cristina2021/graniptv2005/162552
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Sinai Web Gospel SP" tvg-logo="https://img.radios.com.br/radio/lg/radio22540_1474915941.jpg" group-title="RITMOS",Rádio Sinai Web Gospel SP
+http://apkwuv.xyz:80/cristina2021/graniptv2005/162550
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Gospel Campinas" tvg-logo="https://img.radios.com.br/radio/lg/radio40462_1522251880.jpg" group-title="RITMOS",Rádio Gospel Campinas
+http://apkwuv.xyz:80/cristina2021/graniptv2005/152601
+#EXTINF:-1 tvg-id="" tvg-name="Bons Tempos FM" tvg-logo="https://img.radios.com.br/radio/lg/radio37027_1516218896.jpg" group-title="RITMOS",Bons Tempos FM
+http://apkwuv.xyz:80/cristina2021/graniptv2005/152602                                                                                                                                                                                                          
