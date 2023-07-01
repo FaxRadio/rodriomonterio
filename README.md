@@ -14112,4 +14112,4 @@ http://apkwuv.xyz:80/cristina2021/graniptv2005/162550
 #EXTINF:-1 tvg-id="" tvg-name="Rádio Gospel Campinas" tvg-logo="https://img.radios.com.br/radio/lg/radio40462_1522251880.jpg" group-title="RITMOS",Rádio Gospel Campinas
 http://apkwuv.xyz:80/cristina2021/graniptv2005/152601
 #EXTINF:-1 tvg-id="" tvg-name="Bons Tempos FM" tvg-logo="https://img.radios.com.br/radio/lg/radio37027_1516218896.jpg" group-title="RITMOS",Bons Tempos FM
-http://apkwuv.xyz:80/cristina2021/graniptv2005/152602                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+http://apkwuv.xyz:80/cristina2021/graniptv2005/152602
