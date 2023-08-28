@@ -120,7 +120,7 @@ https://ia802903.us.archive.org/11/items/taylor_swift-20/so%20bad.mp3
 https://ia802903.us.archive.org/11/items/taylor_swift-20/street.mp3
 #EXTINF:-1 tvg-id="" tvg-name="Love Story Live"tvg-logo="https://media.tenor.com/_dyKLSVEslYAAAAC/firework-fireworks.gif" group-title="TV FAX | Katy Perry",Love Story Live
 https://ia601207.us.archive.org/9/items/Taylor_Swift_Love_Story__Live___/Taylor%20Swift_Love%20Story%20%28Live%29%20%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Katy Perry- Firework"tvg-logo="https://media.tenor.com/_dyKLSVEslYAAAAC/firework-fireworks.gif" group-title="TV FAX | Katy Perry",Katy Perry- Firework
+#EXTINF:-1 tvg-id="" tvg-name="Katy Perry Firework"tvg-logo="https://media.tenor.com/_dyKLSVEslYAAAAC/firework-fireworks.gif" group-title="TV FAX | Katy Perry",Katy Perry Firework
 https://ia803402.us.archive.org/3/items/katy-perry-firework-/y2mate.com%20-%20Katy%20Perry%20-%20Firework%20%28Official%20Music%20Video%29_v144P.ia.mp4
 
 
@@ -3816,6 +3816,8 @@ https://ia802708.us.archive.org/35/items/mazzaropi-meu-japao-brasileiro-tv-fax/M
 ############## FILMES TV FAX filhos  #################
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES TV FAX filhos" group-title="
 
+#EXTINF:-1 tvg-id="" tvg-name="Ruby Marinho Monstro Adolescente"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ2yeyYcle7_em-wL_XQc0R7a8l9LPToX4X6LyH7RVprcatWnqhy7hY8CgH4NOoFLmjCc&usqp=CAU"group-title="FILMES TV FAX filhos",Ruby Marinho Monstro Adolescente
+https://ia600509.us.archive.org/15/items/ruby-marinho-monstro-adolescente-tv-fax_202308/Ruby%20Marinho%20Monstro%20Adolescente%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Barbie ( 2023)"tvg-logo="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZ3ajl1NnFka2NpN2ZzeGkyNnQ2ODk0ZHNoYzhjajVibDA5YnJsdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MoaQ9bwKYeWJ6qynbz/giphy-downsized-large.gif"group-title="FILMES TV FAX filhos",Barbie ( 2023)
 https://ia902700.us.archive.org/2/items/barbie-2023-tv-fax/Barbie%20%282023%29%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sorte"tvg-logo="https://br.web.img3.acsta.net/pictures/22/07/08/09/41/2988143.jpg"group-title="FILMES TV FAX filhos",Sorte
@@ -4115,6 +4117,20 @@ https://ia902704.us.archive.org/19/items/ruby-marinho-monstro-adolescente-tv-fax
 ############## FILMES | TV FAX #################
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES | TV FAX" group-title="
 
+#EXTINF:-1 tvg-id="" tvg-name=",R. I. P. D. Agentes Do Além"tvg-logo="https://pa1.aminoapps.com/6416/22b19f848a9f6ce170b99854be4c9e007046c51f_00.gif"group-title="FILMES | TV FAX",R. I. P. D. Agentes Do Além
+https://ia600507.us.archive.org/27/items/r.-i.-p.-d.-agentes-do-alem-tv-fax/R.I.P.D.%20Agentes%20do%20Al%C3%A9m%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",O Pacto"tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/88/75/34/20028935.jpg"group-title="FILMES | TV FAX",O Pacto 
+https://ia600509.us.archive.org/33/items/o-pacto-tv-fax/O%20Pacto%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Resgate 2"tvg-logo="https://media.giphy.com/media/lNWqlwthhu4fTlIiHF/giphy.gif"group-title="FILMES | TV FAX",Resgate 2
+https://ia600506.us.archive.org/13/items/resgate-2-tv-fax/Resgate%202%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Bater Ou Correr Em Londres"tvg-logo="https://i.uai.com.br/2B_k4QejBOib7rmXMpda7D6qzGk=/750x0/imgsapp2.uai.com.br/app/noticia_133890394703/2021/04/16/271295/20210415163931550555u.jpg"group-title="FILMES | TV FAX",Bater Ou Correr Em Londres
+https://ia800509.us.archive.org/29/items/bater-ou-correr-em-londres-tv-fax/Bater%20ou%20Correr%20em%20Londres%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Projeto Extração"tvg-logo="https://i.ytimg.com/vi/275NWopvLps/maxresdefault.jpg"group-title="FILMES | TV FAX",Projeto Extração
+https://ia600508.us.archive.org/3/items/projeto-extracao-tv-fax/Projeto%20Extra%C3%A7%C3%A3o%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Sede Assassina"tvg-logo="https://media.tenor.com/RSmpQqgTrt0AAAAC/assassina-sem-d%C3%B3.gif"group-title="FILMES | TV FAX",Sede Assassina
+https://ia600506.us.archive.org/11/items/sede-assassina-tv-fax_202308/Sede%20Assassina%20TV%20FAX.mp4?cnt=0
+#EXTINF:-1 tvg-id="" tvg-name=",Rocky Um Lutador"tvg-logo="https://i.gifer.com/origin/36/368cfab44a2310baf2b9704e862e2b61.gif"group-title="FILMES | TV FAX",Rocky Um Lutador
+https://ia800508.us.archive.org/2/items/rocky-um-lutador-tv-fax/Rocky%20um%20Lutador%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",O Guarda Costas Tailandês 2"tvg-logo="https://i.ytimg.com/vi/HWYScfagVOY/hqdefault.jpg"group-title="FILMES | TV FAX",O Guarda Costas Tailandês 2
 https://ia802900.us.archive.org/4/items/o-guarda-costas-tailandes-tv-fax/O%20Guarda%20Costas%20Tailand%C3%AAs%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Caos Na Prisão"tvg-logo="https://i.ytimg.com/vi/-1gEsS8PwEU/maxresdefault.jpg"group-title="FILMES | TV FAX",Caos Na Prisão
