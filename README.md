@@ -2666,136 +2666,6 @@ http://7go.xyz:8080/6196375557m/use6196/43010
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 4 SD²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 4 SD²
 http://7go.xyz:8080/6196375557m/use6196/64680
 
-#EXTM3U url-tvg=" http://grade-de-FILMES | LANÇAMENTOS 2023.xml "
- ############## FILMES | LANÇAMENTOS 2023  ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES | LANÇAMENTOS 2023" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="A Chamada (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eqaSh2PjYcGpS6rybz6UjLNuvrg.jpg" group-title="FILMES | LANÇAMENTOS 2023",A Chamada (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/321621.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Outra Zoey (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9lZd2rV8Jgupu2bGTVgahKj5Gvc.jpg" group-title="FILMES | LANÇAMENTOS 2023",A Outra Zoey (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/321683.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Vida Diante de Seus Olhos (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/djREwz46Ssm5LlMD9yN2ckvzVWU.jpg" group-title="FILMES | LANÇAMENTOS 2023",A Vida Diante de Seus Olhos (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/321684.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Caminhos Tortos (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qgFLue2nYRyGuxjRHfpU0yyNZ3z.jpg" group-title="FILMES | LANÇAMENTOS 2023",Caminhos Tortos (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/321685.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cercados (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/53zYYgWqxxmTaMlsIfiCWCLRwJf.jpg" group-title="FILMES | LANÇAMENTOS 2023",Cercados (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/321686.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Crypto Boy (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6QOukjAgAm9L1WNiOjqJzlg5luU.jpg" group-title="FILMES | LANÇAMENTOS 2023",Crypto Boy (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/321687.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Disco Inferno (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mqlHnsj2l7NkXbmu7ZXcVvP8uda.jpg" group-title="FILMES | LANÇAMENTOS 2023",Disco Inferno (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/321688.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kandasamys: O Bebê (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/byF0OTIt67FXCqan5bjPgF1v0Hi.jpg" group-title="FILMES | LANÇAMENTOS 2023",Kandasamys: O Bebê (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/321689.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Massa Cinzenta (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4EuZtw5Z6dVn5IOe7whR9Qy8UET.jpg" group-title="FILMES | LANÇAMENTOS 2023",Massa Cinzenta (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/321690.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Protetor: Capitulo Final (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mxkzUJVaKNZ4IYYHpJq5y05MauC.jpg" group-title="FILMES | LANÇAMENTOS 2023",O Protetor: Capitulo Final (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/321691.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sayen: A Rota Seca (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bPf85Ro1XgWnhJMfAZa3SdQ4Muf.jpg" group-title="FILMES | LANÇAMENTOS 2023",Sayen: A Rota Seca (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/321692.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tiozões (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/54Ffgwhf9wie3hiR80DKsY4bGZL.jpg" group-title="FILMES | LANÇAMENTOS 2023",Tiozões (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/321693.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Diamantes do Caos (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4Mnt3UCI685du0wn8IJdmSc24GX.jpg" group-title="FILMES | LANÇAMENTOS 2023",Diamantes do Caos (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/321622.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Diabo no Tribunal (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hXFUid5UH3T3lPXm6z7KO3ZnPQW.jpg" group-title="FILMES | LANÇAMENTOS 2023",O Diabo no Tribunal (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/321623.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Ressurreição da Múmia (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qIrJYG0ffdbkR0f0a6slVLXOnjQ.jpg" group-title="FILMES | LANÇAMENTOS 2023",A Ressurreição da Múmia (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/321630.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Era de Ouro (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/p7HiwisHEP9l1bF3LMnoF3R63nn.jpg" group-title="FILMES | LANÇAMENTOS 2023",A Era de Ouro (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/321306.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Colheita Sombria (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eeePA5kvAt5swaBAi3YLJjLDHHz.jpg" group-title="FILMES | LANÇAMENTOS 2023",Colheita Sombria (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/321307.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Conferência Mortal (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nGaXnZmSpEKlg16e6PNxWga3UJL.jpg" group-title="FILMES | LANÇAMENTOS 2023",Conferência Mortal (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/321308.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jogando a Linha (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tQpEqBoOWkNJRGpSQDTTsXCxVVL.jpg" group-title="FILMES | LANÇAMENTOS 2023",Jogando a Linha (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/321309.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Porteiro (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8UIXPu4LRu6Zho8ruWhIjpeY439.jpg" group-title="FILMES | LANÇAMENTOS 2023",O Porteiro (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/321310.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Próprio Enterro (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4Fxb4goCtkHluDwymYvHW1xoC6P.jpg" group-title="FILMES | LANÇAMENTOS 2023",O Próprio Enterro (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/321311.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Prisoners Daughter / Filha do Prisioneiro (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2NYd7jKFnilcIOUfDI8o2TOuCmu.jpg" group-title="FILMES | LANÇAMENTOS 2023",Prisoners Daughter / Filha do Prisioneiro (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/321312.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Scarygirl (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1tcLXVaXFG9OObnCN3a5KrymrQG.jpg" group-title="FILMES | LANÇAMENTOS 2023",Scarygirl (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/321313.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ursinho Pooh: Sangue e Mel (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fXGOLOxV0KLnzueWJPFF5tUP3Lq.jpg" group-title="FILMES | LANÇAMENTOS 2023",Ursinho Pooh: Sangue e Mel (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/321314.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Overhaul / Carga Máxima (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ocKoEvCPX809gWsyEXRP2zTViY5.jpg" group-title="FILMES | LANÇAMENTOS 2023",Overhaul / Carga Máxima (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/320373.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Barbie: Skipper e a Grande Aventura de Babás (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t8bt9rrcgK4K1G5VxeO8xkz9RQD.jpg" group-title="FILMES | LANÇAMENTOS 2023",Barbie: Skipper e a Grande Aventura de Babás (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/320369.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gran Turismo - De Jogador a Corredor (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qU60nhBRbKU23gIGrZi2CvUj6MQ.jpg" group-title="FILMES | LANÇAMENTOS 2023",Gran Turismo - De Jogador a Corredor (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/320371.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Amor Está no Ar (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wFZ0gxa9fxaA7gk6v5nH1hyYfDi.jpg" group-title="FILMES | LANÇAMENTOS 2023",O Amor Está no Ar (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/320372.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Street Flow 2 (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ei6d2JFKaS0vJHReUP8hEfNBjPa.jpg" group-title="FILMES | LANÇAMENTOS 2023",Street Flow 2 (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/320374.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Awareness: A Realidade é Uma Ilusão (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/msgWkL23ZslTVZJRYJIng83mYny.jpg" group-title="FILMES | LANÇAMENTOS 2023",Awareness: A Realidade é Uma Ilusão (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/320742.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Missão: Impossível - Acerto de Contas Parte 1 (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8hjno4uE19pm0qlfUDcM8e5WK13.jpg" group-title="FILMES | LANÇAMENTOS 2023",Missão: Impossível - Acerto de Contas Parte 1 (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/320743.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Retratos Fantasmas (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/akVsEkPbb41DQ0vODFZRtzXjuyy.jpg" group-title="FILMES | LANÇAMENTOS 2023",Retratos Fantasmas (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/320744.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Arte da Sobrevivência (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lxRlS1EN0ByrhqkisV41l0havin.jpg" group-title="FILMES | LANÇAMENTOS 2023",A Arte da Sobrevivência (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/320676.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Bailarina (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5BEYUwi4PCTfCaoGCL17DD9h7sM.jpg" group-title="FILMES | LANÇAMENTOS 2023",A Bailarina (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/320677.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Círculo de Espiões (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jGUcSkXhBpgqIjSW5f5QKAmi2SQ.jpg" group-title="FILMES | LANÇAMENTOS 2023",Círculo de Espiões (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/320678.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jogo Justo (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AteINDGu2VqyI1M8mBZXYMA7Yhs.jpg" group-title="FILMES | LANÇAMENTOS 2023",Jogo Justo (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/320679.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mate-me se Puder (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/e2ghk75hCIu7N2Xk7baIJtvwMPP.jpg" group-title="FILMES | LANÇAMENTOS 2023",Mate-me se Puder (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/320680.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Aventureiros - A Origem (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qKyfHivRX3wRbY4zgN1oFdjqBqH.jpg" group-title="FILMES | LANÇAMENTOS 2023",Os Aventureiros - A Origem (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/320681.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Freira 2 (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/omV2IW2OlFTSw6Hih13hz6lFdvP.jpg" group-title="FILMES | LANÇAMENTOS 2023",A Freira 2 (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/320573.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Angela (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rrtvniUR4OSpGqypScj3ebQ2kI1.jpg" group-title="FILMES | LANÇAMENTOS 2023",Angela (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/320574.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Boogeyman: Seu Medo é Real (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qf4l5Ph8WOSxSxYBm8zeOuaXOk3.jpg" group-title="FILMES | LANÇAMENTOS 2023",Boogeyman: Seu Medo é Real (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/320575.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cemitério Maldito: A Origem (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cTtrFUxMKUX4ZGfMfydym2AZQba.jpg" group-title="FILMES | LANÇAMENTOS 2023",Cemitério Maldito: A Origem (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/320576.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dezesseis Facadas (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/o5tWAiHfxEvu2z1qkJKU4gW1uPY.jpg" group-title="FILMES | LANÇAMENTOS 2023",Dezesseis Facadas (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/320577.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fale Comigo (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/n2HcaD1dEVrwXlSFJD7GmcqHSxv.jpg" group-title="FILMES | LANÇAMENTOS 2023",Fale Comigo (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/320578.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Loucas em Apuros (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/156UQ8cVp0rgsT7oTHDZye1Yj4d.jpg" group-title="FILMES | LANÇAMENTOS 2023",Loucas em Apuros (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/320579.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mansão Mal-Assombrada (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3puybXuYPlZPRplIVSrExZnWibb.jpg" group-title="FILMES | LANÇAMENTOS 2023",Mansão Mal-Assombrada (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/320580.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Caçador de Ratos (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5fHwVtgJLeOiaKENJ2s8BPY6Rvv.jpg" group-title="FILMES | LANÇAMENTOS 2023",O Caçador de Ratos (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/320581.mp4
-#EXTINF:-1 tvg-id="" tvg-name="One Day as a Lion (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cxSKca4dNlk7O7PMiEYT203vlIw.jpg" group-title="FILMES | LANÇAMENTOS 2023",One Day as a Lion (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/320582.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei dos Assassinos (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tHA2wltMBWuaTzOzSf7P2bzhmIy.jpg" group-title="FILMES | LANÇAMENTOS 2023",O Rei dos Assassinos (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/320583.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Camaleões (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2FKm87VF8VKkIFJtRoPsWiux4sr.jpg" group-title="FILMES | LANÇAMENTOS 2023",Camaleões (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/320525.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Destinos à Deriva (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hiNqwEkmW1oMlbQnNKlucIzvqjn.jpg" group-title="FILMES | LANÇAMENTOS 2023",Destinos à Deriva (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/320526.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Do Not Disturb (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gyuMSazHAcTSZRhe17NFMXPXOgi.jpg" group-title="FILMES | LANÇAMENTOS 2023",Do Not Disturb (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/320527.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Movimento de Jesus (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/m96gOrdyL5jC3u3Znaqq4AG1V8T.jpg" group-title="FILMES | LANÇAMENTOS 2023",Movimento de Jesus (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/320529.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nosso Amigo Extraordinário (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/f4448n6w3nxORg5LQstZpwFVao1.jpg" group-title="FILMES | LANÇAMENTOS 2023",Nosso Amigo Extraordinário (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/320530.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Engenheiro (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/daEvqdnGCrbk5yMkYkxoDpNuCkP.jpg" group-title="FILMES | LANÇAMENTOS 2023",O Engenheiro (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/320531.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Monstro que vive em Mim (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fDBAZRH4YiqtOrcTwmwbjz4KsXe.jpg" group-title="FILMES | LANÇAMENTOS 2023",O Monstro que vive em Mim (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/320532.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Equalizer 3 / O Protetor: Capitulo Final LEG (2023)" tvg-logo="http://i.imgur.com/jxdbb3R.jpg" group-title="FILMES | LANÇAMENTOS 2023",The Equalizer 3 / O Protetor: Capitulo Final LEG (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/320533.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drácula: A Última Viagem do Deméter (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pZaFdrYekwC9ITq4yWrkqEwCy3E.jpg" group-title="FILMES | LANÇAMENTOS 2023",Drácula: A Última Viagem do Deméter (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/320500.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Som da Liberdade LEG (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2BWhcrlPr6UvSJy5D044Ikq2QxH.jpg" group-title="FILMES | LANÇAMENTOS 2023",Som da Liberdade LEG (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/320501.mp4
-#EXTINF:-1 tvg-id="" tvg-name="À Espreita (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qfglisVh5Nmo1nGYCoMzqyZUWcz.jpg" group-title="FILMES | LANÇAMENTOS 2023",À Espreita (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/320494.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Discurso Oculto (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/a3mMwp42qXaA4DLNcXvNO0u01Pi.jpg" group-title="FILMES | LANÇAMENTOS 2023",Discurso Oculto (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/320495.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Flora e Filho: Música em Família (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/i1Xv3pmIwEXmrbnMOwl6BExjV9a.jpg" group-title="FILMES | LANÇAMENTOS 2023",Flora e Filho: Música em Família (2023)
-http://7go.xyz:8080/movie/6196375557m/use6196/320496.mp4
-
-
 #EXTM3U url-tvg=" http://grade-de-Canais SBT.xml "
  ############## Canais SBT ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCanais SBT" group-title="
@@ -3166,6 +3036,568 @@ http://45.58.126.146:14252/
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVER"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_efeCgIAMAh6W76x0ztDm0Ix-aLKy0zRvGixKlpEI_PVaxmfRxKEjEjYmHiuJQF32pyM&usqp=CAU" group-title="CANAIS | FECHADOS",DISCOVERY 
 http://45.58.126.146:14267/
 
+
+#EXTM3U url-tvg=" http://grade-de-FILMES | LANÇAMENTOS 2023.xml "
+ ############## FILMES | LANÇAMENTOS 2023  ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES | LANÇAMENTOS 2023" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="A Chamada (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eqaSh2PjYcGpS6rybz6UjLNuvrg.jpg" group-title="FILMES | LANÇAMENTOS 2023",A Chamada (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/321621.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Outra Zoey (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9lZd2rV8Jgupu2bGTVgahKj5Gvc.jpg" group-title="FILMES | LANÇAMENTOS 2023",A Outra Zoey (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/321683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida Diante de Seus Olhos (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/djREwz46Ssm5LlMD9yN2ckvzVWU.jpg" group-title="FILMES | LANÇAMENTOS 2023",A Vida Diante de Seus Olhos (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/321684.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caminhos Tortos (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qgFLue2nYRyGuxjRHfpU0yyNZ3z.jpg" group-title="FILMES | LANÇAMENTOS 2023",Caminhos Tortos (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/321685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cercados (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/53zYYgWqxxmTaMlsIfiCWCLRwJf.jpg" group-title="FILMES | LANÇAMENTOS 2023",Cercados (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/321686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crypto Boy (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6QOukjAgAm9L1WNiOjqJzlg5luU.jpg" group-title="FILMES | LANÇAMENTOS 2023",Crypto Boy (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/321687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Disco Inferno (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mqlHnsj2l7NkXbmu7ZXcVvP8uda.jpg" group-title="FILMES | LANÇAMENTOS 2023",Disco Inferno (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/321688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kandasamys: O Bebê (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/byF0OTIt67FXCqan5bjPgF1v0Hi.jpg" group-title="FILMES | LANÇAMENTOS 2023",Kandasamys: O Bebê (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/321689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Massa Cinzenta (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4EuZtw5Z6dVn5IOe7whR9Qy8UET.jpg" group-title="FILMES | LANÇAMENTOS 2023",Massa Cinzenta (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/321690.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Protetor: Capitulo Final (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mxkzUJVaKNZ4IYYHpJq5y05MauC.jpg" group-title="FILMES | LANÇAMENTOS 2023",O Protetor: Capitulo Final (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/321691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sayen: A Rota Seca (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bPf85Ro1XgWnhJMfAZa3SdQ4Muf.jpg" group-title="FILMES | LANÇAMENTOS 2023",Sayen: A Rota Seca (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/321692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tiozões (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/54Ffgwhf9wie3hiR80DKsY4bGZL.jpg" group-title="FILMES | LANÇAMENTOS 2023",Tiozões (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/321693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diamantes do Caos (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4Mnt3UCI685du0wn8IJdmSc24GX.jpg" group-title="FILMES | LANÇAMENTOS 2023",Diamantes do Caos (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/321622.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Diabo no Tribunal (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hXFUid5UH3T3lPXm6z7KO3ZnPQW.jpg" group-title="FILMES | LANÇAMENTOS 2023",O Diabo no Tribunal (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/321623.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ressurreição da Múmia (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qIrJYG0ffdbkR0f0a6slVLXOnjQ.jpg" group-title="FILMES | LANÇAMENTOS 2023",A Ressurreição da Múmia (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/321630.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Era de Ouro (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/p7HiwisHEP9l1bF3LMnoF3R63nn.jpg" group-title="FILMES | LANÇAMENTOS 2023",A Era de Ouro (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/321306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Colheita Sombria (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eeePA5kvAt5swaBAi3YLJjLDHHz.jpg" group-title="FILMES | LANÇAMENTOS 2023",Colheita Sombria (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/321307.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Conferência Mortal (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nGaXnZmSpEKlg16e6PNxWga3UJL.jpg" group-title="FILMES | LANÇAMENTOS 2023",Conferência Mortal (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/321308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jogando a Linha (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tQpEqBoOWkNJRGpSQDTTsXCxVVL.jpg" group-title="FILMES | LANÇAMENTOS 2023",Jogando a Linha (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/321309.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Porteiro (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8UIXPu4LRu6Zho8ruWhIjpeY439.jpg" group-title="FILMES | LANÇAMENTOS 2023",O Porteiro (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/321310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Próprio Enterro (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4Fxb4goCtkHluDwymYvHW1xoC6P.jpg" group-title="FILMES | LANÇAMENTOS 2023",O Próprio Enterro (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/321311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Prisoners Daughter / Filha do Prisioneiro (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2NYd7jKFnilcIOUfDI8o2TOuCmu.jpg" group-title="FILMES | LANÇAMENTOS 2023",Prisoners Daughter / Filha do Prisioneiro (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/321312.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scarygirl (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1tcLXVaXFG9OObnCN3a5KrymrQG.jpg" group-title="FILMES | LANÇAMENTOS 2023",Scarygirl (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/321313.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ursinho Pooh: Sangue e Mel (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fXGOLOxV0KLnzueWJPFF5tUP3Lq.jpg" group-title="FILMES | LANÇAMENTOS 2023",Ursinho Pooh: Sangue e Mel (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/321314.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Overhaul / Carga Máxima (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ocKoEvCPX809gWsyEXRP2zTViY5.jpg" group-title="FILMES | LANÇAMENTOS 2023",Overhaul / Carga Máxima (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/320373.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie: Skipper e a Grande Aventura de Babás (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t8bt9rrcgK4K1G5VxeO8xkz9RQD.jpg" group-title="FILMES | LANÇAMENTOS 2023",Barbie: Skipper e a Grande Aventura de Babás (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/320369.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gran Turismo - De Jogador a Corredor (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qU60nhBRbKU23gIGrZi2CvUj6MQ.jpg" group-title="FILMES | LANÇAMENTOS 2023",Gran Turismo - De Jogador a Corredor (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/320371.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Amor Está no Ar (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wFZ0gxa9fxaA7gk6v5nH1hyYfDi.jpg" group-title="FILMES | LANÇAMENTOS 2023",O Amor Está no Ar (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/320372.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Street Flow 2 (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ei6d2JFKaS0vJHReUP8hEfNBjPa.jpg" group-title="FILMES | LANÇAMENTOS 2023",Street Flow 2 (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/320374.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Awareness: A Realidade é Uma Ilusão (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/msgWkL23ZslTVZJRYJIng83mYny.jpg" group-title="FILMES | LANÇAMENTOS 2023",Awareness: A Realidade é Uma Ilusão (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/320742.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Missão: Impossível - Acerto de Contas Parte 1 (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8hjno4uE19pm0qlfUDcM8e5WK13.jpg" group-title="FILMES | LANÇAMENTOS 2023",Missão: Impossível - Acerto de Contas Parte 1 (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/320743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Retratos Fantasmas (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/akVsEkPbb41DQ0vODFZRtzXjuyy.jpg" group-title="FILMES | LANÇAMENTOS 2023",Retratos Fantasmas (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/320744.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Arte da Sobrevivência (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lxRlS1EN0ByrhqkisV41l0havin.jpg" group-title="FILMES | LANÇAMENTOS 2023",A Arte da Sobrevivência (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/320676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bailarina (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5BEYUwi4PCTfCaoGCL17DD9h7sM.jpg" group-title="FILMES | LANÇAMENTOS 2023",A Bailarina (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/320677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Círculo de Espiões (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jGUcSkXhBpgqIjSW5f5QKAmi2SQ.jpg" group-title="FILMES | LANÇAMENTOS 2023",Círculo de Espiões (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/320678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jogo Justo (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AteINDGu2VqyI1M8mBZXYMA7Yhs.jpg" group-title="FILMES | LANÇAMENTOS 2023",Jogo Justo (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/320679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mate-me se Puder (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/e2ghk75hCIu7N2Xk7baIJtvwMPP.jpg" group-title="FILMES | LANÇAMENTOS 2023",Mate-me se Puder (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/320680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Aventureiros - A Origem (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qKyfHivRX3wRbY4zgN1oFdjqBqH.jpg" group-title="FILMES | LANÇAMENTOS 2023",Os Aventureiros - A Origem (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/320681.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Freira 2 (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/omV2IW2OlFTSw6Hih13hz6lFdvP.jpg" group-title="FILMES | LANÇAMENTOS 2023",A Freira 2 (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/320573.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Angela (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rrtvniUR4OSpGqypScj3ebQ2kI1.jpg" group-title="FILMES | LANÇAMENTOS 2023",Angela (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/320574.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Boogeyman: Seu Medo é Real (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qf4l5Ph8WOSxSxYBm8zeOuaXOk3.jpg" group-title="FILMES | LANÇAMENTOS 2023",Boogeyman: Seu Medo é Real (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/320575.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cemitério Maldito: A Origem (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cTtrFUxMKUX4ZGfMfydym2AZQba.jpg" group-title="FILMES | LANÇAMENTOS 2023",Cemitério Maldito: A Origem (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/320576.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dezesseis Facadas (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/o5tWAiHfxEvu2z1qkJKU4gW1uPY.jpg" group-title="FILMES | LANÇAMENTOS 2023",Dezesseis Facadas (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/320577.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fale Comigo (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/n2HcaD1dEVrwXlSFJD7GmcqHSxv.jpg" group-title="FILMES | LANÇAMENTOS 2023",Fale Comigo (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/320578.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Loucas em Apuros (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/156UQ8cVp0rgsT7oTHDZye1Yj4d.jpg" group-title="FILMES | LANÇAMENTOS 2023",Loucas em Apuros (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/320579.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mansão Mal-Assombrada (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3puybXuYPlZPRplIVSrExZnWibb.jpg" group-title="FILMES | LANÇAMENTOS 2023",Mansão Mal-Assombrada (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/320580.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Caçador de Ratos (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5fHwVtgJLeOiaKENJ2s8BPY6Rvv.jpg" group-title="FILMES | LANÇAMENTOS 2023",O Caçador de Ratos (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/320581.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Day as a Lion (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cxSKca4dNlk7O7PMiEYT203vlIw.jpg" group-title="FILMES | LANÇAMENTOS 2023",One Day as a Lion (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/320582.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Rei dos Assassinos (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tHA2wltMBWuaTzOzSf7P2bzhmIy.jpg" group-title="FILMES | LANÇAMENTOS 2023",O Rei dos Assassinos (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/320583.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Camaleões (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2FKm87VF8VKkIFJtRoPsWiux4sr.jpg" group-title="FILMES | LANÇAMENTOS 2023",Camaleões (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/320525.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Destinos à Deriva (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hiNqwEkmW1oMlbQnNKlucIzvqjn.jpg" group-title="FILMES | LANÇAMENTOS 2023",Destinos à Deriva (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/320526.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Do Not Disturb (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gyuMSazHAcTSZRhe17NFMXPXOgi.jpg" group-title="FILMES | LANÇAMENTOS 2023",Do Not Disturb (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/320527.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Movimento de Jesus (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/m96gOrdyL5jC3u3Znaqq4AG1V8T.jpg" group-title="FILMES | LANÇAMENTOS 2023",Movimento de Jesus (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/320529.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nosso Amigo Extraordinário (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/f4448n6w3nxORg5LQstZpwFVao1.jpg" group-title="FILMES | LANÇAMENTOS 2023",Nosso Amigo Extraordinário (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/320530.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Engenheiro (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/daEvqdnGCrbk5yMkYkxoDpNuCkP.jpg" group-title="FILMES | LANÇAMENTOS 2023",O Engenheiro (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/320531.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Monstro que vive em Mim (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fDBAZRH4YiqtOrcTwmwbjz4KsXe.jpg" group-title="FILMES | LANÇAMENTOS 2023",O Monstro que vive em Mim (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/320532.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Equalizer 3 / O Protetor: Capitulo Final LEG (2023)" tvg-logo="http://i.imgur.com/jxdbb3R.jpg" group-title="FILMES | LANÇAMENTOS 2023",The Equalizer 3 / O Protetor: Capitulo Final LEG (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/320533.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drácula: A Última Viagem do Deméter (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pZaFdrYekwC9ITq4yWrkqEwCy3E.jpg" group-title="FILMES | LANÇAMENTOS 2023",Drácula: A Última Viagem do Deméter (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/320500.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Som da Liberdade LEG (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2BWhcrlPr6UvSJy5D044Ikq2QxH.jpg" group-title="FILMES | LANÇAMENTOS 2023",Som da Liberdade LEG (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/320501.mp4
+#EXTINF:-1 tvg-id="" tvg-name="À Espreita (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qfglisVh5Nmo1nGYCoMzqyZUWcz.jpg" group-title="FILMES | LANÇAMENTOS 2023",À Espreita (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/320494.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Discurso Oculto (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/a3mMwp42qXaA4DLNcXvNO0u01Pi.jpg" group-title="FILMES | LANÇAMENTOS 2023",Discurso Oculto (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/320495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Flora e Filho: Música em Família (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/i1Xv3pmIwEXmrbnMOwl6BExjV9a.jpg" group-title="FILMES | LANÇAMENTOS 2023",Flora e Filho: Música em Família (2023)
+http://7go.xyz:8080/movie/6196375557m/use6196/320496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Mercenários 4 - CINEMA (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dQxlUkhKGILgq9jbVEe3WPaiW2q.jpg" group-title="LANÇAMENTOS - 2023",Os Mercenários 4 - CINEMA (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91225.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guiado pelo Luar (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6FDQWH4n3CbdXy6okehSVVenX02.jpg" group-title="LANÇAMENTOS - 2023",Guiado pelo Luar (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91226.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Milhões de Quilômetros (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gve64tTbxgo5NErRkwKeMdlHt5o.jpg" group-title="LANÇAMENTOS - 2023",A Milhões de Quilômetros (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91223.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calça Quadrada apresenta: Zona das Marés (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rozwpOPiTEYnXygWGvUPST4lVQa.jpg" group-title="LANÇAMENTOS - 2023",Bob Esponja Calça Quadrada apresenta: Zona das Marés (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91218.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cabaré Eldorado: O Alvo dos Nazistas (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8acQ699CU6hNzH3Quxc6C2CaD6.jpg" group-title="LANÇAMENTOS - 2023",Cabaré Eldorado: O Alvo dos Nazistas (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91219.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cassandro (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hWHwWsKVr5GkmOI1hWgHZBYkRwi.jpg" group-title="LANÇAMENTOS - 2023",Cassandro (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91220.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ehrengard: A Ninfa do Lago (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eZwkqc75XDMy35keKJkk2rh3Jhf.jpg" group-title="LANÇAMENTOS - 2023",Ehrengard: A Ninfa do Lago (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91221.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Guarda-Florestal (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dE1VakahNpdAI7xYF2ia6ryEkL5.jpg" group-title="LANÇAMENTOS - 2023",Um Guarda-Florestal (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gran Turismo – De Jogador a Corredor (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qU60nhBRbKU23gIGrZi2CvUj6MQ.jpg" group-title="LANÇAMENTOS - 2023",Gran Turismo – De Jogador a Corredor (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jogos Mortais X - CINEMA (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8s2gd1BZbWLSKEnvYsM8xusbjMl.jpg" group-title="LANÇAMENTOS - 2023",Jogos Mortais X - CINEMA (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fale Comigo - LEG (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/n2HcaD1dEVrwXlSFJD7GmcqHSxv.jpg" group-title="FILMES LEGENDADOS",Fale Comigo - LEG (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91280.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Incrível História de Henry Sugar (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/azRL9bmByicPRzP0ljDNzFCwyUX.jpg" group-title="LANÇAMENTOS - 2023",A Incrível História de Henry Sugar (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91281.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Khun Pan 3 LEG (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t8ZPFl6HjRoDzxtGlfmbbSwSt9Z.jpg" group-title="LANÇAMENTOS - 2023",Khun Pan 3 LEG (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91282.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lista da Vingança (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/r8vVQ0blfRsRth1rCjNt45pY293.jpg" group-title="LANÇAMENTOS - 2023",A Lista da Vingança (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91283.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Escândalos na Igreja A Luz Do Mundo (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k7qyALu6MlC7DZVtDopWTvtoLN6.jpg" group-title="LANÇAMENTOS - 2023",Escândalos na Igreja A Luz Do Mundo (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91284.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Camaleões (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2FKm87VF8VKkIFJtRoPsWiux4sr.jpg" group-title="LANÇAMENTOS - 2023",Camaleões (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91285.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perdida (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yYVLZgee1MpLGAB4YMneCdWLpEq.jpg" group-title="LANÇAMENTOS - 2023",Perdida (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91252.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ninguém Vai te Salvar LEG (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hkIwPpdmGI1BaZeR2yrPSnNcv4v.jpg" group-title="LANÇAMENTOS - 2023",Ninguém Vai te Salvar LEG (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Indiana Jones e A Relíquia do Destino (LEG) 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ohyBuxe8peJQSdoS5hw31VmKCZ4.jpg" group-title="LANÇAMENTOS - 2023",Indiana Jones e A Relíquia do Destino (LEG) 2023
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Besouro Azul (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y5sdkgO4IJMTnkjh9PG7kREPWrP.jpg" group-title="LANÇAMENTOS - 2023",Besouro Azul (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="À Espreita (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qfglisVh5Nmo1nGYCoMzqyZUWcz.jpg" group-title="LANÇAMENTOS - 2023",À Espreita (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91250.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Superar um Coração em Pedaços (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1fI9VlE7pK0xZ7KtpG65vTG5c0p.jpg" group-title="LANÇAMENTOS - 2023",Como Superar um Coração em Pedaços (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91241.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coração de Neon (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ucT1MBlwoA0cLvZvjLrZsMaWmBq.jpg" group-title="LANÇAMENTOS - 2023",Coração de Neon (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91287.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Discurso Oculto (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/a3mMwp42qXaA4DLNcXvNO0u01Pi.jpg" group-title="LANÇAMENTOS - 2023",Discurso Oculto (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91288.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Destinos à Deriva (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hiNqwEkmW1oMlbQnNKlucIzvqjn.jpg" group-title="LANÇAMENTOS - 2023",Destinos à Deriva (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91289.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Feitiçaria (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/99wdStgFDTnrPbgpBt29lI87vai.jpg" group-title="LANÇAMENTOS - 2023",Feitiçaria (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91290.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie: Skipper e a Grande Aventura de Babás (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t8bt9rrcgK4K1G5VxeO8xkz9RQD.jpg" group-title="LANÇAMENTOS - 2023",Barbie: Skipper e a Grande Aventura de Babás (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91291.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Do Not Disturb (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gyuMSazHAcTSZRhe17NFMXPXOgi.jpg" group-title="LANÇAMENTOS - 2023",Do Not Disturb (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91292.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Veneno (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vblhZ7LkPJY9IahFDA0Oex0tPcy.jpg" group-title="LANÇAMENTOS - 2023",Veneno (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91293.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Engenheiro (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/daEvqdnGCrbk5yMkYkxoDpNuCkP.jpg" group-title="LANÇAMENTOS - 2023",O Engenheiro (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91294.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Day as a Lion (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cxSKca4dNlk7O7PMiEYT203vlIw.jpg" group-title="LANÇAMENTOS - 2023",One Day as a Lion (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91295.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Acusado (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9lcVaSYlHAwsDqU3UFtUo4xvCZ.jpg" group-title="LANÇAMENTOS - 2023",O Acusado (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91296.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Prisão 77 (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gC7l3ZMtwYpVzf200MXrTcO7hjP.jpg" group-title="LANÇAMENTOS - 2022",Prisão 77 (2022)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90815.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Tartarugas Ninjas: Caos Mutante - CINEMA (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/x0naXPYoLxzTzRgwKhzAjQPngnw.jpg" group-title="LANÇAMENTOS - 2023",As Tartarugas Ninjas: Caos Mutante - CINEMA (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90816.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gran Turismo - De Jogador a Corredor - CINEMA (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1FRIsFSl1AOpmpBIRnUFqO6U06A.jpg" group-title="LANÇAMENTOS - 2023",Gran Turismo - De Jogador a Corredor - CINEMA (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90817.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Melhor Lugar da Terra (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sL44B6R6yjuWWqUQENQRQUsHFfI.jpg" group-title="LANÇAMENTOS - 2023",O Melhor Lugar da Terra (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Portal Secreto (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3mu3olAbPYTm4GkEdsr6Bk1MU5.jpg" group-title="LANÇAMENTOS - 2023",O Portal Secreto (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90819.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quase Morta (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gSezYOBs7H3RG8rDcjsK3MqluxN.jpg" group-title="LANÇAMENTOS - 2023",Quase Morta (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90820.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Irmãos Aventura: O Filme (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oGX6dBRHjO2FsQG5FaNpS7NOtFs.jpg" group-title="LANÇAMENTOS - 2023",Os Irmãos Aventura: O Filme (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90821.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Clímax Entre Nós (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uWqExsoTbKijAV85lsFyARTGGiW.jpg" group-title="LANÇAMENTOS - 2023",Um Clímax Entre Nós (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90822.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Dia e Meio (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iOX6FMhdrVpCj0jbkj2KEftCPlU.jpg" group-title="LANÇAMENTOS - 2023",Um Dia e Meio (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90823.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Indiana Jones e A Relíquia do Destino - LEG (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9EnfMH0nTPCna87Mh3G8Q6W2wze.jpg" group-title="LANÇAMENTOS - 2023",Indiana Jones e A Relíquia do Destino - LEG (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90846.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Atirador: Resposta Global e Equipe Tática (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/v7mXgXpNZYYPVBo6sqdxjIhQIsb.jpg" group-title="LANÇAMENTOS - 2023",O Atirador: Resposta Global e Equipe Tática (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91300.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carga Máxima (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ocKoEvCPX809gWsyEXRP2zTViY5.jpg" group-title="LANÇAMENTOS - 2023",Carga Máxima (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91301.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Street Flow 2 (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ei6d2JFKaS0vJHReUP8hEfNBjPa.jpg" group-title="LANÇAMENTOS - 2023",Street Flow 2 (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91302.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drácula: A Última Viagem do Deméter (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pZaFdrYekwC9ITq4yWrkqEwCy3E.jpg" group-title="LANÇAMENTOS - 2023",Drácula: A Última Viagem do Deméter (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Megatubarão 2 (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8tBhAn6qVRQzf5yvEcxjgPMgTkw.jpg" group-title="LANÇAMENTOS - 2023",Megatubarão 2 (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90771.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Pequena Sereia (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yeo0MKX2cAE0Ge7qoeRCiMWvSjV.jpg" group-title="LANÇAMENTOS - 2023",A Pequena Sereia (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yRRuLt7sMBEQkHsd1S3KaaofZn7.jpg" group-title="LANÇAMENTOS - 2023",Barbie (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90921.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Inquietação (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/j8FuUkC5doaNfmFq21HIhp0u3eJ.jpg" group-title="LANÇAMENTOS - 2023",Inquietação (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Missão Clandestina (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4SD3g1emJlCGpAJ6yaVQHAh37To.jpg" group-title="LANÇAMENTOS - 2023",Missão Clandestina (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Heróis da Máscara Dourada (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wuuC2UVWsCSvAQNxvJiRJZLuYD3.jpg" group-title="LANÇAMENTOS - 2023",Heróis da Máscara Dourada (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Convento (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sGNVrW2TWMz4pWHayrRinZyCZ01.jpg" group-title="LANÇAMENTOS - 2023",O Convento (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90928.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shooting Stars: A Vida de Lebron James (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rzOxUgqkQeKyhyuKZqIj87VqFUg.jpg" group-title="LANÇAMENTOS - 2023",Shooting Stars: A Vida de Lebron James (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Justiceira (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2FexbKMBnFgdeik5d3tF9hYtxtR.jpg" group-title="LANÇAMENTOS - 2023",A Justiceira (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sutil Arte de Ligar o F*da-se (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jRRXELIL5G2L8SqrpZEEQF6MfwZ.jpg" group-title="FILMES DOCUMENTARIOS",A Sutil Arte de Ligar o F*da-se (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bares, Bolos e Amizades (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/98trDKdoX997KOF4i3xJL6vuXKl.jpg" group-title="LANÇAMENTOS - 2023",Bares, Bolos e Amizades (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90934.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Belas e Recatadas (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4fZdOTs8Jn2SXF6DEmcQoIl1rO5.jpg" group-title="LANÇAMENTOS - 2023",Belas e Recatadas (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Freestyle (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/x6HrGmmpVUX8XBI9Vg4hbSsdBCX.jpg" group-title="LANÇAMENTOS - 2023",Freestyle (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90936.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elementos (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7QsY7Jo3ZgL3pa1kdo28TA7Z6qo.jpg" group-title="LANÇAMENTOS - 2023",Elementos (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Missão de Sobrevivência (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ArDXxgsELJanwYDXd60MLTZDiSj.jpg" group-title="LANÇAMENTOS - 2023",Missão de Sobrevivência (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90942.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Tartarugas Ninjas: Caos Mutante (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/n3M5gSOjWYxFakAsGbi6OFFi4LZ.jpg" group-title="LANÇAMENTOS - 2023",As Tartarugas Ninjas: Caos Mutante (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90971.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em uma Terra Muito Distante… Havia um Crime (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8r9yZ6cmZ6bxIhqfo69X1m9jYNJ.jpg" group-title="LANÇAMENTOS - 2023",Em uma Terra Muito Distante… Havia um Crime (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91212.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minha Casa (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qbDfpHOgvnxIhVJLunxXFDL6fG5.jpg" group-title="LANÇAMENTOS - 2023",Minha Casa (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Noite Sangrenta (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kgND5yAax4aT4UXEXrEsZavlHDx.jpg" group-title="LANÇAMENTOS - 2023",Noite Sangrenta (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Conde (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gUYn97rRvnw7TkQbBhnt0WsU3JM.jpg" group-title="LANÇAMENTOS - 2023",O Conde (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="5000 Cobertas (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gTFyCihik0dZWbREhSTyyxg3cOQ.jpg" group-title="LANÇAMENTOS - 2023",5000 Cobertas (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lista (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/i0MdxxoNAzuANVnZkZcD15W1d5d.jpg" group-title="LANÇAMENTOS - 2023",A Lista (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90735.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mil e Um (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5zshgJxnUp409zZ9ULRKsLuLVWf.jpg" group-title="LANÇAMENTOS - 2023",Mil e Um (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90736.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entre Mulheres (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lH5qPokImvjzg18DxURFS3Clmyw.jpg" group-title="LANÇAMENTOS - 2023",Entre Mulheres (2022)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90737.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Outros Tempos (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hM1WknAN6uOeH2YxTQ9RaI0C3Uj.jpg" group-title="LANÇAMENTOS - 2023",Em Outros Tempos (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90738.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Babylon 5: O Caminho (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zaXdRG8bCdK923JsmSej37j517C.jpg" group-title="LANÇAMENTOS - 2023",Babylon 5: O Caminho (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90739.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor 2 para Sempre (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cD67jLjJcPKFyIRlyLmECyENrz6.jpg" group-title="LANÇAMENTOS - 2023",Amor 2 para Sempre (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90741.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sorte Grande (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/e2DiRIkVUURXD40JxcrO1D1i8Og.jpg" group-title="LANÇAMENTOS - 2022",A Sorte Grande (2022)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90742.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ruby Marinho - Monstro Adolescente (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nNcxpjCtcawf8wQmTwnA0u1jukC.jpg" group-title="LANÇAMENTOS - 2023",Ruby Marinho - Monstro Adolescente (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="That Time I Get Reincarnated as a Slime: O Filme (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/13SyU6DvAwgI5MZdYJPTjhk6N50.jpg" group-title="FILMES COLECAO ANIMES",That Time I Get Reincarnated as a Slime: O Filme (2022)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90744.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Conferência (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/A3xi46qJs9kGAgsPrUj8DgGjjhc.jpg" group-title="LANÇAMENTOS - 2022",A Conferência (2022)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90745.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pânico Americano (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xQQfM9y3nTRTd5YjsOmMOjTetU9.jpg" group-title="LANÇAMENTOS - 2022",Pânico Americano (2022)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90746.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terror no Deserto (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/md4YiWgaR40nicvbPIq7BCE4qQY.jpg" group-title="LANÇAMENTOS - 2022",Terror no Deserto (2022)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90747.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Oppenheimer - CINEMA (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/h2NqJnjixzVGaK0G8EVAtwO1Z8J.jpg" group-title="LANÇAMENTOS - 2023",Oppenheimer - CINEMA (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Torneio de Natal: De Volta ao Lar (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cMcHGdL9zgn9HtAoR5DAmliHDn6.jpg" group-title="LANÇAMENTOS - 2023",Torneio de Natal: De Volta ao Lar (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90456.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Candidato Independente (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/q8gFImSuiQ3JbhDpfNpUZLYyMqE.jpg" group-title="LANÇAMENTOS - 2023",O Candidato Independente (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90457.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clube dos Anjos Caídos: Heróis e Vilões (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2JyigSCO9VLX50SjJSMfswhz0n.jpg" group-title="LANÇAMENTOS - 2022",Clube dos Anjos Caídos: Heróis e Vilões (2022)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90458.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clube dos Anjos Caídos: Assassinatos Misteriosos (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mcG9oRbsI73rqin0l7px9Fkfv8n.jpg" group-title="LANÇAMENTOS - 2023",Clube dos Anjos Caídos: Assassinatos Misteriosos (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90459.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Isabella: o Caso Nardoni (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/53pmHd5XialRnoTXlLwwBaezEOs.jpg" group-title="LANÇAMENTOS - 2023",Isabella: o Caso Nardoni (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90460.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor, Sexo e 30 Velinhas (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gqUYMRFi5CZLJdM0OXzwetqFRux.jpg" group-title="LANÇAMENTOS - 2023",Amor, Sexo e 30 Velinhas (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90462.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Noite das Vampiras (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rfL90K38rs84C7CB89wM92hPv68.jpg" group-title="LANÇAMENTOS - 2023",A Noite das Vampiras (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90463.mp4
+#EXTINF:-1 tvg-id="" tvg-name="10 Dias de um Homem Mau (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fl0vUwiKyxEauecs9UCh8cGRzZH.jpg" group-title="LANÇAMENTOS - 2023",10 Dias de um Homem Mau (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90464.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Força de Pai para Filha (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fV638xlTJDKIGwURcs3y7AmWUGt.jpg" group-title="LANÇAMENTOS - 2022",Força de Pai para Filha (2022)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90466.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Rei Macaco (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bmwK5QCznqUT8bcDR7qROrxqgov.jpg" group-title="LANÇAMENTOS - 2023",O Rei Macaco (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90468.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vingança Pelo Passado (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nO8cPPQOVN2D1kQG26tdNfgrPay.jpg" group-title="LANÇAMENTOS - 2022",Vingança Pelo Passado (2022)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90470.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Máquina do Crime (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/x9dGI7LIOMMlFzyIBUta1svft2Y.jpg" group-title="LANÇAMENTOS - 2023",A Máquina do Crime (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90471.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nikki e Nora: Gêmeas em Ação (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8bcg5Xtzj8Sg5ivEdjt0DOe3WSR.jpg" group-title="LANÇAMENTOS - 2023",Nikki e Nora: Gêmeas em Ação (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="River Wild (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fffPeOw5Ld8CrI8X9X36wMSzXuX.jpg" group-title="LANÇAMENTOS - 2023",River Wild (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90473.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Já Estou Te Vendo (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4Q5RgCruZdzdgaORFxP0tA9aULP.jpg" group-title="LANÇAMENTOS - 2023",Já Estou Te Vendo (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90474.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Devil's Peak (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1zMicGEwmGJTcxKT6h7mORVmORL.jpg" group-title="LANÇAMENTOS - 2023",Devil's Peak (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pretendente (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bPlPJn8ruIwovyYeKjghbnYJs5Y.jpg" group-title="LANÇAMENTOS - 2022",O Pretendente (2022)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90476.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jagun Jagun: O Guerreiro (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2NrM70jJ4NPST409wHER8ZVZiKo.jpg" group-title="LANÇAMENTOS - 2023",Jagun Jagun: O Guerreiro (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corvo Branco (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1zNcJWXQYgMDAF3pNoqxU47FHfc.jpg" group-title="LANÇAMENTOS - 2022",Corvo Branco (2022)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89951.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Banidos (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6TKhFSJW09z2k6WPxB10ey2GMuC.jpg" group-title="LANÇAMENTOS - 2022",Banidos (2022)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Que Horas Eu Te Pego? (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/en47PkDX8IhtQA3i1MYslx8eH91.jpg" group-title="LANÇAMENTOS - 2023",Que Horas Eu Te Pego? (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89953.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sede Sem Fim (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ocuh1V9ddIF7YiXk0s0PpKr7mpH.jpg" group-title="LANÇAMENTOS - 2023",Sede Sem Fim (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89954.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sinal Divino (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6qpYwWq6KxuLTjmLfBVcGtjdz4g.jpg" group-title="LANÇAMENTOS - 2023",Sinal Divino (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89955.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vermelho, Branco e Sangue Azul (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4f19r2t4gjbgMC6RbE8GYF2h46j.jpg" group-title="LANÇAMENTOS - 2023",Vermelho, Branco e Sangue Azul (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zoey 102: O Casamento (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/liVS0KJMviz4iOfbrZkLqdCzBIp.jpg" group-title="LANÇAMENTOS - 2023",Zoey 102: O Casamento (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Aranha Negra (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AkwflqboRNXvwwdY9d5fHijztjL.jpg" group-title="LANÇAMENTOS - 2022",A Aranha Negra (2022)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89958.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agente Stone (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9EpaPaKozP2b8L1hJekBFI75gCm.jpg" group-title="LANÇAMENTOS - 2023",Agente Stone (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha: Através do Aranhaverso (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4CwKj1fw33BXYzxvrpM3GlAhK4L.jpg" group-title="LANÇAMENTOS - 2023",Homem-Aranha: Através do Aranhaverso (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Transformers: O Despertar das Feras (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zEqwfO5R2LrrLgV61xm8M9TmNTG.jpg" group-title="LANÇAMENTOS - 2023",Transformers: O Despertar das Feras (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89784.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hora do Armagedon (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2bVjSEaLsUxUZ4Dutz9qRF5zXyd.jpg" group-title="LANÇAMENTOS - 2022",Hora do Armagedon (2022)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89785.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meus Sogros Tão pro Crime (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/49nATL5ugRRdz5dQdWuPuTzB8BE.jpg" group-title="LANÇAMENTOS - 2023",Meus Sogros Tão pro Crime (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89790.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sr. Carrinho e os Cavaleiros Templários (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qWuCK5h5o7pQDILZgQYHSIc59TX.jpg" group-title="LANÇAMENTOS - 2023",Sr. Carrinho e os Cavaleiros Templários (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89793.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Blackening - LEG (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ooB4KSRRhp7XYRQUmsi82iFnMNC.jpg" group-title="LANÇAMENTOS - 2023",The Blackening - LEG (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89794.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Táticas do Amor 2 (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fQTigx0WsCBdxeVZnaH6KqA8YoN.jpg" group-title="LANÇAMENTOS - 2023",Táticas do Amor 2 (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89795.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Filha da Noiva (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/u3N82ILIbrUaE7DWG46jjXdFWpY.jpg" group-title="LANÇAMENTOS - 2023",A Filha da Noiva (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89796.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Motivo para Lutar (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/n5320Te725bESCpbHPX0li0VZBw.jpg" group-title="LANÇAMENTOS - 2023",Um Motivo para Lutar (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89797.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman: A Perdição Chegou a Gotham (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hTQMObXnPjV8Yo90hiC7quSz0U7.jpg" group-title="LANÇAMENTOS - 2023",Batman: A Perdição Chegou a Gotham (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89798.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Explorando o Desconhecido: Caverna de Ossos (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/irDu0rnlzTpl8RkOEl7XG2B88tJ.jpg" group-title="LANÇAMENTOS - 2023",Explorando o Desconhecido: Caverna de Ossos (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89799.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cadê o Amarildo? (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/j8EynTfwbqMnjQ7Z1kNoct9UAb4.jpg" group-title="LANÇAMENTOS - 2023",Cadê o Amarildo? (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89800.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Estações do Amor (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/he3FIuyDwmFABb21QM6F4P5Z8z5.jpg" group-title="LANÇAMENTOS - 2023",Estações do Amor (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89801.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desejo Proibido (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xa0xWdFSGuFVVK5GMt8GSurfFjl.jpg" group-title="LANÇAMENTOS - 2023",Desejo Proibido (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89802.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição do Quarto 203 (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rVMZU956t7UASJ564shWckwFboJ.jpg" group-title="LANÇAMENTOS - 2022",A Maldição do Quarto 203 (2022)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89803.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Tirar o Fôlego (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dinZWscZF1xjO6T36dHRB11ZWx7.jpg" group-title="LANÇAMENTOS - 2023",De Tirar o Fôlego (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89805.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sede Assassina (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kVGrAqS2C0tEWyuZ7kf7sFLA3CQ.jpg" group-title="LANÇAMENTOS - 2023",Sede Assassina (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89806.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Na Mira (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/puffdkze3GZmQHu2Hy8t1XdOYtM.jpg" group-title="LANÇAMENTOS - 2023",Na Mira (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89807.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato dos Sonhos (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2mVp9HGAudUZ1rv66tMC6kK22JM.jpg" group-title="LANÇAMENTOS - 2023",Campeonato dos Sonhos (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89851.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mochileiro Kai: Herói ou Assassino? (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kqLloC5n66fLvhlWtZBr8h4SVF6.jpg" group-title="LANÇAMENTOS - 2023",O Mochileiro Kai: Herói ou Assassino? (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89852.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Seguindo Em Frente (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pUZxbnF2i4gHf55tjuKIURDi8vR.jpg" group-title="LANÇAMENTOS - 2023",Seguindo Em Frente (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89853.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Chamado 4: Samara Ressurge (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7IlDfL40rIe1bVERCxXUJJfx2en.jpg" group-title="LANÇAMENTOS - 2023",O Chamado 4: Samara Ressurge (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89855.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pequeno Roubo do Grande Nunu (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k4fi3epbUws0Y8qbudyCIaNjciw.jpg" group-title="LANÇAMENTOS - 2023",O Pequeno Roubo do Grande Nunu (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89856.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desaparecida: O Caso Lucie Blackman (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bz44Ug0pzMwV0kjNTeS4y1lxUar.jpg" group-title="LANÇAMENTOS - 2023",Desaparecida: O Caso Lucie Blackman (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89857.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hoje Falaremos sobre Aquele Dia (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bdVGmfQoNkR8mJwJrbAq4r1iOOC.jpg" group-title="LANÇAMENTOS - 2023",Hoje Falaremos sobre Aquele Dia (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89858.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Projeto Extração (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t3vZkkM5G40pUJxUzkz69H777Hm.jpg" group-title="LANÇAMENTOS - 2023",Projeto Extração (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89860.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quem Matou? (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wURuMRNINuztoC0HotYMVfWfyPt.jpg" group-title="LANÇAMENTOS - 2023",Quem Matou? (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89861.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elementos - CAM (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/88OGFOcFI04CL4uucb6I7ZzUqD6.jpg" group-title="LANÇAMENTOS - 2023",Elementos - CAM (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombras de um Crime (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vRSbYibtGcEYBFfCAkkvSCF9eES.jpg" group-title="LANÇAMENTOS - 2023",Sombras de um Crime (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S.O.S Mamis 2: Mosquita Muerta (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4vE2jGGTggPLxOTqnWD9ZohPQZI.jpg" group-title="LANÇAMENTOS - 2023",S.O.S Mamis 2: Mosquita Muerta (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Liga da Justiça: Mundo Bélico (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yxXOMGosmqgjFicfmde61wnwQQ4.jpg" group-title="LANÇAMENTOS - 2023",Liga da Justiça: Mundo Bélico (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batismo de Sangue (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fJRt3mmZEvf8gQzoNLzjPtWpc9o.jpg" group-title="LANÇAMENTOS - 2023",Batismo de Sangue (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Untold: Jake Paul, O Garoto Problema (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qvl8lx0wIK5VyFMLEOKmdaoR2XJ.jpg" group-title="LANÇAMENTOS - 2023",Untold: Jake Paul, O Garoto Problema (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Operação: Arma Secreta (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lHRid7SIsqHAG8hlxbg2u5E9ouN.jpg" group-title="LANÇAMENTOS - 2023",Operação: Arma Secreta (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guardiões da Galáxia: Vol. 3 (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4yycSPnchdNAZirGkmCYQwTd3cr.jpg" group-title="LANÇAMENTOS - 2023",Guardiões da Galáxia: Vol. 3 (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quando Você Terminar de Salvar o Mundo (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pZyeoBDQJFPGfd0Mu8XIElGBjZz.jpg" group-title="LANÇAMENTOS - 2023",Quando Você Terminar de Salvar o Mundo (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="No Ritmo da Fé (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sVWU32CuOOEuHxwEjI2NsI4WDc4.jpg" group-title="LANÇAMENTOS - 2023",No Ritmo da Fé (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89936.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paint (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jZ1PhCyXEySYR7f9q52KYb62Bwp.jpg" group-title="LANÇAMENTOS - 2023",Paint (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Três Mosqueteiros: D’Artagnan (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tps40YlcyllmGLAOrAHUez72CQA.jpg" group-title="LANÇAMENTOS - 2023",Os Três Mosqueteiros: D’Artagnan (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: Ilha da Morte (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3Vz6icBGDtsGEcVIjFKBRW0u5qK.jpg" group-title="LANÇAMENTOS - 2023",Resident Evil: Ilha da Morte (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89939.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paraíso (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tmGuklpV65Ve9vBNvGEMMQX6xR8.jpg" group-title="LANÇAMENTOS - 2023",Paraíso (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89940.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(In) Seguros (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/geqLzzDs1w08qojyFOD8eqlXFwz.jpg" group-title="LANÇAMENTOS - 2023",(In) Seguros (2023)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89941.mp4
+
+#EXTM3U url-tvg=" http://grade-de-RECÉM CHEGADOS.xml "
+ ############## RECÉM CHEGADOS ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeRECÉM CHEGADOS" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Uma Chance para Vencer (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jM9HhujEVbKAG0gaUXVzuCinrLC.jpg" group-title="RECÉM CHEGADOS",Uma Chance para Vencer (2022)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desvio de Conduta (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1dJuX3YlWxfK54r6GbTaxoEwgGA.jpg" group-title="RECÉM CHEGADOS",Desvio de Conduta (2021)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91222.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Geração do Mal (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xcHUuWAUHT7aAoV6IddtgD0qUVI.jpg" group-title="RECÉM CHEGADOS",A Geração do Mal (2022)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91224.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Histórias de Meninas (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aGeud4Kor6RKhx2jXWyDo7Dyryy.jpg" group-title="RECÉM CHEGADOS",Histórias de Meninas (2020)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91240.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cor da Vingança (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/w65phx3T8pvrdtuOQFniNElssNr.jpg" group-title="RECÉM CHEGADOS",A Cor da Vingança (2020)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91242.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batalha dos Drones (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dhHpbBemuyEBgcYGrmm7bHpjgdO.jpg" group-title="RECÉM CHEGADOS",Batalha dos Drones (2018)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aldeia Maldita (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nf4w2flxKHpzX7C2OCTiqzUl9xn.jpg" group-title="RECÉM CHEGADOS",Aldeia Maldita (2022)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91286.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Na Linha de Frente (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/flMRy43ua8UQOkp555xZAQ9fYQn.jpg" group-title="RECÉM CHEGADOS",Na Linha de Frente (2021)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="JACK: A Caixa Maldita 2 - O Despertar (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uRzhyPrwsfHxSKIvywkKw0Noy6D.jpg" group-title="RECÉM CHEGADOS",JACK: A Caixa Maldita 2 - O Despertar (2022)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91297.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Outback (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1eEaliCKndXuINMjcb2ATXUMYIa.jpg" group-title="RECÉM CHEGADOS",Outback (2019)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91298.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resgate Em Alto Risco (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/upovHgcBI4z2J9CWXKwBWgGXyZ0.jpg" group-title="RECÉM CHEGADOS",Resgate Em Alto Risco (2019)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91299.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Noite de Aventuras (1987)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zIciAcISdtIucj6FWwBjaqZsDC7.jpg" group-title="RECÉM CHEGADOS",Uma Noite de Aventuras (1987)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90772.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Garotos Perdidos (1987)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xlzkIfReoFJbPkbV67NcsuMcu6T.jpg" group-title="RECÉM CHEGADOS",Os Garotos Perdidos (1987)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90773.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Da Magia à Sedução (1998)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sGRwVHB7KPGjIlqFtCIHTG9trOw.jpg" group-title="RECÉM CHEGADOS",Da Magia à Sedução (1998)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tudo Sob Descontrole (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AcWVVhcN1FfUG9zZw9fIoWWGDzt.jpg" group-title="RECÉM CHEGADOS",Tudo Sob Descontrole (2022)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Glimmer Man: O Homem das Sombras (1996)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7DeDJlv5SHbmhJhwVHfxKymkAw5.jpg" group-title="RECÉM CHEGADOS",Glimmer Man: O Homem das Sombras (1996)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor em Tempos de Ódio (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7ZGqze3H7kNIIKZxWYf60Eng5jX.jpg" group-title="RECÉM CHEGADOS",Amor em Tempos de Ódio (2018)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90920.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Para Sempre (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8AVXJ8ujLoRduPlI7TSs0nfv2rW.jpg" group-title="RECÉM CHEGADOS",Para Sempre (2012)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90923.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Karma: Aqui se Faz, Aqui se Paga (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/czhIpy9QnnxdaSGrLOVJT67R5gO.jpg" group-title="RECÉM CHEGADOS",Karma: Aqui se Faz, Aqui se Paga (2018)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91204.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nem Tudo se Desfaz (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zoQYJzuHFc1cAB1Mtog6GPaA6bH.jpg" group-title="RECÉM CHEGADOS",Nem Tudo se Desfaz (2021)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91205.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Fazendeiros (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xCYU94Z1glxPnLCRRIKDr3QUDwx.jpg" group-title="RECÉM CHEGADOS",Os Fazendeiros (2020)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91209.mp4
+#EXTINF:-1 tvg-id="" tvg-name="10 Coisas Que Deveríamos Fazer Antes de Nos Separar (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bS1rZqjcvk3WPCXVBgHeDY6FVRC.jpg" group-title="RECÉM CHEGADOS",10 Coisas Que Deveríamos Fazer Antes de Nos Separar (2020)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91210.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Trajeto (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ducffbn4tq3WS1mrULO5qNuLdL0.jpg" group-title="RECÉM CHEGADOS",O Trajeto (2022)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91207.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shaun, o Carneiro - O Filme: A Fazenda Contra-Ataca (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uVr8U96Pbj7sLk9qX6EQ8s3eTin.jpg" group-title="RECÉM CHEGADOS",Shaun, o Carneiro - O Filme: A Fazenda Contra-Ataca (2019)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/91208.mp4
+#EXTINF:-1 tvg-id="" tvg-name="100 Dias de Resistência (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/naG6PCVZupvYaOf9kGgKd2MVZRZ.jpg" group-title="RECÉM CHEGADOS",100 Dias de Resistência (2019)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89942.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Surpresas do Amor (2008)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/j237FZEU0K96o01nIihgABvN4qy.jpg" group-title="RECÉM CHEGADOS",Surpresas do Amor (2008)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89972.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gilbert Grape: Aprendiz de Sonhador (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tjJFsCsiVO0cE1okiuLn4Ip9WJL.jpg" group-title="RECÉM CHEGADOS",Gilbert Grape: Aprendiz de Sonhador (1993)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Prometheus (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k1GZVllOORTiN0XTPdumt9CSAcc.jpg" group-title="RECÉM CHEGADOS",Prometheus (2012)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90770.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tomorrowland: Um Lugar Onde Nada é Impossível (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7LSHV9WgXYbjLp3GT3RdGSwNStN.jpg" group-title="RECÉM CHEGADOS",Tomorrowland: Um Lugar Onde Nada é Impossível (2015)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90477.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marcado pela Promessa (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3itzZEFlXu9V8ZA7qecQdZbXlit.jpg" group-title="RECÉM CHEGADOS",Marcado pela Promessa (2013)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90529.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trigun Badlands Rumble (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/a42iYcJ72VnOJKBJ6P5aWx2r9zs.jpg" group-title="FILMES COLECAO ANIMES",Trigun Badlands Rumble (2011)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90454.mp4
+#EXTINF:-1 tvg-id="" tvg-name="U311: Guerra em Alto Mar (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iyZ5xWPmGEuGopE1NPzSQiPO0Zj.jpg" group-title="RECÉM CHEGADOS",U311: Guerra em Alto Mar (2020)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90455.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Departamento Q: O Efeito Marco (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5rhSefNpdyN7WHG8MnzRl7op4W.jpg" group-title="RECÉM CHEGADOS",Departamento Q: O Efeito Marco (2021)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/90461.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Justiceiro: Em Zona de Guerra (2008)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2KL3iyDWRnrtHQTAg25YCXAcUxT.jpg" group-title="RECÉM CHEGADOS",O Justiceiro: Em Zona de Guerra (2008)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89791.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sherlock Holmes (2010)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wsJkEzktZV83DXlQItsO1ooGGq0.jpg" group-title="RECÉM CHEGADOS",Sherlock Holmes (2010)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89792.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zona Fria (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/c47vzme1QvFdSYaVJuyy8rtJdBB.jpg" group-title="RECÉM CHEGADOS",Zona Fria (2017)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89808.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rota de Fuga 2: Hades (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7uYD4Ix66hOsvUVewoYQbuc51Hy.jpg" group-title="RECÉM CHEGADOS",Rota de Fuga 2: Hades (2018)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/89843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(500) Dias com Ela (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b2VWV3v3Tz8BMEvqG7v8cI17Gsj.jpg" group-title="RECÉM CHEGADOS",(500) Dias com Ela (2009)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/87125.mp4
+
+#EXTM3U url-tvg=" http://grade-de-FILMES AÇÃO.xml "
+ ############## FILMES AÇÃO ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES AÇÃO" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="14 Lâminas (2010)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jPXz3epxdiqcObizA301WNIySWc.jpg" group-title="FILMES AÇÃO",14 Lâminas (2010)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/10761.mp4
+#EXTINF:-1 tvg-id="" tvg-name="12 Heróis (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pZb2R5gsV1SoBCLZtTzOqnODdf8.jpg" group-title="FILMES AÇÃO",12 Heróis (2018)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/10754.mp4
+#EXTINF:-1 tvg-id="" tvg-name="12 Horas (2012)" tvg-logo="http://ccdnblck.xyz:80/images/d5b1e50ce6ce11b963c9d73184642174.jpg" group-title="FILMES AÇÃO",12 Horas (2012)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/12718.mp4
+#EXTINF:-1 tvg-id="" tvg-name="13 - O Jogador (2010)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2sn3dMJYxhxCJ6cMCXAtBUjAeg1.jpg" group-title="FILMES AÇÃO",13 - O Jogador (2010)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/10758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="13 Assassinos (2010)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ndq5AirBAWW5zcRFIs4qu1YPk2V.jpg" group-title="FILMES AÇÃO",13 Assassinos (2010)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/10759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="13 Dias Que Abalaram o Mundo (2000)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sZFsobB9BAPWXA07bwag7wwHfvG.jpg" group-title="FILMES AÇÃO",13 Dias Que Abalaram o Mundo (2000)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/15310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="15 Minutos (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7NpTxlHcMz5dV9LEBrCcDTegruq.jpg" group-title="FILMES AÇÃO",15 Minutos (2001)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/10762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="16 Quadras (2006)" tvg-logo="http://ccdnblck.xyz:80/images/427961762bdbe9d47877ef353e02a858.jpg" group-title="FILMES AÇÃO",16 Quadras (2006)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/10764.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2 Campeões de Shaolin (1980)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nhOwyIZI0YTSPwXcYKAN9k0hpxm.jpg" group-title="FILMES AÇÃO",2 Campeões de Shaolin (1980)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/10717.mp4
+#EXTINF:-1 tvg-id="" tvg-name="47 Ronins (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pKM4v6dZ1LSKzRQxN0YEbmCKGAH.jpg" group-title="FILMES AÇÃO",47 Ronins (2013)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/10774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="22 Balas (2010)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3EkhsU6augJjLU83AiONvs3y97s.jpg" group-title="FILMES AÇÃO",22 Balas (2010)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/10767.mp4
+#EXTINF:-1 tvg-id="" tvg-name="22 Milhas (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qgiU6AvEoyuLMnt7KnoubXrKsC.jpg" group-title="FILMES AÇÃO",22 Milhas (2018)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/10768.mp4
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas: A Redenção (2008)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tcKmFtVPgQMO6W21pqtEloY28Bj.jpg" group-title="FILMES AÇÃO",24 Horas: A Redenção (2008)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/10769.mp4
+#EXTINF:-1 tvg-id="" tvg-name="3 Ninjas (1992)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/KaUfT7TvsZt26OwBqmbPiMxvhO.jpg" group-title="FILMES AÇÃO",3 Ninjas (1992)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/10724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="300 (2007)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9W49fy5G7v9Ed3CXtvMi41YqZtt.jpg" group-title="FILMES AÇÃO",300 (2007)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/10781.mp4
+#EXTINF:-1 tvg-id="" tvg-name="438 Dias (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/88C3eml0THgk3gOV23XDotOppJv.jpg" group-title="FILMES AÇÃO",438 Dias (2019)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/79191.mp4
+#EXTINF:-1 tvg-id="" tvg-name="6 Balas - 2013" tvg-logo="http://ccdnblck.xyz:80/images/588200be136080f7993169fae690aad7.jpg" group-title="FILMES AÇÃO",6 Balas - 2013
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/10732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="60 Segundos (2000)" tvg-logo="http://ccdnblck.xyz:80/images/d13a1d64e57535a50fb5edf9f984a674.jpg" group-title="FILMES AÇÃO",60 Segundos (2000)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/40492.mp4
+#EXTINF:-1 tvg-id="" tvg-name="7 minutos (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/g623urlOgFtEMLKIoofj1dhzycX.jpg" group-title="FILMES AÇÃO",7 minutos (2009)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/10737.mp4
+#EXTINF:-1 tvg-id="" tvg-name="7 Minutos na Escuridão (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hL1VXRgnzzTEvm6ZNwK4joAcyn1.jpg" group-title="FILMES AÇÃO",7 Minutos na Escuridão (2018)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/10738.mp4
+#EXTINF:-1 tvg-id="" tvg-name="8 tiros (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ag6Ac76cJiks3Zo69teA0as8Azk.jpg" group-title="FILMES AÇÃO",8 tiros (2015)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/14305.mp4
+#EXTINF:-1 tvg-id="" tvg-name="88 Minutos (2007)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zruM3Lu6tkAuYmi0Owg7g73xS5T.jpg" group-title="FILMES AÇÃO",88 Minutos (2007)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/10776.mp4
+#EXTINF:-1 tvg-id="" tvg-name="8MM 2 (2005)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bSikt4O0ZrR8xVrsP8wliGybZwU.jpg" group-title="FILMES AÇÃO",8MM 2 (2005)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/10747.mp4
+#EXTINF:-1 tvg-id="" tvg-name="8mm: Oito Milímetros (1999)" tvg-logo="http://ccdnblck.xyz:80/images/473c33f4229e4331d05e30092fa2dc8e.jpg" group-title="FILMES AÇÃO",8mm: Oito Milímetros (1999)
+http://joao-1-us.mainbkonline.shop:80/movie/vagner6/atto270901/10746.mp4
+
 #EXTM3U url-tvg=" http://grade-de-FILMES TV FAX GOSPEL.xml "
  ############## FILMES TV FAX GOSPEL ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES TV FAX GOSPEL" group-title="
@@ -3251,10 +3683,120 @@ https://play.prod.gcp.vix.services/saint-janet_pt/saint-janet_pt_1-1/play_v2_hls
 #EXTINF:-1 tvg-id="" tvg-name=" Tomé  " tvg-logo="https://images.a12.com/source/files/c/254229/Filme_Tome-834200_600-315-0-0.jpg" group-title="FILMES TV FAX GOSPEL",Tomé
 https://play.prod.gcp.vix.services/gli-amici-tommaso_pt/gli-amici-tommaso_pt_1-1/play_v1_hls_1080p.m3u8
 
+#EXTM3U url-tvg="http://grade-de-FILME TV e Radio FAX archive.xml"
+############## FILME TV e Radio FAX archive ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILME TV e Radio FAX archive" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Os Heróis Da Ferrovia"tvg-logo="https://i.ytimg.com/vi/7aycWcx7CoY/hqdefault.jpg"group-title="FILME TV e Radio FAX archive",Os Heróis Da Ferrovia
+https://ia600509.us.archive.org/18/items/os-herois-da-ferrovia-tv-fax/Os%20Her%C3%B3is%20Da%20Ferrovia%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Operação Supletivo Agora Vai"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGYHrb2ZEAlITLcn3aqEX8Y5tO7vBr9SMNA_3l2mZCLqn-G2F2T_WoHqJXwgjG4-AmJTE&usqp=CAU"group-title="FILME TV e Radio FAX archive",Operação Supletivo Agora Vai
+https://ia902704.us.archive.org/32/items/operacao-supletivo-agora-vai-tv-fax_202311/Opera%C3%A7%C3%A3o%20Supletivo%20Agora%20Vai%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Meninos Que Enganavam Nazistas"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN0V16Fc76mUtKM3fTMM_73QpV3_vOU0aYJ3VmdtrjvzQHmSE_YkBlK5V9rf7MOcSuFCE&usqp=CAU"group-title="FILME TV e Radio FAX archive",Os Meninos Que Enganavam Nazistas
+https://ia600508.us.archive.org/1/items/os-meninos-que-enganavam-nazistas-tv-fax_202311/Os%20Meninos%20Que%20Enganavam%20Nazistas%20%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Smurfs E A Vila Perdida"tvg-logo="https://play-lh.googleusercontent.com/SvrtMKYkiREyNHLcZHx5CXx8io_dl-cRxzPLsJ5hBmMNIH_NtfmnOT2bPO6PlJkfy0D44w"group-title="FILME TV e Radio FAX archive",Os Smurfs E A Vila Perdida
+https://ia600501.us.archive.org/2/items/os-smurfs-e-a-vila-perdida-tv-fax_202311/Os%20Smurfs%20e%20a%20Vila%20Perdida%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Smurfs 2"tvg-logo="https://musicart.xboxlive.com/7/59251500-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080"group-title="FILME TV e Radio FAX archive",Os Smurfs 2
+https://ia800500.us.archive.org/6/items/os-smurfs-2-tv-fax/Os%20Smurfs%202%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Irmãos Sisters"tvg-logo="https://br.web.img2.acsta.net/pictures/18/08/31/12/39/3267223.jpg"group-title="FILME TV e Radio FAX archive",Os Irmãos Sisters
+https://ia601803.us.archive.org/10/items/os-irmaos-sisters-tv-fax/Os%20Irm%C3%A3os%20Sisters%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="42 A História De Uma Lenda"tvg-logo="https://www.planocritico.com/wp-content/uploads/2020/09/42_a_historia_de_uma_lenda_1_plano_critico.jpg"group-title="FILME TV e Radio FAX archive",42 A História De Uma Lenda
+https://ia601701.us.archive.org/30/items/42-a-historia-de-uma-lenda-tv-fax_202311/42%20A%20Hist%C3%B3ria%20de%20uma%20Lenda%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bravura De Molly"tvg-logo="https://img.youtube.com/vi/Ph34_UEOH5Q/maxresdefault.jpg"group-title="FILME TV e Radio FAX archive",A Bravura De Molly
+https://ia600504.us.archive.org/34/items/a-bravura-de-molly-tv-fax_202311/A%20Bravura%20de%20Molly%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Osso Duro"tvg-logo="https://i.ytimg.com/vi/829_mfKOhlk/sddefault.jpg"group-title="FILME TV e Radio FAX archive",Osso Duro
+https://ia800506.us.archive.org/5/items/osso-duro-tv-fax/Osso%20Duro%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Para Sempre"tvg-logo="https://play-lh.googleusercontent.com/pttzqtsXAYtZldyHkYPJz2MhiJqaB1PUGVYPxZT9oXUd9mcx5kMyf-o5k3N60oiQAWeX"group-title="FILME TV e Radio FAX archive",Para Sempre
+https://ia800501.us.archive.org/8/items/para-sempre-tv-fax/Para%20Sempre%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Queda"tvg-logo="https://http2.mlstatic.com/D_NQ_NP_871147-MLB70261734526_072023-O.webp"group-title="FILME TV e Radio FAX archive",A Queda
+https://ia802700.us.archive.org/32/items/a-queda-dublado-tv-fax_202311/A%20Queda%20DUBLADO%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Se Deus Vier Que Venha Armado"tvg-logo="https://i.ytimg.com/vi/IlOxKdrCuAw/maxresdefault.jpg"group-title="FILME TV e Radio FAX archive",Se Deus Vier Que Venha Armado
+https://ia601509.us.archive.org/21/items/se-deus-vier-que-venha-armado-tv-fax_202311/Se%20Deus%20Vier%20Que%20Venha%20Armado%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Silverton Cerco Fechado"tvg-logo="https://i.ytimg.com/vi/-0oVKblZjj0/maxresdefault.jpg"group-title="FILME TV e Radio FAX archive",Silverton Cerco Fechado
+https://ia902700.us.archive.org/35/items/silverton-cerco-fechado-tv-fax/Silverton%20Cerco%20Fechado%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Busca"tvg-logo="https://culturaoz.files.wordpress.com/2013/02/a-busca.jpg"group-title="FILME TV e Radio FAX archive",A Busca
+https://ia600506.us.archive.org/9/items/a-busca-tv-fax_202311/A%20Busca%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Caça"tvg-logo="https://i.ytimg.com/vi/gwxYwb7NbDI/maxresdefault.jpg"group-title="FILME TV e Radio FAX archive",A Caça
+https://ia800500.us.archive.org/0/items/a-caca-tv-fax_202311/A%20Ca%C3%A7a%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Espera De Liz"tvg-logo="https://www.camara.leg.br/midias/image/2022/03/foto-divulgacao-2-768x432.jpeg"group-title="FILME TV e Radio FAX archive",A Espera De Liz
+https://ia800509.us.archive.org/32/items/a-espera-de-liz-tv-fax_202311/A%20Espera%20de%20Liz%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Família Perfeita"tvg-logo="https://i0.wp.com/nanossaestante.com.br/wp-content/uploads/2022/05/A-familia-perfeita.png?resize=800%2C534&ssl=1"group-title="FILME TV e Radio FAX archive",A Família Perfeita
+https://ia601701.us.archive.org/34/items/a-familia-perfeita-tv-fax_202311/A%20Fam%C3%ADlia%20Perfeita%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Osso Duro"tvg-logo="https://i.ytimg.com/vi/829_mfKOhlk/sddefault.jpg"group-title="FILME TV e Radio FAX archive",
+
+
+#EXTM3U url-tvg="http://grade-de-O Gordo E O Magro.xml"
+############## O Gordo E O Magro ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeO Gordo E O Magro" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Os Mestres Do Baile"tvg-logo="https://i.pinimg.com/736x/dd/14/0a/dd140a311e7fa56e82f302cdbb49e4a2.jpg"group-title="O Gordo E O Magro",Os Mestres Do Baile
+https://ia601600.us.archive.org/6/items/dancing-masters-the/Dancing%20Masters%20The.ia.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HERANÇA ASSOMBRADA"tvg-logo="https://i.ytimg.com/vi/oRsamUE6rhE/hqdefault.jpg"group-title="O Gordo E O Magro",HERANÇA ASSOMBRADA
+https://ia600106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20A%20HERAN%C3%87A%20ASSOMBRADA.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LIBERDADE E SEUS PERIGOS"tvg-logo="https://i.ytimg.com/vi/ZPQQ0wV27hA/maxresdefault.jpg"group-title="O Gordo E O Magro",LIBERDADE E SEUS PERIGOS
+https://ia600106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20A%20LIBERDADE%20E%20SEUS%20PERIGOS.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DOIS DETETIVES DA PESADA"tvg-logo="https://i.ytimg.com/vi/787MKc5AdgE/hqdefault.jpg"group-title="O Gordo E O Magro",DOIS DETETIVES DA PESADA
+https://ia600106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20DOIS%20DETETIVES%20DA%20PESADA.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DUAS BABAS E UM BEBE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCMI-P7-tWtvEEelWZwO9nMFg3V0kWRCNKxYQ2GiZ4A4ATjTYVlRmw0-YO_AB5t19tJM&usqp=CAU"group-title="O Gordo E O Magro",DUAS BABAS E UM BEBE
+https://ia800106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20DUAS%20BAB%C3%81S%20PARA%20UM%20BEB%C3%8A.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ENTREGA EM DOMICILIO"tvg-logo="https://i.ytimg.com/vi/FJ5bmYWK5fM/sddefault.jpg"group-title="O Gordo E O Magro",ENTREGA EM DOMICILIO
+https://ia800106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20ENTREGA%20A%20DOMIC%C3%8DLIO.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LADRAO QUE ROUBA LADRAO"tvg-logo="https://http2.mlstatic.com/D_NQ_NP_628436-MLB32160022341_092019-O.webp"group-title="O Gordo E O Magro",LADRAO QUE ROUBA LADRAO
+https://ia800106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20LADR%C3%83O%20QUE%20ROUBA%20LADR%C3%83O.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O GRANDE NEGOCIO"tvg-logo="https://i.ytimg.com/vi/B24alDaAekU/hqdefault.jpg"group-title="O Gordo E O Magro",O GRANDE NEGOCIO
+https://ia600106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20O%20GRANDE%20NEG%C3%93CIO.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ORQUESTRA MALUCA"tvg-logo="https://i.ytimg.com/vi/VFWyvehjr3o/hqdefault.jpg"group-title="O Gordo E O Magro",ORQUESTRA MALUCA
+https://ia600106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20ORQUESTRA%20MALUCA.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DOIS BOEMIOS DO BARULHO"tvg-logo="https://i.ytimg.com/vi/XDvewW2Yq0U/hqdefault.jpg"group-title="O Gordo E O Magro",DOIS BOEMIOS DO BARULHO
+https://ia600106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20OS%20BOEMIOS%20DO%20BARULHO.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PAI E MAE POR ACASO"tvg-logo="https://i.ytimg.com/vi/0YyrRqiAt3k/hqdefault.jpg"group-title="O Gordo E O Magro",PAI E MAE POR ACASO
+https://ia800106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20PAPAI%20E%20MAM%C3%83E%20POR%20ACASO.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UM AMOR DE CABRA"tvg-logo="https://media.fstatic.com/qmeVjXHe_vP-MG1MhV_7dLsgFeU=/210x303/smart/filters:format(webp)/media/movies/covers/2014/01/angora-love_tNone.jpg"group-title="O Gordo E O Magro",UM AMOR DE CABRA
+https://ia800106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UM%20AMOR%20DE%20CABRITA.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UM DUELO DE AMOR"tvg-logo="https://i.ytimg.com/vi/E0h9CEo-UQY/maxresdefault.jpg"group-title="O Gordo E O Magro",UM DUELO DE AMOR
+https://ia800106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UM%20DUELO%20DE%20AMOR.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UM MOMENTO DE GLORIA"tvg-logo="https://i.ytimg.com/vi/8aEGRVZVcJw/hqdefault.jpg"group-title="O Gordo E O Magro",UM MOMENTO DE GLORIA
+https://ia800106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UM%20MOMENTO%20DE%20GL%C3%93RIA.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UMA LUTA DE RISOS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC9t-FkCN8JJPxXmmdtzE5kyMsWHTXJ5s8OA&usqp=CAU"group-title="O Gordo E O Magro",UMA LUTA DE RISOS
+https://ia600106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UMA%20LUTA%20DE%20RISOS.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UMA LUTA SEM IGUAL"tvg-logo="https://i.ytimg.com/vi/zz6SW2ICP_Y/hqdefault.jpg"group-title="O Gordo E O Magro",UMA LUTA SEM IGUAL
+https://ia800106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UMA%20LUTA%20SEM%20IGUAL.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BOLA DE NEVE"tvg-logo="https://i.ytimg.com/vi/-kS13QTBd-I/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH4A4AC6AKKAgwIABABGGUgZShlMA8=&rs=AOn4CLCeapKYz4f4r6yG0V2N0wVOlQu3KQ"group-title="O Gordo E O Magro",BOLA DE NEVE
+https://ia800106.us.archive.org/22/items/OGORDOEOMAGROBOLADENEVE/O%20GORDO%20E%20O%20MAGRO%20-%20BOLA%20DE%20NEVE.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ONESTIDADE VENCE"tvg-logo="https://i.ytimg.com/vi/10lM5ki59Jg/mqdefault.jpg"group-title="O Gordo E O Magro",ONESTIDADE VENCE
+https://ia600106.us.archive.org/16/items/OGordoEOMagroOsMestresDoBaileDublado/O%20GORDO%20E%20O%20MAGRO%20-%20A%20HONESTIDADE%20VENCE.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A CHAVE DO PROBLEMA"tvg-logo="https://i.ytimg.com/vi/_nU4_xeCSpc/sddefault.jpg"group-title="O Gordo E O Magro",A CHAVE DO PROBLEMA
+https://ia600106.us.archive.org/16/items/OGordoEOMagroOsMestresDoBaileDublado/O%20GORDO%20E%20O%20MAGRO%20-%20A%20CHAVE%20DO%20PROBLEMA.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LIMPA CHAMINÉS"tvg-logo="https://i.ytimg.com/vi/GcyGewHXbWs/maxresdefault.jpg"group-title="O Gordo E O Magro",LIMPA CHAMINÉS
+https://ia600106.us.archive.org/16/items/OGordoEOMagroOsMestresDoBaileDublado/O%20GORDO%20E%20O%20MAGRO%20-%20LIMPA%20CHAMIN%C3%89.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OLHO POR OLHO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfvmRwSBdP6OvSLw4Cj2f239Qq2fVb_Tm2fwV_G1evMfU6RX7b9kzwtu5JY5u150E0Fpk&usqp=CAU"group-title="O Gordo E O Magro",OLHO POR OLHO
+https://ia600106.us.archive.org/16/items/OGordoEOMagroOsMestresDoBaileDublado/O%20GORDO%20E%20O%20MAGRO%20-%20OLHO%20POR%20OLHO.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UM QUEBRA CABEÇA PARA CABEÇA DURA"tvg-logo="https://archive.org/services/img/o-gordo-e-o-magro-um-quebra-cabecas-para-cabecas-duras-colorido-1933/full/pct:200/0/default.jpg"group-title="O Gordo E O Magro",UM QUEBRA CABEÇA PARA CABEÇA DURA
+https://ia800106.us.archive.org/16/items/OGordoEOMagroOsMestresDoBaileDublado/O%20GORDO%20E%20O%20MAGRO%20-%20UM%20QUEBRA%20CABE%C3%87A%20PARA%20CABE%C3%87AS%20DURAS.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UMA MACACA E MUITO GALHO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdEXjEeyCYHovPe7NaYf5mL8GVPlIUrYOdmc7RQJLbJNwtqWRme-ssIQJ-15VsFqK_8hI&usqp=CAU"group-title="O Gordo E O Magro",UMA MACACA E MUITO GALHO
+https://ia600106.us.archive.org/16/items/OGordoEOMagroOsMestresDoBaileDublado/O%20GORDO%20E%20O%20MAGRO%20-%20UMA%20MACACA%20E%20MUITOS%20GALHOS.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MESTRE DE BAILE"tvg-logo="https://i.pinimg.com/736x/dd/14/0a/dd140a311e7fa56e82f302cdbb49e4a2.jpg"group-title="O Gordo E O Magro",MESTRE DE BAILE
+https://ia600106.us.archive.org/16/items/OGordoEOMagroOsMestresDoBaileDublado/O%20Gordo%20e%20o%20Magro%20Os%20Mestres%20Do%20Baile%20Dublado%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UM PREFEITO PERFEITO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYUUyeiHQAZaWDB0NnolEwIbY0z-iscaFLu5o_Q20U4RtjFIeJq46s1vT8WJ9Yr3JbTbE&usqp=CAU"group-title="O Gordo E O Magro",UM PREFEITO PERFEITO
+https://ia600108.us.archive.org/29/items/OGORDOEOMAGROUMPREFEITOPERFEITO/O%20GORDO%20E%20O%20MAGRO%20-%20UM%20PREFEITO%20PERFEITO.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sossega, leão"tvg-logo="https://i.ytimg.com/vi/eP4dVt056TA/hqdefault.jpg"group-title="O Gordo E O Magro",Sossega, leão
+https://ia803202.us.archive.org/33/items/o-gordo-e-o-magro-sossega-leao-p-b-1936/O%20Gordo%20e%20o%20Magro%20-%20Sossega%2C%20Le%C3%A3o%21%20%5BP%26B%281936%29%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bi-dois "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsiIqJCxaAfPXeixJJsa3MuEHApixQ5HLdXwZy-YxSWzkEaR4xhWR1Hd4ONxlvLWdAoSg&usqp=CAU"group-title="O Gordo E O Magro",Bi-dois 
+https://ia801909.us.archive.org/30/items/o-gordo-e-o-magro-bi-dois-colorido-1933/O%20Gordo%20e%20o%20Magro%20-%20Bi-dois%20%5BColorido%281933%29%5D.ia.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marinheiros de água"tvg-logo="https://4.bp.blogspot.com/_8L3yI_IGxRU/TEjmjgSrGII/AAAAAAAAAG4/BlH06Fw46lk/s1600/menowar.jpg"group-title="O Gordo E O Magro",Marinheiros de água
+https://ia801905.us.archive.org/17/items/o-gordo-e-o-magro-marinheiros-de-agua-doce-colorido-1929/O%20Gordo%20e%20o%20Magro%20-%20Marinheiros%20de%20%C3%A1gua%20doce%20%5BColorido%281929%29%5D.ia.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O capitão e seu marujo"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_cWsNbyGWAe1wTS9VrBg0R5TGEpVDgVn3OGkBPXwGthRiUPkVGmzHW6CC2rmXk8RdJ6Y&usqp=CAU"group-title="O Gordo E O Magro",O capitão e seu marujo
+https://ia903203.us.archive.org/25/items/o-gordo-e-o-magro-o-capitao-e-seu-marujo-colorido-1932/O%20Gordo%20e%20o%20Magro%20-%20O%20Capit%C3%A3o%20e%20seu%20Marujo%20%5BColorido%281932%29%5D.ia.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma boa ação nem sempre dá bom resultado"tvg-logo="https://i.ytimg.com/vi/UMOYzCalGwE/mqdefault.jpg"group-title="O Gordo E O Magro",Uma boa ação nem sempre dá bom resultado
+https://ia903202.us.archive.org/30/items/o-gordo-e-o-magro-uma-boa-acao-nem-sempre-da-bom-resultado-colorido-1931/O%20Gordo%20e%20o%20Magro%20-%20Uma%20boa%20a%C3%A7%C3%A3o%20nem%20sempre%20d%C3%A1%20bom%20resultado%21%20%5BColorido%281931%29%5D.ia.mp4
+
 #EXTM3U url-tvg="http://grade-de-FILME TV FAX |  ONLINE.xml"
 ############## FILME TV FAX |  ONLINE ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILME TV FAX |  ONLINE" group-title="
 
+#EXTINF:-1 tvg-id="" tvg-name="O Albergue 3 2011"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQczaL438hJ9GwSzjP45hx_zs-H3QcAWCbYrmimwdHRGTNKFA2pOiiF4AG1-xRJOnw3d8w&usqp=CAU"group-title="FILME TV FAX |  ONLINE",O Albergue 3 2011
+https://ia801609.us.archive.org/25/items/o-albergue-3-2011-hostel-part-iii/O%20Albergue%203%202011%20%28Hostel%20Part%20III%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arraste-me Para O Inferno 2009"tvg-logo="https://i.ytimg.com/vi/K9U0Wa9dH9U/hqdefault.jpg"group-title="FILME TV FAX |  ONLINE",Arraste-me Para O Inferno 2009
+https://ia601607.us.archive.org/28/items/arraste-me-para-o-inferno-2009-drag-me-to-hell-dual-audio/Arraste-me%20Para%20O%20Inferno%202009%20%28Drag%20Me%20To%20Hell%29%20%28Dual%20Audio%29.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Radio Rebel"tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/91/Radio_Rebel.jpg"group-title="FILME TV FAX |  ONLINE",Radio Rebel
 https://play.prod.gcp.vix.services/radio-rebel_pt/radio-rebel_pt_1-1/thumbs_320x180.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="O Último Suspeito"tvg-logo="https://http2.mlstatic.com/D_NQ_NP_711797-MLU70394913192_072023-O.webp"group-title="FILME TV FAX |  ONLINE",O Último Suspeito 
@@ -3755,6 +4297,286 @@ https://play.prod.gcp.vix.services/pat-coletanea-amigos_pt/pat-coletanea-amigos_
 https://play.prod.gcp.vix.services/pat-coletanea-remexe_pt/pat-coletanea-remexe_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.makeagif.com/media/3-24-2016/8K0GwO.gif" group-title="Patati Patatá | Patati Patatá",Coletânea de Sucessos 2 - É Tão Bom
 
+#EXTM3U url-tvg="http://grade-de-24H | DESENHOS .xml"
+############## 24H | DESENHOS ################# 
+#EXTINF:-1 tvg-id=" iddocanalde24H | DESENHOS" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="WINSPECTOR 24HRS²" tvg-logo="" group-title="24H | DESENHOS",WINSPECTOR 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144979
+#EXTINF:-1 tvg-id="" tvg-name="X MEN 24HRS²" tvg-logo="" group-title="24H | DESENHOS",X MEN 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144980
+#EXTINF:-1 tvg-id="" tvg-name="VALE DOS DINOSSAUROS 24HRS²" tvg-logo="" group-title="24H | DESENHOS",VALE DOS DINOSSAUROS 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144973
+#EXTINF:-1 tvg-id="" tvg-name="URSINHO GUMMI 24HRS²" tvg-logo="" group-title="24H | DESENHOS",URSINHO GUMMI 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144971
+#EXTINF:-1 tvg-id="" tvg-name="URSINHOS CARINHOSOS 24HRS²" tvg-logo="" group-title="24H | DESENHOS",URSINHOS CARINHOSOS 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144972
+#EXTINF:-1 tvg-id="" tvg-name="Ursinhos Carinhosos 24Hrs¹" tvg-logo="" group-title="24H | DESENHOS",Ursinhos Carinhosos 24Hrs¹
+http://lista.hdtvsp2.xyz:80/kaique/41550217/105535
+#EXTINF:-1 tvg-id="" tvg-name="Tom e Jerry 24Hrs¹" tvg-logo="" group-title="24H | DESENHOS",Tom e Jerry 24Hrs¹
+http://lista.hdtvsp2.xyz:80/kaique/41550217/105532
+#EXTINF:-1 tvg-id="" tvg-name="TOM SEM FREIO 24HRS²" tvg-logo="" group-title="24H | DESENHOS",TOM SEM FREIO 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144949
+#EXTINF:-1 tvg-id="" tvg-name="TOPO GIGIO 24HRS²" tvg-logo="" group-title="24H | DESENHOS",TOPO GIGIO 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144950
+#EXTINF:-1 tvg-id="" tvg-name="TOURADAS 24HRS²" tvg-logo="" group-title="24H | DESENHOS",TOURADAS 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144951
+#EXTINF:-1 tvg-id="" tvg-name="TRANSFORMES 24HRS²" tvg-logo="" group-title="24H | DESENHOS",TRANSFORMES 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144953
+#EXTINF:-1 tvg-id="" tvg-name="TRES ESPIAS DEMAIS 24HRS²" tvg-logo="" group-title="24H | DESENHOS",TRES ESPIAS DEMAIS 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144952
+#EXTINF:-1 tvg-id="" tvg-name="TRES ESPIAS DEMAIS S01 24HRS²" tvg-logo="" group-title="24H | DESENHOS",TRES ESPIAS DEMAIS S01 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144954
+#EXTINF:-1 tvg-id="" tvg-name="TRES ESPIAS DEMAIS S02 24HRS²" tvg-logo="" group-title="24H | DESENHOS",TRES ESPIAS DEMAIS S02 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144955
+#EXTINF:-1 tvg-id="" tvg-name="TRES ESPIAS DEMAIS S03 24HRS²" tvg-logo="" group-title="24H | DESENHOS",TRES ESPIAS DEMAIS S03 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144956
+#EXTINF:-1 tvg-id="" tvg-name="TRES ESPIAS DEMAIS S04 24HRS²" tvg-logo="" group-title="24H | DESENHOS",TRES ESPIAS DEMAIS S04 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144957
+#EXTINF:-1 tvg-id="" tvg-name="TRES ESPIAS DEMAIS S05 24HRS²" tvg-logo="" group-title="24H | DESENHOS",TRES ESPIAS DEMAIS S05 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144958
+#EXTINF:-1 tvg-id="" tvg-name="TUNEL DO TEMPO 24HRS²" tvg-logo="https://m.media-amazon.com/images/I/510vIv5ghRL.jpg" group-title="24H | SERIES",TUNEL DO TEMPO 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144959
+#EXTINF:-1 tvg-id="" tvg-name="TURBOMAN 24HRS²" tvg-logo="" group-title="24H | DESENHOS",TURBOMAN 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144960
+#EXTINF:-1 tvg-id="" tvg-name="TURMA DA MONICA 24HRS²" tvg-logo="" group-title="24H | DESENHOS",TURMA DA MONICA 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144961
+#EXTINF:-1 tvg-id="" tvg-name="TUTUBARAO 24HRS²" tvg-logo="" group-title="24H | DESENHOS",TUTUBARAO 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144962
+#EXTINF:-1 tvg-id="" tvg-name="TV QUACK 24HRS²" tvg-logo="" group-title="24H | DESENHOS",TV QUACK 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144963
+#EXTINF:-1 tvg-id="" tvg-name="SONIC BOOM 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SONIC BOOM 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144887
+#EXTINF:-1 tvg-id="" tvg-name="SONIC X 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SONIC X 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144888
+#EXTINF:-1 tvg-id="" tvg-name="SOUTH PARK 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SOUTH PARK 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144889
+#EXTINF:-1 tvg-id="" tvg-name="SOUTH PARK ESPECIAL 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SOUTH PARK ESPECIAL 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144890
+#EXTINF:-1 tvg-id="" tvg-name="SOUTH PARK S01 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SOUTH PARK S01 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144891
+#EXTINF:-1 tvg-id="" tvg-name="SOUTH PARK S02 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SOUTH PARK S02 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144892
+#EXTINF:-1 tvg-id="" tvg-name="SOUTH PARK S03 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SOUTH PARK S03 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144893
+#EXTINF:-1 tvg-id="" tvg-name="SOUTH PARK S04 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SOUTH PARK S04 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144894
+#EXTINF:-1 tvg-id="" tvg-name="SOUTH PARK S05 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SOUTH PARK S05 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144895
+#EXTINF:-1 tvg-id="" tvg-name="SOUTH PARK S06 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SOUTH PARK S06 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144896
+#EXTINF:-1 tvg-id="" tvg-name="SOUTH PARK S07 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SOUTH PARK S07 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144897
+#EXTINF:-1 tvg-id="" tvg-name="SOUTH PARK S08 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SOUTH PARK S08 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144898
+#EXTINF:-1 tvg-id="" tvg-name="SOUTH PARK S09 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SOUTH PARK S09 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144899
+#EXTINF:-1 tvg-id="" tvg-name="SOUTH PARK S10 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SOUTH PARK S10 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144900
+#EXTINF:-1 tvg-id="" tvg-name="SOUTH PARK S11 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SOUTH PARK S11 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144901
+#EXTINF:-1 tvg-id="" tvg-name="SOUTH PARK S12 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SOUTH PARK S12 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144902
+#EXTINF:-1 tvg-id="" tvg-name="SOUTH PARK S13 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SOUTH PARK S13 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144903
+#EXTINF:-1 tvg-id="" tvg-name="SOUTH PARK S14 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SOUTH PARK S14 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144904
+#EXTINF:-1 tvg-id="" tvg-name="SOUTH PARK S15 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SOUTH PARK S15 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144905
+#EXTINF:-1 tvg-id="" tvg-name="SOUTH PARK S16 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SOUTH PARK S16 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144906
+#EXTINF:-1 tvg-id="" tvg-name="SOUTH PARK S17 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SOUTH PARK S17 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144907
+#EXTINF:-1 tvg-id="" tvg-name="SOUTH PARK S18 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SOUTH PARK S18 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144908
+#EXTINF:-1 tvg-id="" tvg-name="SOUTH PARK S19 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SOUTH PARK S19 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144909
+#EXTINF:-1 tvg-id="" tvg-name="SOUTH PARK S20 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SOUTH PARK S20 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144910
+#EXTINF:-1 tvg-id="" tvg-name="SPACE GHOST 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SPACE GHOST 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144911
+#EXTINF:-1 tvg-id="" tvg-name="SPACE GOOFS 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SPACE GOOFS 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144912
+#EXTINF:-1 tvg-id="" tvg-name="SPEED RACER 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SPEED RACER 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144913
+#EXTINF:-1 tvg-id="" tvg-name="STEVE UNIVERSO 24HRS²" tvg-logo="" group-title="24H | DESENHOS",STEVE UNIVERSO 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144914
+#EXTINF:-1 tvg-id="" tvg-name="Steven Universe 24Hrs¹" tvg-logo="" group-title="24H | DESENHOS",Steven Universe 24Hrs¹
+http://lista.hdtvsp2.xyz:80/kaique/41550217/105528
+#EXTINF:-1 tvg-id="" tvg-name="SUPER AMIGOS 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SUPER AMIGOS 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144915
+#EXTINF:-1 tvg-id="" tvg-name="SUPER CHOQUE 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SUPER CHOQUE 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144916
+#EXTINF:-1 tvg-id="" tvg-name="SUPER GALO 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SUPER GALO 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144917
+#EXTINF:-1 tvg-id="" tvg-name="SUPER MARIO BROS 3 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SUPER MARIO BROS 3 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144918
+#EXTINF:-1 tvg-id="" tvg-name="Superman 24Hrs¹" tvg-logo="" group-title="24H | DESENHOS",Superman 24Hrs¹
+http://lista.hdtvsp2.xyz:80/kaique/41550217/105529
+#EXTINF:-1 tvg-id="" tvg-name="SUPERMAN DESENHO 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SUPERMAN DESENHO 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144919
+#EXTINF:-1 tvg-id="" tvg-name="SWAT KATS 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SWAT KATS 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144920
+#EXTINF:-1 tvg-id="" tvg-name="TARTARUGA TOUCHE E DUM DUM 24HRS²" tvg-logo="" group-title="24H | DESENHOS",TARTARUGA TOUCHE E DUM DUM 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144921
+#EXTINF:-1 tvg-id="" tvg-name="Tartarugas Ninjas 24Hrs¹" tvg-logo="" group-title="24H | DESENHOS",Tartarugas Ninjas 24Hrs¹
+http://lista.hdtvsp2.xyz:80/kaique/41550217/105530
+#EXTINF:-1 tvg-id="" tvg-name="TARZAN 24HRS²" tvg-logo="" group-title="24H | DESENHOS",TARZAN 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144922
+#EXTINF:-1 tvg-id="" tvg-name="TARZAN CLASSICO 24HRS²" tvg-logo="" group-title="24H | DESENHOS",TARZAN CLASSICO 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144923
+#EXTINF:-1 tvg-id="" tvg-name="TAZ MANIA 24HRS²" tvg-logo="" group-title="24H | DESENHOS",TAZ MANIA 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144924
+#EXTINF:-1 tvg-id="" tvg-name="TEAM GALAXY 24HRS²" tvg-logo="" group-title="24H | DESENHOS",TEAM GALAXY 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144925
+#EXTINF:-1 tvg-id="" tvg-name="TELETUBBIES CLASSICO 24HRS²" tvg-logo="" group-title="24H | SERIES",TELETUBBIES CLASSICO 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144926
+#EXTINF:-1 tvg-id="" tvg-name="TELETUBBIES NOVO 24HRS²" tvg-logo="" group-title="24H | SERIES",TELETUBBIES NOVO 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144927
+#EXTINF:-1 tvg-id="" tvg-name="TELETUBBIES STOP MOTION 24HRS²" tvg-logo="" group-title="24H | SERIES",TELETUBBIES STOP MOTION 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144928
+#EXTINF:-1 tvg-id="" tvg-name="TENCHI MUYO 24HRS²" tvg-logo="" group-title="24H | DESENHOS",TENCHI MUYO 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144929
+#EXTINF:-1 tvg-id="" tvg-name="SAIKI KUSUO NO PSI NAN REATIVADO 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SAIKI KUSUO NO PSI NAN REATIVADO 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144849
+#EXTINF:-1 tvg-id="" tvg-name="SAMURAI CHAMPLOO 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SAMURAI CHAMPLOO 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144850
+#EXTINF:-1 tvg-id="" tvg-name="SAMURAI WARRIOR 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SAMURAI WARRIOR 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144851
+#EXTINF:-1 tvg-id="" tvg-name="Scooby Doo 24Hrs¹" tvg-logo="" group-title="24H | DESENHOS",Scooby Doo 24Hrs¹
+http://lista.hdtvsp2.xyz:80/kaique/41550217/38359
+#EXTINF:-1 tvg-id="" tvg-name="SHAMAN KING 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SHAMAN KING 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144852
+#EXTINF:-1 tvg-id="" tvg-name="SHAZZAN 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SHAZZAN 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144853
+#EXTINF:-1 tvg-id="" tvg-name="SHE-RA 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SHE-RA 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144854
+#EXTINF:-1 tvg-id="" tvg-name="SHINZO 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SHINZO 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144855
+#EXTINF:-1 tvg-id="" tvg-name="SHOW DA LUNA 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SHOW DA LUNA 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144856
+#EXTINF:-1 tvg-id="" tvg-name="SHURATO 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SHURATO 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144857
+#EXTINF:-1 tvg-id="" tvg-name="SHURIKEN SCHOOL 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SHURIKEN SCHOOL 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144858
+#EXTINF:-1 tvg-id="" tvg-name="SILVERHAWKS 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SILVERHAWKS 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144859
+#EXTINF:-1 tvg-id="" tvg-name="SITIO DO PICA PAU AMARELO 24HRS²" tvg-logo="" group-title="24H | SERIES",SITIO DO PICA PAU AMARELO 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144860
+#EXTINF:-1 tvg-id="" tvg-name="SLAM DUCK 24HRS²" tvg-logo="" group-title="24H | DESENHOS",SLAM DUCK 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144861
+#EXTINF:-1 tvg-id="" tvg-name="PLIC PLOC E CHUVISCO 24HRS²" tvg-logo="" group-title="24H | DESENHOS",PLIC PLOC E CHUVISCO 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144797
+#EXTINF:-1 tvg-id="" tvg-name="POCOYO 24HRS²" tvg-logo="" group-title="24H | DESENHOS",POCOYO 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144798
+#EXTINF:-1 tvg-id="" tvg-name="POKEMON 24HRS²" tvg-logo="" group-title="24H | DESENHOS",POKEMON 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144799
+#EXTINF:-1 tvg-id="" tvg-name="POKEMON S01 24HRS²" tvg-logo="" group-title="24H | DESENHOS",POKEMON S01 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144800
+#EXTINF:-1 tvg-id="" tvg-name="POKEMON S02 24HRS²" tvg-logo="" group-title="24H | DESENHOS",POKEMON S02 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144801
+#EXTINF:-1 tvg-id="" tvg-name="POKEMON S03 24HRS²" tvg-logo="" group-title="24H | DESENHOS",POKEMON S03 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144802
+#EXTINF:-1 tvg-id="" tvg-name="POKEMON S04 24HRS²" tvg-logo="" group-title="24H | DESENHOS",POKEMON S04 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144803
+#EXTINF:-1 tvg-id="" tvg-name="POKEMON S05 24HRS²" tvg-logo="" group-title="24H | DESENHOS",POKEMON S05 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144804
+#EXTINF:-1 tvg-id="" tvg-name="POKEMON S06 24HRS²" tvg-logo="" group-title="24H | DESENHOS",POKEMON S06 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144805
+#EXTINF:-1 tvg-id="" tvg-name="POKEMON S07 24HRS²" tvg-logo="" group-title="24H | DESENHOS",POKEMON S07 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144806
+#EXTINF:-1 tvg-id="" tvg-name="POKEMON S08 24HRS²" tvg-logo="" group-title="24H | DESENHOS",POKEMON S08 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144807
+#EXTINF:-1 tvg-id="" tvg-name="POKEMON S09 24HRS²" tvg-logo="" group-title="24H | DESENHOS",POKEMON S09 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144808
+#EXTINF:-1 tvg-id="" tvg-name="POKEMON S10 24HRS²" tvg-logo="" group-title="24H | DESENHOS",POKEMON S10 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144809
+#EXTINF:-1 tvg-id="" tvg-name="POKEMON S11 24HRS²" tvg-logo="" group-title="24H | DESENHOS",POKEMON S11 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144810
+#EXTINF:-1 tvg-id="" tvg-name="POKEMON S12 24HRS²" tvg-logo="" group-title="24H | DESENHOS",POKEMON S12 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144811
+#EXTINF:-1 tvg-id="" tvg-name="POKEMON S13 24HRS²" tvg-logo="" group-title="24H | DESENHOS",POKEMON S13 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144812
+#EXTINF:-1 tvg-id="" tvg-name="POKEMON S14 24HRS²" tvg-logo="" group-title="24H | DESENHOS",POKEMON S14 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144813
+#EXTINF:-1 tvg-id="" tvg-name="POLEPOSITION 24HRS²" tvg-logo="" group-title="24H | DESENHOS",POLEPOSITION 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144814
+
+#EXTM3U url-tvg=" http://grade-de-24H | SERIES.xml "
+ ############## 24H | SERIES ################ # 
+#EXTINF:-1 tvg-id=" iddocanalde24H | SERIES" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="POWER RANGER ZEO 24HRS²" tvg-logo="" group-title="24H | SERIES",POWER RANGER ZEO 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144824
+#EXTINF:-1 tvg-id="" tvg-name="POWER RANGERS TURBO 24HRS²" tvg-logo="" group-title="24H | SERIES",POWER RANGERS TURBO 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144825
+#EXTINF:-1 tvg-id="" tvg-name="RAGNAROK 24HRS²" tvg-logo="" group-title="24H | SERIES",RAGNAROK 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144830
+#EXTINF:-1 tvg-id="" tvg-name="Rambo 24Hrs¹" tvg-logo="" group-title="24H | SERIES",Rambo 24Hrs¹
+http://lista.hdtvsp2.xyz:80/kaique/41550217/105525
+#EXTINF:-1 tvg-id="" tvg-name="Xena - A Princesa Guerreira 24Hrs¹" tvg-logo="" group-title="24H | SERIES",Xena - A Princesa Guerreira 24Hrs¹
+http://lista.hdtvsp2.xyz:80/kaique/41550217/105537
+#EXTINF:-1 tvg-id="" tvg-name="XUXA SO PARA BAIXINHOS 24HRS²" tvg-logo="" group-title="24H | SERIES",XUXA SO PARA BAIXINHOS 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144981
+#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CRIS S01 24HRS²" tvg-logo="" group-title="24H | SERIES",TODO MUNDO ODEIA O CRIS S01 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144944
+#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CRIS S02 24HRS²" tvg-logo="" group-title="24H | SERIES",TODO MUNDO ODEIA O CRIS S02 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144945
+#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CRIS S03 24HRS²" tvg-logo="" group-title="24H | SERIES",TODO MUNDO ODEIA O CRIS S03 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144946
+#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CRIS S04 24HRS²" tvg-logo="" group-title="24H | SERIES",TODO MUNDO ODEIA O CRIS S04 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144947
+#EXTINF:-1 tvg-id="" tvg-name="ULTRAMAN 24HRS²" tvg-logo="" group-title="24H | SERIES",ULTRAMAN 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144964
+#EXTINF:-1 tvg-id="" tvg-name="VOCE SABIA 24HRS²" tvg-logo="" group-title="24H | SERIES",VOCE SABIA 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144976
+#EXTINF:-1 tvg-id="" tvg-name="Velozes e Furiosos 24Hrs¹" tvg-logo="" group-title="24H | SERIES",Velozes e Furiosos 24Hrs¹
+http://lista.hdtvsp2.xyz:80/kaique/41550217/105553
+#EXTINF:-1 tvg-id="" tvg-name="Vai Que Cola 24Hrs¹" tvg-logo="" group-title="24H | SERIES",Vai Que Cola 24Hrs¹
+http://lista.hdtvsp2.xyz:80/kaique/41550217/42341
+#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDA S01 24HRS²" tvg-logo="" group-title="24H | SERIES",UM MALUCO NO PEDA S01 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144965
+#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDA S02 24HRS²" tvg-logo="" group-title="24H | SERIES",UM MALUCO NO PEDA S02 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144966
+#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDA S03 24HRS²" tvg-logo="" group-title="24H | SERIES",UM MALUCO NO PEDA S03 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144967
+#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDA S04 24HRS²" tvg-logo="" group-title="24H | SERIES",UM MALUCO NO PEDA S04 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144968
+#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDA S05 24HRS²" tvg-logo="" group-title="24H | SERIES",UM MALUCO NO PEDA S05 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144969
+#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDA S06 24HRS²" tvg-logo="" group-title="24H | SERIES",UM MALUCO NO PEDA S06 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144970
+#EXTINF:-1 tvg-id="" tvg-name="Uma Família da Pesada 24Hrs¹" tvg-logo="" group-title="24H | DESENHOS",Uma Família da Pesada 24Hrs¹
+http://lista.hdtvsp2.xyz:80/kaique/41550217/105534
+#EXTINF:-1 tvg-id="" tvg-name="ZACK E CODY GEMEOS A BORDO 24HRS²" tvg-logo="" group-title="24H | SERIES",ZACK E CODY GEMEOS A BORDO 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144990
+#EXTINF:-1 tvg-id="" tvg-name="ZATCH BELL 24HRS²" tvg-logo="" group-title="24H | SERIES",ZATCH BELL 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144991
+
+#EXTM3U url-tvg=" http://grade-de-24H | SERIES.xml "
+ ############## 24H | SERIES ################ # 
+#EXTINF:-1 tvg-id=" iddocanalde24H | SERIES" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="SMALLVILLE S01 24HRS²" tvg-logo="" group-title="24H | SERIES",SMALLVILLE S01 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144862
+#EXTINF:-1 tvg-id="" tvg-name="SMALLVILLE S02 24HRS²" tvg-logo="" group-title="24H | SERIES",SMALLVILLE S02 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144863
+#EXTINF:-1 tvg-id="" tvg-name="SMALLVILLE S03 24HRS²" tvg-logo="" group-title="24H | SERIES",SMALLVILLE S03 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144864
+#EXTINF:-1 tvg-id="" tvg-name="SMALLVILLE S04 24HRS²" tvg-logo="" group-title="24H | SERIES",SMALLVILLE S04 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144865
+#EXTINF:-1 tvg-id="" tvg-name="SMALLVILLE S05 24HRS²" tvg-logo="" group-title="24H | SERIES",SMALLVILLE S05 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144866
+#EXTINF:-1 tvg-id="" tvg-name="SMALLVILLE S06 24HRS²" tvg-logo="" group-title="24H | SERIES",SMALLVILLE S06 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144867
+#EXTINF:-1 tvg-id="" tvg-name="SMALLVILLE S07 24HRS²" tvg-logo="" group-title="24H | SERIES",SMALLVILLE S07 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144868
+#EXTINF:-1 tvg-id="" tvg-name="SMALLVILLE S08 24HRS²" tvg-logo="" group-title="24H | SERIES",SMALLVILLE S08 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144869
+#EXTINF:-1 tvg-id="" tvg-name="SMALLVILLE S09 24HRS²" tvg-logo="" group-title="24H | SERIES",SMALLVILLE S09 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144870
+#EXTINF:-1 tvg-id="" tvg-name="SMALLVILLE S10 24HRS²" tvg-logo="" group-title="24H | SERIES",SMALLVILLE S10 24HRS²
+http://lista.hdtvsp2.xyz:80/kaique/41550217/144871
 
 #EXTM3U url-tvg=" http://grade-de-Dinho Santos.xml "
  ############## Dinho Santos ################ # 
@@ -4318,3 +5140,2698 @@ https://stream-22.zeno.fm/ked21357trquv?zs=OqqKREW7Rh2vEp-XaNBpZw
 https://ssl.zoeweb.net/proxy/recifefm?mp=/stream
 #EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/3/76683.v5.png" group-title="RADIOS",Blog do Léo Lima
 https://player.painelvox.com/player-ssl/8340/;
+
+#EXTM3U url-tvg=" http://grade-de-INVESTIGAÇÃO CRIMINAL.xml "
+ ############## INVESTIGAÇÃO CRIMINAL ################ # 
+#EXTINF:-1 tvg-id=" iddocanaldeINVESTIGAÇÃO CRIMINAL" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oDK7uxKgkd0rahyrYS83e9iuaNw.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S01 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3469.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/j0YQBv0qU85kW525yqqZsn5nliH.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S01 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3470.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/WSrmCbCTl3ND5usBP8Zfzd9cqm.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S01 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3471.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rsrtPReaRKdLyCY4eMy4MXIaBbL.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S01 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ls1xSn9lnORrDG7uMdwVFACpkWu.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S01 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3473.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fqgscBQFC3bOeUmJK6QV0fcIb1o.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S01 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3474.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fTeAxOa86uGLqhYkyG1sibkSkNr.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S01 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3OmHsf2gwkMU3WWS9pox5gCiUxr.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S01 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3476.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5iNu35INNnFn8chAoH5wRgjrq9F.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S01 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3477.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/diWLarcaimfSuZF8rSlWvdRjVCJ.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S01 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3478.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5znKdisB6OftMIhhAJEtm4yKpYs.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S01 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7FqqKreWco4dZmSBkv0m2tORl8p.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S01 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ihV7fyTqsBSeUjDPj2Qbbjgqt4w.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S01 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3vDGBM1BFvCwMIkLYstQuJ6oKlg.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S01 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/njCLvIJZ9nsOzDkOQtP3gatmuY4.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S01 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rXtL8gxiT7CR0g6ojmrcYio6f3N.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S01 E16
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/p8sPMJjXKqMwGV3lBAUcAD4elGu.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S01 E17
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/o1FF3Ov1J0WV9im7n7JXAv9PSso.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S01 E18
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/u7fcAWFpvftz1KOCBt3zAPrCxe5.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S01 E19
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3487.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lenKVx7eimqt49Kod3QImc2Pr35.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S01 E20
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E21" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/w7Qszhw7oG44sGFm9Ui5ZHdGtqs.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S01 E21
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E22" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5NdFZJIKu9z5cswyVCl13S5bCxy.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S01 E22
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3490.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E23" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xAIWDM6pVfl7uJTrp6I0GCO7j0N.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S01 E23
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/l2rNWVzw6lkVQJYcanyLp3PEWaV.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S02 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3492.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cup0DlhWqdczNMuGUCVDck6ml12.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S02 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3493.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cPzXMzOuzTFtnWfhpmUrzfFxAob.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S02 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3494.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/A39Ar3gBwu18D9hERMzOaGz5loK.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S02 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/luOLXZPGCKkKuMWlPdOf9sf7uox.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S02 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/e7FfQ2rF1LLYYP9Z8cc94D4nEhg.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S02 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5wXQSOkN2eEVWwEZERTMLnsKUCm.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S02 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3498.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7mUFCRSAVrE89iY0PWVkWeqs4xv.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S02 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qGgmMH9AMNGpLbUxiEobQASTZoj.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S02 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3500.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5UZHAm5bg5HQn8mdCzQZ7191wn9.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S02 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3501.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gkHWCbxDTyOa3Az5gKArq7Q0nbb.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S02 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3502.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5D7rdG6495kj62BcOSQKobXyLkj.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S02 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3503.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wJwUX1dJE3ajDlmyuu9Yctmds0T.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S02 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3504.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uVpL0yydXfuOXjU8ZFPSM21wmDC.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S02 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3505.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/f62y48jKcU3Yk1AkNRdN5tlV22Y.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S02 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3506.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cY6Gm1jXXfNWCjfjg9NiF9eV97Z.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S02 E16
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3507.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vE8qNBtbVmJWlYBlwoYDkKyNYIT.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S02 E17
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3508.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k6w815FM2LYj0MmoClEWGWXxc8I.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S02 E18
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3509.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rlJbUGEVl6oxDPsVUJkflyxIjBG.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S02 E19
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3510.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zBgExLEo5XWGYZJs6IVaaeUqT8M.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S02 E20
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3511.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E21" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lUGpHBZWxiAef2oEl3fGGTPZ6DL.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S02 E21
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3512.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E22" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tb1rRns5DMmqYs1Y6OPWHcMGCj5.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S02 E22
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3513.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E23" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mfwqMWaXwQclGePhtpQnZla9xOS.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S02 E23
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3514.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gFhAvi8vheCQTtLUnt3R8GurXL1.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S03 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3515.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y7w5S0bPUSO6fcZQXdVTBRpWmu.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S03 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3516.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nRyzWkfvvKXcTREsPjgXnaBis6c.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S03 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3517.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mAeK0k4lkm7Z8NOC2eJVqnCxv7v.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S03 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3518.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/z0PK6rlfzTbTS7NsIkvM5twtd88.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S03 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3519.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/a2BYjWaJEFHUiM9IFfbEC9NY7AU.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S03 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3520.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7pi4TwZH3HSnxCjpYGkL10S1jL6.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S03 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3521.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aJbG5wh7mYBWtAiZb8Uoyw1vpDE.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S03 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3522.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lOL2lbzijdm7Jgw6EH4eohlQZRo.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S03 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3523.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5ppYorsm3QjYAfgAFTKRkMt01bU.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S03 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3524.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wiG1MVtcQ30Z4gcg084koPG1BbB.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S03 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3525.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hkfltpR3I8zLE4NmVRl4eqHThHQ.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S03 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3526.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ovA7Eeuac7J48yXHjsFnpQpbDUc.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S03 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3527.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3aGLg5IK1EcbxthSgEbiodNrI7k.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S03 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3528.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pagTWndBsorrZpzDTBsv0nVlOqU.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S03 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3529.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2uUxPgd0aJTJJYc9Lp9jWsJKtNz.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S03 E16
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3530.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2QdY4llcE1NOo30eT4ISX8Wbacl.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S03 E17
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3531.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ryIrk4bbjpXsH2lInSRg5Y1WBMJ.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S03 E18
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3532.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rRZ7BGW2yNUBRA7S1C2IYPiSfYZ.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S03 E19
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3533.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/scQVzsNKt8yYf60zPs7Usgk32u1.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S03 E20
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3534.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E21" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mgBpRRHyo1xHA5RN4nsG5mPvxaT.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S03 E21
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3535.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E22" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/w6itRq2Ga78HZgkhqhDryuj9ToG.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S03 E22
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3536.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E23" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yUVuQUkMDTnd1PdvzhGIxidOClF.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S03 E23
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3537.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ubcOgyiEVhm0eBnc9qSCGXN7Wuj.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S04 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3538.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k7IMS8nL2tgtcLDY8845e1dBy5q.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S04 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3539.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k0dwrP00KWBxFxqfmiuhowbncKZ.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S04 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3540.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/d3P1t5uIQJ2BjMzcf7iAOmcRBSd.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S04 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3541.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jV9WOflzJ7YkjUxoVq2UmjgLkv7.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S04 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3542.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gRT04UeCEaif5tDd4OeaXG4uDPh.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S04 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3543.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gKEHcT8EAc2t20E8QnpTXk15OkJ.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S04 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3544.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4oEtCmvOzvOLEQHl7y2DmYvF1xy.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S04 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3545.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vgMXDGuMdG5OXYL4NlsqKWtyUEa.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S04 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3546.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/22jn2gKfwALwofpBGOZvryYoQXl.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S04 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3547.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6ltJKhtnpJJIhp5mKeWjsVL3IsF.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S04 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3548.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qomcIi9qa1LQ3ZmyiZRUNTz5iqn.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S04 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3549.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/37zOucs8YMOfSUKuTNx1V3UQvWD.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S04 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3550.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vaeQu6715PAdVpkgnmSxXEhqud4.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S04 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3551.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6snEDHSP2zJBRaWGocdoYluenUU.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S04 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3552.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tqfgZf9NIxO6oytNXlnQy08URJS.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S04 E16
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3553.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zdNCG4445tQrKakRyqF8fc9P141.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S04 E17
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3554.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sO5f8XIT2X8A7AHSbm9fNuBZTVO.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S04 E18
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3555.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7PLbAQtfVMhgRPQDlTaqOoMs1Bz.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S04 E19
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3556.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6v2JOdpFZmIWC3ECn5Ucw4gWBy5.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S04 E20
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3557.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E21" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eG8EvzujF3Azo6VIC3p19EvunD7.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S04 E21
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3558.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E22" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4CfaQM1Rv7YJLiM9iwjw7X8qaRw.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S04 E22
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3559.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E23" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AtzaXPtSvUC3lYQ9IVB52fxZUS5.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S04 E23
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3560.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lahACCy7sGosV9ZaIJzhFYPbkZY.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S05 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3561.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yR5CAHendyv2QgjOlISDZBnQBnU.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S05 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3562.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1rzbek2yuMs9UZ7vuPfH4ln98Xr.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S05 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3563.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/c9Knf68X1PcfbkQfi9POadtijd2.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S05 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3564.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zEJw1DQJRySKZ3yFlS7KFcD4vpi.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S05 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3565.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sQPQeUR5duuwVjVFCNykHVftO45.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S05 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3566.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8qATBcAmeP25qsGvIha3IwkXtoX.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S05 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3567.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7E54o07WoxXYgaOkAJerbgIMKoL.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S05 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1YEiBSnKI2EKT1tqLAEMVub3HGP.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S05 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3569.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/brlqawTMp54eSQm5F6ILj43RwN9.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S05 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3570.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9g5dbw6DlHNJo3vvhqtlRmRMop7.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S05 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3571.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cQZaLCdTtnzX6PNaFtlbFQeC8Am.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S05 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3572.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y9oQWFq51UUYhTlOkBrrG7lsVpx.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S05 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3573.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mW565inLAZzWlVSyJpjJiOWZZWp.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S05 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3574.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AcBqjtrSFfymSoJI8y3P9znATh7.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S05 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3575.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/f8EHVBEeqMUuVi1LGh7tldkICob.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S05 E16
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3576.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yJZXULO8AxBMlcL5hUlrfp6xAbj.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S05 E17
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3577.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sGUR9m7w7vMPTPZDYTBFNG59YIB.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S05 E18
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3578.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/no55PCeXj24fMez0kANtNoF8iM9.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S05 E19
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3579.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/roEfDU4hNjdoKq3AZVFlOTpqWZz.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S05 E20
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3580.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E21" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ziwXee6kTmqSSBYECsfeF2SFr0M.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S05 E21
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3581.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E22" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9tLm9W26pPaKYeoUCtiTfsZrICR.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S05 E22
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3582.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E23" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/a6rJxIaKgVQ4mPekfsKvCMIKQrR.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S05 E23
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3583.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E24" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iUXkMpanPurmr3nN3EWRf1Eb4gH.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S05 E24
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3584.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rnI0mGJEyu35GFHXhl9A9t9YV2W.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S06 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3585.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lajxwQSjFqWKYdMEdYFZOdPitdG.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S06 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3586.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yYQCB5cV65KDPMQKSjq3EJcbuKv.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S06 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3587.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kOeaMSVbeyc4WWg6Qj3KQkJ5yRl.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S06 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3588.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rcC83W7QANANCPwZn7Q9PdFAaPN.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S06 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3589.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/55ZxxB6PfVGWWFJqh7O7GfnWdSe.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S06 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3590.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/HNqns1i4IUHnbgUhP9V8ARH5LT.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S06 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3591.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/l3rSLiDsMDTeRSSX91vWbF561cl.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S06 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3592.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pZEPH6zKslKXOjEBlUp1oByX2GV.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S06 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3593.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4xfoYYk9m7I0ADqEztiT0RQzOjB.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S06 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3594.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bGzH3nLO2hghuI4903zfl1hPbMv.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S06 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3595.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hzjeYjoCzfgNR8MFieSFtbQVfxn.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S06 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3596.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/11fPrGIfhPPUSiY9uI3uEhttNm9.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S06 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3597.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oacxhTlflDNbBxuAbkfMszGTsaD.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S06 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3598.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tYkOxPg1y3w9O3oFP9qXoUWkWyD.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S06 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3599.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zoEb8z7hGs1k0rCHMRgyNmTTogf.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S06 E16
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3600.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/24uNQ8z79ETMMBRiWE4iWWhhWt0.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S06 E17
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3601.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5hMBQZ5l42vHH2zCCfTHDHtUeAS.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S06 E18
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3602.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/17sfMi174CXR3BtK2Y3yYT1uKI3.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S06 E19
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3603.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iHuz4Pj074A7gKXTqa0VkshGTzv.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S06 E20
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3604.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E21" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/teZ3LNBiBsg0QpbmfC6vqNibFxH.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S06 E21
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3605.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E22" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/okMRT8DkAr4BQvz7hXME5F9Gw4e.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S06 E22
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3606.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E23" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tPxCQeX0hQzClINHwQWdRVyds4x.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S06 E23
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3607.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E24" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vDgpXrfaAZxpDnuKwK8aImyzAtx.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S06 E24
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3608.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6Oh5W39tSYkJP1NrQR52xSo8d0T.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S07 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3609.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vRMND28sWAeJj239S0hu2eJTzJz.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S07 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3610.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ciiXrH974Ita5DLFpjaZVYDGC3n.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S07 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3611.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sqs9npfwkcX5NL9Y2enJHseskYs.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S07 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3612.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jJxUiZjdhv2PwCiwV2K5W8azmIj.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S07 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3613.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7MXin4GsogKokKdaXLP7RTKTj4.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S07 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3614.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bmItHQNR9c1MUPSpDcTqZqGZGAN.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S07 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3615.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mxUFlBLLFNKGv3HiV9ijhMv8b7n.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S07 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3616.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fxaXxt79ICdmz7ulk37QRHRfPHW.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S07 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3617.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AtYzf9RlTRVMmBIX7R24NtBU1SA.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S07 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3618.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9WGHGGboZZ4Ih8aKT06sDqYNHwh.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S07 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3619.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rK2DyzIh2A0gWCfRMH6HrwbQQSu.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S07 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3620.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rCltXJlooVxPwdz6jHfAEVibeJA.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S07 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3621.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zlfPvb88P2aRCgi5XTsAAix48M5.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S07 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3622.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qts8Vw1GwWczkj89xtnv8UDeY54.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S07 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3623.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9UxiDt31sK8Zur1n5JnVKmFKgrD.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S07 E16
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3624.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lYHI43JbXdECom2NTGFHHC7jdZd.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S07 E17
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3625.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hW6qSVYXA3glEBOKGAyjVxsi4Dx.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S07 E18
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3626.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1cfzOtzR1EFuVQFT1eiqNzYQ6ap.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S07 E19
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3627.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oe1R9A1RmgSxhGDvSFyDu2xLrbX.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S07 E20
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E21" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/x7cLm7uDnqKX3ycBO3kw9PXKijm.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S07 E21
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3629.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E22" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eR1IxVajlx6Pncgy9SThR3hvWnU.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S07 E22
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3630.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E23" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wj7NGwSg7dyMRbC6kADjtSI6dFF.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S07 E23
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E24" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hvuvkNDZdTCIC1DP0j6h0xhb6xy.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S07 E24
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S08 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fcXeHpWSYOk27M09CzEcfHeWVXL.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S08 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3633.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S08 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ytE8p6InjaUS3No6efIKcaNw8FB.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S08 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3634.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S08 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xaCJggnBG4VNjcRlNk5Jg4t3Scv.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S08 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3635.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S08 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/riPMHu470KKbRYaeNpMsfKGeXAu.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S08 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3636.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S08 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7FAlXhDV92agNNHZ2hKDmrISYSA.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S08 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S08 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AvqhoCUXhNuR6EinVdRuquE4Djh.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S08 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3638.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S08 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/JZDUMv9jMhSM7PKukqZyE5nJ7F.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S08 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3639.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S08 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xMhDMmShgciNzpldTF0SWJY9w1H.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S08 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3640.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S08 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y8gZbD3ipOXVbJAeM5zCwDOm3Py.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S08 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3641.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S08 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kcOjpsSc948tmijHJ2IDXmqxtiy.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S08 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3642.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S08 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dTgDq4fkf2IXfWhw6zeK2GRAkeC.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S08 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3643.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S08 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cBsiqGxIJmLQrmE5ndJO0xkfgo4.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S08 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3644.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S08 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sxc1x1GvmwQZeJ2i9bLwWyeeGtB.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S08 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3645.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S08 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rGOPLCUMxkJl3y00KlHZ4GDdMsr.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S08 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3646.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S08 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cqg5KAWmUg3vCrojCM2wEMot8Lt.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S08 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3647.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S08 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AteSm608ldaQcJa8waf0ihCz44f.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S08 E16
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3648.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S08 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/svRmQdJZQrxbT5LmrNOaK5YffOC.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S08 E17
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3649.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7bSd16TdFRkDdoGkDPZFiQSiI5u.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S09 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3650.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7sOw6DSQS2yheQhBr0gjJlVuCTA.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S09 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3651.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aZWU1Egz7B4ZugkCzXJsxDN0VB2.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S09 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3652.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zCUtCbau51DHNZ0USuLLpb5NyLc.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S09 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3653.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lv7uaXY1JoFWvLzlKIL7ruF4z4z.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S09 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3654.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mM16ZRmfx0FucrxjkRUqYxeEEYR.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S09 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3655.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yYdK3K9utbxDrWMqRUheWwxkDFZ.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S09 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3656.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8BT7cudWEZZZ7p88cuzKJM5t5T1.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S09 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3657.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yaB5GYV6XRwG1yX0kIcdukVDqlJ.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S09 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3658.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qigBzYFoF0UHBoIeyiDBeOQwugu.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S09 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3659.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fj6r9Pchi3DEdksJ0BcFPITlJ8o.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S09 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3660.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hhgNCwnqxAUM9XNC7W2lRte1EhQ.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S09 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3661.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iQFZIJNKxPJcNMgDSPFt7xI2LOC.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S09 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3662.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rutKkQYQ6Tvq04BOabTPP1LMXbQ.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S09 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3663.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1aavVRMl7dW8xoMv6amSbfy7M1F.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S09 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3664.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bGvCqzsqbhgJEMr6jH5AcRKV1FC.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S09 E16
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3665.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oMUQnO52gI5lqgiyPwzzY8zLyOd.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S09 E17
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3666.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3tSMh6vFSKdZEqwB60U64Q05rDL.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S09 E18
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3667.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AgMUQuBmZmAZzxmkttVSICZ634e.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S09 E19
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3668.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yBnLpIHDPnrqBewVEi7BbrKAqgj.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S09 E20
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E21" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ux5YDavffK8Ya7oyOPKlJyPCWS3.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S09 E21
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E22" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jaJ8gA0W5pspNw6Tzu8SMpNDjBI.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S09 E22
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3671.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E23" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mpPUSkIwhCVYpfU1Sim07DGsv8f.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S09 E23
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E24" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8OrzIvVOvSjryv02a6nuvwYUgDm.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S09 E24
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vNqgoqu0918cP6qC3Nsu1dwDxms.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S10 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3674.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xFXjrR7HddHHNcTdmb6qxPuecWI.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S10 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9qcuBKFWCrGXyysu9TfY3RhCLaC.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S10 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/buLLCu6R9gPab6OlyvqDja6AwAy.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S10 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xD72As0GbgDUHTBnvlxcxImShKF.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S10 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/j3KXVQZWZOItQSYsWGMlJM8X3Q3.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S10 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6to0LB0j08U2WCMsuK8XQo5icOU.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S10 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/A5IGavJBP0SulXvdmLV1qBEslaz.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S10 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3681.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vlGbT8RI3UpAZ7p8CFMXEPmus21.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S10 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b4xrL4LtY14v1X9Hsxb5874E4vU.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S10 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eUBvhbLVs13rjMnOxn5zCCijm8k.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S10 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3684.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qPL6G3hvqvsndUqYm3PDTzOBxYJ.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S10 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/msJDi9qhnEKNQQPi69dGZmlox2Z.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S10 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/w8525CCPwacHb7Dm5yZLOxnAxUR.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S10 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/garqyOsIsgQbcrk5QHh1qvPipf5.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S10 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bRaDHd4nKeqIBynDoc5sTUFI0I5.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S10 E16
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tXPVLO6O2ISDwMdyVeR92lx3ZZy.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S10 E17
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3690.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zhEBvf0puSB4JVKf0JS09dhMMwP.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S10 E18
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qAqVLaVEO0Gi71wO1s13tRtHXTF.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S10 E19
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2eiNvmPbtfxVubq7uSr9L5mHEMu.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S10 E20
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E21" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mCCpmfw8qpGUQphQCPiU717oLHP.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S10 E21
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3694.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E22" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4NyetLu8YjxDqTgUxRvRtv9UGy3.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S10 E22
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E23" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/siEMkOke7FgF8DuweTux9GdxWrM.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S10 E23
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S11 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/z7rdc8q3jK6Q2fDRU6jaAhknGP7.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S11 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3697.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S11 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rMysv79UOtnvAOihoO5Bch7KCXK.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S11 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S11 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rCdqNwgaHhmdeNWJUkgk8knBwiP.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S11 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S11 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/m2JziLTXYtMTOT5jFScVgbUra5X.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S11 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S11 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nWczhiykIHE5lDpq2hNT82Aatbz.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S11 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3701.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S11 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kBqvVqfuXLPxRDUmLK1LFD0gwsR.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S11 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3702.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S11 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3d4xLTYW3g67LprqNduMSABZ08E.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S11 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3703.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S11 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zttSW9H3F3JeYTrYDYT9aNg4HfP.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S11 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S11 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/std9wLbtlHsqbkKJBXUr4QK09Mt.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S11 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3705.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S11 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/olvcxRNFT9sedR27oyaLuNj3YLC.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S11 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3706.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S11 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/row3h9APsB3bTy1eN328gr4J7Cn.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S11 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3707.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S11 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9KSQhLaNEafxI6tTNENpwLhhIdQ.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S11 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3708.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S11 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kSdt59ldMV6gByKDYcxe0EmKyzv.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S11 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3709.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S11 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tqbTc3qErrGoi8E27WDCdbLeCTq.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S11 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3710.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S11 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/o9pq2pXc7EWwos28CPHRsfZs5uw.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S11 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3711.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S11 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4mD0yjcrtcmkzFs44JwZfFbmjek.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S11 E16
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3712.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S11 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uzaNHDj2D8cfMYaWTfFyzelBVKp.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S11 E17
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3713.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S11 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rzRfJbbSMZsf137b9VTCsSEHHRB.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S11 E18
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3714.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S11 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7PSvB5uCzIh1JkmQdy29O22O5pv.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S11 E19
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3715.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S11 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/un4ftAs4RTgtXPcpXfMMYWiKkN2.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S11 E20
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S11 E21" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oxScE2KJgz4GXjZIOMrLqDJmPdM.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S11 E21
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3717.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S11 E22" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7ps82NJwuYawVBg5siDtAZ9UvPx.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S11 E22
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3718.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S12 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dXPMTCAvbJhrNVCslBxsyNBhLN9.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S12 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3719.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S12 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ycICsaI56o1DVucpcqDX32ASDl1.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S12 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3720.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S12 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xsyrtQ28yYlFIQSXJ3L6EQ0oyJj.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S12 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S12 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rHI0addiC0N33eOLLpdcHkNiEjC.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S12 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S12 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bKDnZ6G5O0a6BupNukwtp4arOmn.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S12 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3723.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S12 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eePWtBDKfEya4Q452GsBJlhn22q.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S12 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S12 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ywvPtbRX7xbTUwzH9hJEOTQ6oXC.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S12 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3725.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S12 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xqcapg9mOp4zvVLTOYbYk0A8dqG.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S12 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3726.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S12 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/62XudcGuYSXC9vjfG64yW1TlA8X.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S12 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S12 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iUlu1HA3vjycBJd2okxYZRuq2a.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S12 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3728.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S12 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xaCdTOdj3pqJeXyXLRCxOtSDcyH.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S12 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3729.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S12 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nprkq9d0A3SzYZmVYlQ7WXCGqbc.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S12 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S12 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/twLnoDLgGCcoeVX274holUceKvb.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S12 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S12 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9jGobh9CI5gqTJnIJ1fH1X4X4Ep.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S12 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S12 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1m5xUcVCzWF8P8pbMtvpWCNrFK9.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S12 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S12 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AoBO9LkVSXa26YsxjFttny9zh1e.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S12 E16
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S12 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cRQ9diQTUUvsNOpAYf7S3dAzB2s.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S12 E17
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3735.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S12 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/z9QNKAgaSxYJrk8HID2R5a8ZzZ0.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S12 E18
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3736.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S12 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jklPCwhx890JWptOb7jez2IEz8U.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S12 E19
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3737.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S12 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kGN5mtNd7S86LyfC4ueVK21VfsG.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S12 E20
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3738.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S12 E21" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5RH04w0ntrxo36PdhZIvJndEasT.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S12 E21
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3739.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S12 E22" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gUqQMyGzA0k96pfxpgBLp0VvZks.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S12 E22
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3740.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S13 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tW5gyu7VO2PwZaIwICFv0v1JVo9.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S13 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3741.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S13 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8xl0nCT1Hw3coNTqW6yH0dbyYEG.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S13 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3742.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S13 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/p8ybyTdAa7XDGFhzw78fDg9rQH.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S13 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S13 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2vMIBqnX1qbikrupoOmQLdUdZam.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S13 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3744.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S13 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xmGtES2zO7XRpbdCQFXpHZRkrna.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S13 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3745.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S13 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hpv5s2VhIf4kGrjL71O9AjEJJbY.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S13 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3746.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S13 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6yac71irtc7XUBLDHNBYTd6d7rm.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S13 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3747.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S13 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6lEPjyQaG3zA2wZf6scsTrltYpG.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S13 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3748.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S13 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y1rw8cJQQBfqFoXAITPCO7fs4hl.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S13 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3749.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S13 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vQfmxIXe1HglY7YyyJmrRz300kf.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S13 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3750.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S13 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5hTO61i4KNYGtWnyBeDM0nddhkl.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S13 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3751.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S13 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/n54yKdKAx1b2AiFrAbke1N4LUgp.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S13 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3752.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S13 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8iGbGKGnpPvKhRGVfwTaoj3fcZ5.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S13 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3753.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S13 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uZHHpukOFD8M63kvxOqFwH7H0Nq.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S13 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3754.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S13 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8jRC8osZpv8KoPtqaF6AU2hXnCy.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S13 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3755.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S13 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/w7FPnXOx6NLqkhXRrULo1MiwFFo.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S13 E16
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3756.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S13 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qvmrTNyFIzH3zu0hT6qq7IMWcMM.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S13 E17
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3757.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S13 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eeRJqgB47yH5mIRkelgrRRiWPAL.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S13 E18
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S13 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xRbhIzrf2uwgELd4YcGcQxeWOlm.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S13 E19
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S13 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3s1j0LFyDbX9u9Ba4df0t8PQoEW.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S13 E20
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3760.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S13 E21" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dDYaO7Q4x2JQ978E9kTCuMCewrI.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S13 E21
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3761.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S13 E22" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mNjQx0NWCK6WKYm5YBRdnSQa1Tv.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S13 E22
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S14 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/q5Znqk1sdvDS0Pi42UY3cWkShDF.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S14 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3763.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S14 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4LVgv9kxMsp7YS2xr5PZ8xk4zoi.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S14 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3764.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S14 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gyRytnn4eg3nQdPsTpT1wT2mv9y.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S14 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3765.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S14 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/toLigUhbpCdgIm3crofAmYttWsX.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S14 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3766.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S14 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pBye4wUwTqhPcR57sY2xuCmeuIA.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S14 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3767.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S14 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2uGfauTn1VaHM1mqqIiMXo4NNEf.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S14 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3768.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S14 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ayRhOrpgPOsyYXGVAiMCemhHmEX.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S14 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3769.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S14 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b91DXeXypQI6Hx9nLr4LJjl1Hn5.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S14 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3770.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S14 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hiiAY3I60NBaeFuM84fOBqMylFl.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S14 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3771.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S14 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sd6nZadbeINKFi5YrPrAe2jzOeQ.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S14 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3772.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S14 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2S3akvY4WZiHVH1F9LrmoHNPyWL.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S14 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3773.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S14 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8foLBOAYjlbVz2WJtv3l9AB9M3A.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S14 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S14 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hSsO7q2GW1l2wau4v0oWn9IMJGD.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S14 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3775.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S14 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/c3Bu6T2GW7S5pe2KxTYnGK01eXx.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S14 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3776.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S14 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/13pwWVstSA1ADg9BptVkJobWTJa.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S14 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3777.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S14 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8X5AcIE8oNlGziQf5ETvp6buvgC.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S14 E16
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3778.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S14 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bVUAMinITQCAZxxbjcL3BPnVzS1.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S14 E17
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3779.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S14 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sAWH0ysUAAacY5TesdMYJ7ps7Sv.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S14 E18
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3780.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S14 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cKHkpgXBSD004g3HnaWop3Y8Nkd.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S14 E19
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3781.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S14 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sfFVNuLzbxOASP9YGZW5UlRm1H.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S14 E20
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3782.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S14 E21" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cbNAD2rdZL3lXPwwn8B4YneJI0k.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S14 E21
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3783.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S14 E22" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t5yKUR3Xt8abrxzIf662a6KV2EU.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S14 E22
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3784.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S15 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rXkELiQIrvzJlqvz71YEGCLCJ8S.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S15 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3785.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S15 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8BXdgwaovVfdwY78UQ5NSJM9zG.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S15 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3786.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S15 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3sONRFs1kfEOY8g6g577Jfbve6W.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S15 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3787.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S15 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/are5gFsOW5Kv69Jaodwtl0wOqbd.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S15 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3788.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S15 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cgeOLhbalGqpcttPyPaLGXxYVa.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S15 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3789.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S15 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qYjhg2YtisoRctfNNZLS5suPfCc.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S15 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3790.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S15 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eSJgAQnFTZ6erFmFiIfYlVAVHEb.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S15 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3791.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S15 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k4o052eduK3UW8DmpEVhKbSV860.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S15 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3792.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S15 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mQPpLrbYggGJpqCPPFzgCBOSa6M.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S15 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3793.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S15 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/igykYBSwHhz2qXDX90r2UllAkwW.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S15 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3794.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S15 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qVNhOH9REQF6O4e3gI0A5F8PbzR.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S15 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3795.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S15 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hfGankRtQZ0j4XeAIisimx0cils.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S15 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3796.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S15 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oy30HrX6xTk2yyo1wtNH2vxEEap.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S15 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3797.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S15 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vE0df3W81JS3v1OCbJwMtKmwFwz.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S15 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3798.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S15 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vbhma4SXybDjFRlDFx1zEfpJ5hj.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S15 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3799.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S15 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pJnWS2MxlIFsDIsAdFzjtyICORO.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S15 E16
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3800.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S15 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yb92uR3ZbubMdoXeaV8vtZkKTbx.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S15 E17
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3801.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S15 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nqwhOYpGyppa7yqQXdb1tTFpcin.jpg" group-title="INVESTIGAÇÃO CRIMINAL",CSI: Investigação Criminal S15 E18
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3802.mp4
+
+#EXTM3U url-tvg=" http://grade-de-VARIADAS.xml "
+ ############## VARIADAS ################ # 
+#EXTINF:-1 tvg-id=" iddocanaldeVARIADAS" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Califado S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/62vhLqV9FSSgesR2UWqP8QtWb94.jpg" group-title="VARIADAS",Califado S01 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3803.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Califado S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qbQiQdLf1mQWF5AS710cIaE1bRX.jpg" group-title="VARIADAS",Califado S01 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3804.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Califado S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bDoUv6D9SRRG2mIB0wxND38T2W2.jpg" group-title="VARIADAS",Califado S01 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3805.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Califado S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9bDyBLKjVcq0RS3HjWaJVllocWZ.jpg" group-title="VARIADAS",Califado S01 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3806.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Califado S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aLleuQjFSwAfjlYU970uzBBry7C.jpg" group-title="VARIADAS",Califado S01 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3807.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Califado S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xtPtEqevyyVSy5WYqqoC0zr2Eda.jpg" group-title="VARIADAS",Califado S01 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3808.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Califado S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nv3SHNskn1ygWUl6pU7pbYztend.jpg" group-title="VARIADAS",Califado S01 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3809.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Califado S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/d3jO5hYrqWzLZN2eO3iMkc3Wf4K.jpg" group-title="VARIADAS",Califado S01 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3810.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vrog6WSUZSwDr0FtF53MMdJg9S3.jpg" group-title="VARIADAS",Candice Renoir S01 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5LptjSV1K1A01oaxsvgWMHcJJiz.jpg" group-title="VARIADAS",Candice Renoir S01 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kM9kWj4bRy3MgzMq2YgYA3EXXH9.jpg" group-title="VARIADAS",Candice Renoir S01 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/e7c7Hkbt0VkXiYJM4tkYimfh8gh.jpg" group-title="VARIADAS",Candice Renoir S01 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/758v60eCXDQSt9OCuu77cYrT3dN.jpg" group-title="VARIADAS",Candice Renoir S01 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3911.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9oJKRWPOQA8KwgqA1CbyNsf4fOu.jpg" group-title="VARIADAS",Candice Renoir S01 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3912.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pBNq1JDQLHhO0tzJh4XtzjPttmE.jpg" group-title="VARIADAS",Candice Renoir S01 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3913.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4hX24vUAU5IwxHbaXvDqLLWtg9V.jpg" group-title="VARIADAS",Candice Renoir S01 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3914.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S02 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/80xnMLfcC5UMIX4jWhRO2lux8zZ.jpg" group-title="VARIADAS",Candice Renoir S02 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86814.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S02 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gRXEiK87dqHtmzaZpLyVEAAlT0K.jpg" group-title="VARIADAS",Candice Renoir S02 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86815.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S02 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S02 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86816.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S02 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8V0I5xoq3Qk6XfCwdj0BQsyjgeS.jpg" group-title="VARIADAS",Candice Renoir S02 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86817.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S02 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S02 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S02 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/a0B674STgHGZAUiRwdSeAX7dhFm.jpg" group-title="VARIADAS",Candice Renoir S02 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86819.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S02 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S02 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86820.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S02 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/c5FTirzWBI6XAA1EjXJp12f3c8F.jpg" group-title="VARIADAS",Candice Renoir S02 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86821.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S02 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S02 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86822.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S02 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S02 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86823.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S03 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ejlq13VtxM5A3fvMeeJMPGoCfEo.jpg" group-title="VARIADAS",Candice Renoir S03 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86824.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S03 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S03 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86825.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S03 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wyFCk0K9vVJvKndFza2mZvzNxHb.jpg" group-title="VARIADAS",Candice Renoir S03 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86826.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S03 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S03 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86827.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S03 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S03 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86828.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S03 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S03 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86829.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S03 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S03 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86830.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S03 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S03 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86831.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S03 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oOmKdOzrh0ZyLAvVoSuZiCNWXyv.jpg" group-title="VARIADAS",Candice Renoir S03 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86832.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S03 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S03 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86833.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S04 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k9olvvAkEoK9k10yzkaKepMYrpQ.jpg" group-title="VARIADAS",Candice Renoir S04 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86834.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S04 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S04 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86835.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S04 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bAK7DlOY9ZZZ98jBNFC3rIMUXb2.jpg" group-title="VARIADAS",Candice Renoir S04 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86836.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S04 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S04 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86837.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S04 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iAwoieP9JZhlbQGzxIxAn3xD2fw.jpg" group-title="VARIADAS",Candice Renoir S04 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S04 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S04 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86839.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S04 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lBfFhRsaf4ELUwZ9mAPWAZ2ru7g.jpg" group-title="VARIADAS",Candice Renoir S04 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86840.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S04 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S04 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86841.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S04 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S04 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86842.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S04 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qmoLshbeZ5Vx22qJ9PcRoTpieb2.jpg" group-title="VARIADAS",Candice Renoir S04 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S05 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S05 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86844.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S05 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S05 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S05 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S05 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86846.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S05 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S05 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S05 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S05 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S05 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S05 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86849.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S05 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S05 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S05 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S05 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86851.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S05 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S05 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86852.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S06 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iq3EGkFAUKsqBL4hwJsoSJPNqNC.jpg" group-title="VARIADAS",Candice Renoir S06 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86853.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S06 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iG0VkljCr4TWtpTA7kb51NTfr9L.jpg" group-title="VARIADAS",Candice Renoir S06 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86854.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S06 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4NNYO8rntWlBmeALHAA1HicKcRu.jpg" group-title="VARIADAS",Candice Renoir S06 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86855.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S06 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/q2gxh6rgl9zLrPXjRNpClpsF4L.jpg" group-title="VARIADAS",Candice Renoir S06 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86856.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S06 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7prx2pd0ycVyB9vrCYQ6R0zkUsf.jpg" group-title="VARIADAS",Candice Renoir S06 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86857.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S06 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gmy8LbZT8oahGranBmwvCnLjn7R.jpg" group-title="VARIADAS",Candice Renoir S06 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86858.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S06 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1iQgP0XXCLZc9B4kgxOtDXAMqHq.jpg" group-title="VARIADAS",Candice Renoir S06 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86859.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S06 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kfetlc6RDqRjxcK0kzoDuMtCqhb.jpg" group-title="VARIADAS",Candice Renoir S06 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86860.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S06 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6chqhLbbeA3lTADP3dzswhzDaTK.jpg" group-title="VARIADAS",Candice Renoir S06 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86861.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S06 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/A03jvyfLkwfljVVXytC9YXuqCd5.jpg" group-title="VARIADAS",Candice Renoir S06 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86862.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S07 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cRlxvkgVMfWptzzVZLULYh6xyqS.jpg" group-title="VARIADAS",Candice Renoir S07 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86863.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S07 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AwdE4hEMDTpSApGkW9ibRLSWDgM.jpg" group-title="VARIADAS",Candice Renoir S07 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86864.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S07 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yareYFvfHNgLptA44tRITFpNUhy.jpg" group-title="VARIADAS",Candice Renoir S07 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86865.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S07 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2bFyLopJLYHvxWo8JYl5rOejmbs.jpg" group-title="VARIADAS",Candice Renoir S07 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S07 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S07 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S07 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S07 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S07 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S07 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86869.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S07 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S07 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S07 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S07 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S07 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S07 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S08 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fdyAS1nhpjVqOKqXfE7SHBqlnID.jpg" group-title="VARIADAS",Candice Renoir S08 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S08 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rGtZuFvKxarVg5NEo6AwnU4eFzM.jpg" group-title="VARIADAS",Candice Renoir S08 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86874.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S08 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7Bg07i8VpNSgueUSIfxtwTNYyBk.jpg" group-title="VARIADAS",Candice Renoir S08 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86875.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S08 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zKHj3uQxBMGN3soIYTcirdSuwOu.jpg" group-title="VARIADAS",Candice Renoir S08 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S08 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/p4dX4S3jptkAzI8NVZVfJyUIUMU.jpg" group-title="VARIADAS",Candice Renoir S08 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S08 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/p4dX4S3jptkAzI8NVZVfJyUIUMU.jpg" group-title="VARIADAS",Candice Renoir S08 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S08 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S08 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S08 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S08 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S08 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S08 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S08 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S08 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S09 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S09 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S09 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S09 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86894.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S09 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S09 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S09 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S09 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S09 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S09 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S09 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S09 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S09 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S09 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S09 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S09 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S09 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S09 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S09 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S09 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S10 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S10 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S10 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S10 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S10 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S10 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S10 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S10 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86906.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S10 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S10 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candice Renoir S10 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yinQce5khtVovY2oDcZsP6slAf1.jpg" group-title="VARIADAS",Candice Renoir S10 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86908.mp4
+
+#EXTM3U url-tvg=" http://grade-de-AMAZON PRIME.xml "
+ ############## AMAZON PRIME ################ # 
+#EXTINF:-1 tvg-id=" iddocanaldeAMAZON PRIME" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Caçadores S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qYsbiQ9ZrzZbvyCiMWWSrT9c7aT.jpg" group-title="AMAZON PRIME",Caçadores S01 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caçadores S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wR1TlPiY3GDJrXvtvLTJTL2JSpM.jpg" group-title="AMAZON PRIME",Caçadores S01 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3812.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caçadores S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iO6sueXsRzyy8qB0m8mywyRedUZ.jpg" group-title="AMAZON PRIME",Caçadores S01 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3813.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caçadores S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y5qSdTSwHYt72GfH3v8eT5uYzBY.jpg" group-title="AMAZON PRIME",Caçadores S01 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3814.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caçadores S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/35SwOvvKElHJcZBUdPvcqAWOLfV.jpg" group-title="AMAZON PRIME",Caçadores S01 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3815.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caçadores S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fR0e3xobs0v1fA6GoKaUBc32R1Q.jpg" group-title="AMAZON PRIME",Caçadores S01 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3816.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caçadores S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2QeswJIhPibnTtONkcENiaxsukR.jpg" group-title="AMAZON PRIME",Caçadores S01 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3817.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caçadores S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dhgelRUQfB45tDTJC1TP8FI02EC.jpg" group-title="AMAZON PRIME",Caçadores S01 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caçadores S01 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7fGf5frLk04UAqekQhuhPAMSBpU.jpg" group-title="AMAZON PRIME",Caçadores S01 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3819.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caçadores S01 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3Obm1GKIqrBCb2L3YFeMOLysdeh.jpg" group-title="AMAZON PRIME",Caçadores S01 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3820.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xQHHe2lHCvxJ2TyUlk6NKXYteYH.jpg" group-title="AMAZON PRIME",Californication S01 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3821.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fkAksfJ0TalDYaqypivV6mJyAGf.jpg" group-title="AMAZON PRIME",Californication S01 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3822.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8PtHHTIm73wgE0CeOBr3bfAY2m.jpg" group-title="AMAZON PRIME",Californication S01 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3823.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/G02SdSPYXLmRkBAeSMQCiKYIP3.jpg" group-title="AMAZON PRIME",Californication S01 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3824.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ozdiR8am2bKGjPQEP14GGDlg7ng.jpg" group-title="AMAZON PRIME",Californication S01 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3825.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/34fmTisW34zJu33rRssrnOwgpci.jpg" group-title="AMAZON PRIME",Californication S01 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3826.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/d22Lt0Kciz5YLWFgUazsppxbtZb.jpg" group-title="AMAZON PRIME",Californication S01 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3827.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6MKgiVdB8k0nklXn5O93uM2wMeV.jpg" group-title="AMAZON PRIME",Californication S01 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3828.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S01 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ukmAP3pgTSuqhPx7U3MUNlrD2gg.jpg" group-title="AMAZON PRIME",Californication S01 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3829.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S01 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4dsFFTXDMRG0AiWjJ16FAo290Gs.jpg" group-title="AMAZON PRIME",Californication S01 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3830.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S01 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uVNEknGCa7BjG3BraNprYx4Xj8j.jpg" group-title="AMAZON PRIME",Californication S01 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3831.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S01 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qv8bAtPeFGB9HLZI4tGjtpiqCqr.jpg" group-title="AMAZON PRIME",Californication S01 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3832.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S02 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4MwjX68bjqqZkTOA3Pd19DufiOp.jpg" group-title="AMAZON PRIME",Californication S02 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3833.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S02 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qfyNky9lw5t2bo1PvxUcVcorM6L.jpg" group-title="AMAZON PRIME",Californication S02 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3834.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S02 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6ujhoMKsbjoeP6bl3Echxgjt1WH.jpg" group-title="AMAZON PRIME",Californication S02 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3835.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S02 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bobyfN399oHZsUQcU7JzlDpgqzk.jpg" group-title="AMAZON PRIME",Californication S02 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3836.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S02 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/u8GPMvpxqlRJs8JJ0sEKhfrJOU6.jpg" group-title="AMAZON PRIME",Californication S02 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3837.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S02 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5pO5erDG99OTDehJbXdYX658bpt.jpg" group-title="AMAZON PRIME",Californication S02 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S02 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dx7WEfbbz9DEcTXzxdayC9hv0Ta.jpg" group-title="AMAZON PRIME",Californication S02 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3839.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S02 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lHQp266hlEYErIz3nJJWxinLwVe.jpg" group-title="AMAZON PRIME",Californication S02 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3840.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S02 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k150b9ccRTHqg8YYKvVUzgKinvy.jpg" group-title="AMAZON PRIME",Californication S02 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3841.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S02 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7EZIBt4JHpRI5E6bhgpbn6UF7v8.jpg" group-title="AMAZON PRIME",Californication S02 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3842.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S02 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7J7PMDwikdjhcFJtkOml3oOayHO.jpg" group-title="AMAZON PRIME",Californication S02 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S02 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eDmvva63Yd5qmi2mG7lR6QZvkNW.jpg" group-title="AMAZON PRIME",Californication S02 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3844.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S03 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pIgRstr0OifkdBwtVbL8jAE3KUl.jpg" group-title="AMAZON PRIME",Californication S03 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S03 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2HlSfSrfXHDdj6bAKZerIZYDfYa.jpg" group-title="AMAZON PRIME",Californication S03 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3846.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S03 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8QpihmeJvZS6GEzMdMZRUv07ghY.jpg" group-title="AMAZON PRIME",Californication S03 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S03 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4s6J8eec4h2wOOVuVUR1Uz7YQV2.jpg" group-title="AMAZON PRIME",Californication S03 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S03 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3ycooM5tKlDQzLUWZCe8QwPmORW.jpg" group-title="AMAZON PRIME",Californication S03 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3849.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S03 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5JTiMTJv91MvJ9G6vPKTObZhwm9.jpg" group-title="AMAZON PRIME",Californication S03 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S03 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5QEPHn6OqQfjB7NFD5WPN59SiRm.jpg" group-title="AMAZON PRIME",Californication S03 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3851.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S03 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4kOWlFnwtBxHHgM2ssf7ZsTAbIl.jpg" group-title="AMAZON PRIME",Californication S03 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3852.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S03 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iW88Dw7ewmmVHbxVdN9aBxg86wn.jpg" group-title="AMAZON PRIME",Californication S03 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3853.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S03 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7bV83Ke7UXVUPhhXCXQAWgiZFw9.jpg" group-title="AMAZON PRIME",Californication S03 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3854.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S03 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/j1tAESxBisa9lZN2QoROZtGAbzk.jpg" group-title="AMAZON PRIME",Californication S03 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3855.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S03 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/r4KO7SV763jQ6ei1Ia6gp8rjyLm.jpg" group-title="AMAZON PRIME",Californication S03 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3856.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S04 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t2TcWrGLmJmIedwJwNMS79jZqj3.jpg" group-title="AMAZON PRIME",Californication S04 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3857.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S04 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1bP3186InnZlp85W6nCd7DAISkv.jpg" group-title="AMAZON PRIME",Californication S04 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3858.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S04 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tJfDmEEsY8zrUoabDaFLbQSF4mz.jpg" group-title="AMAZON PRIME",Californication S04 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3859.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S04 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rceixvnVv11auuCT5rxfjvA6zvZ.jpg" group-title="AMAZON PRIME",Californication S04 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3860.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S04 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/64l1bjjRDlLuktSpDUEQnl0O8nL.jpg" group-title="AMAZON PRIME",Californication S04 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3861.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S04 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dswPNKiO7rYfVFjfIU6kYbdiBUa.jpg" group-title="AMAZON PRIME",Californication S04 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3862.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S04 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pnEgBrRRIuHFJ4cyqAvnBBxngHV.jpg" group-title="AMAZON PRIME",Californication S04 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3863.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S04 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vbksPVAXhBehy5r2A95BY2pAQz3.jpg" group-title="AMAZON PRIME",Californication S04 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3864.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S04 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sYdvvFf8hb5JSpjb1FZqhLEYjc9.jpg" group-title="AMAZON PRIME",Californication S04 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3865.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S04 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/80POKvoaHcAOvOtD4BTxcjn18nw.jpg" group-title="AMAZON PRIME",Californication S04 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S04 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xKGbNMuieOs7DfQhcR30N23r4aV.jpg" group-title="AMAZON PRIME",Californication S04 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S04 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k0JJdOg6YMBA4wPcKDpTFs1u56h.jpg" group-title="AMAZON PRIME",Californication S04 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S05 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1SPjtBfvXUxMtaQFirX3P8BxL1k.jpg" group-title="AMAZON PRIME",Californication S05 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3869.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S05 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vaxA81cop9j3iJVBHqKd4IxkgNR.jpg" group-title="AMAZON PRIME",Californication S05 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S05 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7spUzhVomIsfheSNONynWZr4Ah3.jpg" group-title="AMAZON PRIME",Californication S05 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S05 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8qTE8kP6JR6C10FlzR8HD084LTP.jpg" group-title="AMAZON PRIME",Californication S05 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S05 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yha4sM9d5skkcG1WKxwvHJUEdSy.jpg" group-title="AMAZON PRIME",Californication S05 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S05 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kRZKnT7TRRNlR5CV8f6OaljQoEr.jpg" group-title="AMAZON PRIME",Californication S05 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3874.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S05 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vPsXq6sPc8cFhalhEw1Ilikz4Aq.jpg" group-title="AMAZON PRIME",Californication S05 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3875.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S05 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lVYHPzSVtT384VmzZxGyuMTQTjt.jpg" group-title="AMAZON PRIME",Californication S05 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S05 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/SD2YFdfNc210JGSc9z1jSNU7NW.jpg" group-title="AMAZON PRIME",Californication S05 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S05 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/f1ckgNZxGzBukkOv82uaCi9Es4w.jpg" group-title="AMAZON PRIME",Californication S05 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S05 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/125nJxyCMeK7r295BM1NhY4Ffl7.jpg" group-title="AMAZON PRIME",Californication S05 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S05 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8UuVn6vK7IvNbo7iLIvsx0ilyjv.jpg" group-title="AMAZON PRIME",Californication S05 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S06 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/acqtcI0obNv2vpGZ39O7Q5GukVX.jpg" group-title="AMAZON PRIME",Californication S06 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S06 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1zFKLgToWxvX7EWPBdGRMkslnN3.jpg" group-title="AMAZON PRIME",Californication S06 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S06 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7Rys8uMtUCOarbVpm79HZr0kgTR.jpg" group-title="AMAZON PRIME",Californication S06 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3883.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S06 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/h2LP21DAQ1UTsie2CXBohLsCgYQ.jpg" group-title="AMAZON PRIME",Californication S06 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3884.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S06 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6GThl7M7j3srod9W8kk13AqebH1.jpg" group-title="AMAZON PRIME",Californication S06 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3885.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S06 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dlayRByaf18I40abVjuya5Tx3m8.jpg" group-title="AMAZON PRIME",Californication S06 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S06 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aAjx21q6nPdIfMUTgZmZmmSp1Pa.jpg" group-title="AMAZON PRIME",Californication S06 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3887.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S06 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/q9qgqpYiReR4X0juJUdOHFP9hOs.jpg" group-title="AMAZON PRIME",Californication S06 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3888.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S06 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tc5H2IsSsUeeOaADi4QhvFpaWLm.jpg" group-title="AMAZON PRIME",Californication S06 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3889.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S06 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/itV1Y5APvNleZpUPIAnf4RPYA7W.jpg" group-title="AMAZON PRIME",Californication S06 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3890.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S06 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jZ3DJt1qY9kb4Ri4lHqZNPE729o.jpg" group-title="AMAZON PRIME",Californication S06 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S06 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5aBCqHIpJT8s75TwV9Q0p3xmIlr.jpg" group-title="AMAZON PRIME",Californication S06 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S07 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pmpEwbuVu5gCuVO6FuVcUOTIPrg.jpg" group-title="AMAZON PRIME",Californication S07 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S07 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sIPoy1l8FqB3zxJW68sA2MBdcQ9.jpg" group-title="AMAZON PRIME",Californication S07 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3894.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S07 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/x6GrFyuUzeLQx9C5pWVhdAukEzY.jpg" group-title="AMAZON PRIME",Californication S07 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S07 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lglddzQGFCuDuP11m8LaLRGcnmv.jpg" group-title="AMAZON PRIME",Californication S07 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S07 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nSucjMpoG4L9eUD3P8ouqetN2I9.jpg" group-title="AMAZON PRIME",Californication S07 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S07 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aH7VXlWGj7GpMJL3OxqgAdD1rlR.jpg" group-title="AMAZON PRIME",Californication S07 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S07 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jBOuK4zYkV8CL2BTTwYw50Q22BH.jpg" group-title="AMAZON PRIME",Californication S07 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S07 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eAtVmfuksc2m1cCQDO84yv4oTxY.jpg" group-title="AMAZON PRIME",Californication S07 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S07 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y0xreqheF6aWtdzDQ5lf2lkR8Hd.jpg" group-title="AMAZON PRIME",Californication S07 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S07 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/35UgBCBa5tsb7kNy0RX70Uxf2Qz.jpg" group-title="AMAZON PRIME",Californication S07 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S07 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kt9U4vA1nQI9eDXYXdXD1uzEA2o.jpg" group-title="AMAZON PRIME",Californication S07 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Californication S07 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gr4YinFMRDysat3WTZZCV56bKn4.jpg" group-title="AMAZON PRIME",Californication S07 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnival Row S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pZIS6zSJ2AunyesFziTAuzqhf2C.jpg" group-title="AMAZON PRIME",Carnival Row S01 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3982.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnival Row S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3qDdrywkPoB3rIGfiosVi2HIqQm.jpg" group-title="AMAZON PRIME",Carnival Row S01 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3983.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnival Row S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/r7A36hUTJ7PnqBp3wnMPEHTkmDX.jpg" group-title="AMAZON PRIME",Carnival Row S01 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3984.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnival Row S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mcVI7yQjXmreUQcyxRJ3dFTFszI.jpg" group-title="AMAZON PRIME",Carnival Row S01 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3985.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnival Row S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y6A3ZXbSBoc3HwBj1J3KWWvrrzW.jpg" group-title="AMAZON PRIME",Carnival Row S01 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3986.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnival Row S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ov05qVU8JVZ66BQK457MLMg7Wfu.jpg" group-title="AMAZON PRIME",Carnival Row S01 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3987.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnival Row S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qz8LLBICSXwmCDykMpQA9twRJl.jpg" group-title="AMAZON PRIME",Carnival Row S01 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3988.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnival Row S02 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/A551ih78C4hYWXjLq2tCwKY0QMk.jpg" group-title="AMAZON PRIME",Carnival Row S02 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86097.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnival Row S02 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zIJ1eDCmjkqRN4a6CHt0tF8WPLS.jpg" group-title="AMAZON PRIME",Carnival Row S02 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86098.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnival Row S02 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pcZvqAuPYaNbvwjxA2hnWHahNo9.jpg" group-title="AMAZON PRIME",Carnival Row S02 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86099.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnival Row S02 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lHFa2J5YsCtr5A1zMPSSCjvln8F.jpg" group-title="AMAZON PRIME",Carnival Row S02 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86100.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnival Row S02 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kEzM7dwdtMtQtHRFlh2LDyhtYuu.jpg" group-title="AMAZON PRIME",Carnival Row S02 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86101.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnival Row S02 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/GqwIOSddBJM9MqWtypKPDx1m7N.jpg" group-title="AMAZON PRIME",Carnival Row S02 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86102.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnival Row S02 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jvVbMY0ss7faB8YShYXrNe2hdyJ.jpg" group-title="AMAZON PRIME",Carnival Row S02 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86103.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnival Row S02 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rgXxm9ydzr06FgyPZA3fOsZiRuG.jpg" group-title="AMAZON PRIME",Carnival Row S02 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86104.mp4
+
+#EXTM3U url-tvg=" http://grade-de-GLOBOPLAY.xml "
+ ############## GLOBOPLAY ################ # 
+#EXTINF:-1 tvg-id=" iddocanaldeGLOBOPLAY" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Carcereiros S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lNaxN7mgjTzDunTgu8Di6O680zm.jpg" group-title="GLOBOPLAY",Carcereiros S01 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3921.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carcereiros S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oPJMJlMEI3d1l4q8D51nslRHXp9.jpg" group-title="GLOBOPLAY",Carcereiros S01 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carcereiros S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lAHcdPxJ1KMxD1znG45tZQFEbXh.jpg" group-title="GLOBOPLAY",Carcereiros S01 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3923.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carcereiros S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2yZ5ciCkpIK9MqHio0bHsk5jSBr.jpg" group-title="GLOBOPLAY",Carcereiros S01 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3924.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carcereiros S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zRdrtvfyt3s0v6ckApbLIHwqKUN.jpg" group-title="GLOBOPLAY",Carcereiros S01 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carcereiros S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/enz4KhWl5ZyMP6iKRDf0ulr8pgI.jpg" group-title="GLOBOPLAY",Carcereiros S01 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carcereiros S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vZs9jHQAJgS8AO9grKA0xI2yMLd.jpg" group-title="GLOBOPLAY",Carcereiros S01 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carcereiros S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6TXF1sYbxgidob7mUSD7DBWPJ0F.jpg" group-title="GLOBOPLAY",Carcereiros S01 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3928.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carcereiros S01 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/64WUF0OKth5esEPmU3ikIgVw0Mo.jpg" group-title="GLOBOPLAY",Carcereiros S01 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3929.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carcereiros S01 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nTM5PUFaW3EZJnMFjuO2xR4E8YN.jpg" group-title="GLOBOPLAY",Carcereiros S01 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carcereiros S01 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/neQfaBlwnilsynb8zCqE1T4PQbO.jpg" group-title="GLOBOPLAY",Carcereiros S01 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carcereiros S01 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/51BYlM6tfs5tUhS6xjKD7mrgjD5.jpg" group-title="GLOBOPLAY",Carcereiros S01 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carcereiros S02 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/euxvhSrrh5gq5PzuI73HXddVfar.jpg" group-title="GLOBOPLAY",Carcereiros S02 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carcereiros S02 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xTPskapuO6XkG8bUfFkWL6fFnDR.jpg" group-title="GLOBOPLAY",Carcereiros S02 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3934.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carcereiros S02 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bNyryQuc0kATJuRBGEi6aK4Tf2L.jpg" group-title="GLOBOPLAY",Carcereiros S02 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carcereiros S02 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oz9jzsebzqZy5QSEfGpRsugXJnn.jpg" group-title="GLOBOPLAY",Carcereiros S02 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3936.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carcereiros S02 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pOm9zVct1wqTml6OmAjkuAoAJTG.jpg" group-title="GLOBOPLAY",Carcereiros S02 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carcereiros S02 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5jAhJ2dxDIhmXdQn3JduoD8gykM.jpg" group-title="GLOBOPLAY",Carcereiros S02 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carcereiros S02 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uzB099XKPW6oMOWbeNshAiBPjBl.jpg" group-title="GLOBOPLAY",Carcereiros S02 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3939.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carcereiros S02 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gHIQPdZZrdntfi9K6tiwaDCDXU3.jpg" group-title="GLOBOPLAY",Carcereiros S02 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3940.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carcereiros S02 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8KF7HNIf6KUCQoARPdrFnVR2Nen.jpg" group-title="GLOBOPLAY",Carcereiros S02 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3941.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carcereiros S02 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gTTKKcbOpP4lfsTdEp4gMk2Lq42.jpg" group-title="GLOBOPLAY",Carcereiros S02 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3942.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carcereiros S02 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zbAiceoZkAlLHHyYP6BK79DFOsl.jpg" group-title="GLOBOPLAY",Carcereiros S02 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carcereiros S02 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/drkOHGGoJLiOoOdBc7XE6V35hFc.jpg" group-title="GLOBOPLAY",Carcereiros S02 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3944.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carcereiros S02 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rRxNfKLXBCkwpBhBn1593RmrzmI.jpg" group-title="GLOBOPLAY",Carcereiros S02 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carcereiros S02 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hNcpcLymGjJ3V5dXLKs8erzEDuA.jpg" group-title="GLOBOPLAY",Carcereiros S02 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carcereiros S03 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mEHSZIyKzyRsirTYORXU92bxuki.jpg" group-title="GLOBOPLAY",Carcereiros S03 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3947.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carcereiros S03 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mEHSZIyKzyRsirTYORXU92bxuki.jpg" group-title="GLOBOPLAY",Carcereiros S03 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3948.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carcereiros S03 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mEHSZIyKzyRsirTYORXU92bxuki.jpg" group-title="GLOBOPLAY",Carcereiros S03 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carcereiros S03 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mEHSZIyKzyRsirTYORXU92bxuki.jpg" group-title="GLOBOPLAY",Carcereiros S03 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cvufcTVedvPhhraXg0KSVD6QTXk.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S01 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4118.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fSgsIPO6JtwGnIE23zwkzweDivN.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S01 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4119.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/urP9CLsxr2k1nJBMFvC6Vvywnc0.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S01 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4120.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yup87jPkebP1U8jx78xPgoFcrfO.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S01 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4121.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9oQCEvgjV5Eu2PHxXGZ1hkFq3w5.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S01 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4122.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kqGkIPm8HK9jlSTkv0gTGVklk1C.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S01 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4123.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zLk8zM7jqVooozsd2sqoh6RFurs.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S01 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4124.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/EOhyI0tuR17KuKFbPVD9GM9FYL.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S01 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4125.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S01 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fwYU91BjjOnhINR7JXS63MVYVMK.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S01 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4126.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S01 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aNLAruz1IE1OoHEoJr19NUbjOO6.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S01 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S01 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vVi3c4pz2W58S7XUeNnprJj7Rlc.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S01 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S01 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2ZfJ9fSeneng2pAd4Km4duvCtZd.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S01 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S01 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qxcBBTEHCI8V3l0CrKi7fWkzvo5.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S01 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4130.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S01 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1hyodgqPd23qRui3prLTSUMY7jP.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S01 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S01 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ucGEmJVCDT3wgTVH116H9k2rj7E.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S01 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S01 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lHIGAc8EfysAo2MM0oiMAiDZyMJ.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S01 E16
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4133.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S01 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nAMKPh65YW9vvPoajJUwaM5cJ0E.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S01 E17
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S01 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vCvAnhDCKAVRTxEPg1on8HrJa6X.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S01 E18
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S01 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3UFa9shlAiz58WM1ifkqQOuzaZP.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S01 E19
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4136.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S01 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5UOnoK6kjzBGTjRLnN3I0Wz9LBH.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S01 E20
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4137.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S01 E21" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9aJicUvcK1Y3TUzYMN2vfZBa9bx.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S01 E21
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4138.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S01 E22" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2drFEDesKQgXSKZ8p8CEyP5Gr5O.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S01 E22
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4139.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S01 E23" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/60qEWQsAiwUgMtbzjeIchcjHbhc.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S01 E23
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4140.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S01 E24" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3WV6OIerA8oauJ21J7i8CknmgiL.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S01 E24
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4141.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S02 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2dN650KiAkos7A2oSMQgY2yXYP.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S02 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4142.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S02 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/p5rI4Z84ibx3xdXwYOMQ8ZgUnJy.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S02 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S02 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cn3HhPtXuij6qk8spzzgsf0AnJs.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S02 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4144.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S02 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/15voPszxK4C39Oh1o1ghc0Fsb0x.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S02 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4145.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S02 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2rBCjVJVzBLAeb550O3EjEKnHdd.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S02 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4146.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S02 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zq4rrgkVwGEFCQc5mxJaEN4bltt.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S02 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4147.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S02 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/i4q0ypIYLzslMDrdKjC7QWx8Cmf.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S02 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4148.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S02 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gDEbPHpE295QMqaEDsmUES3deU3.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S02 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4149.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S02 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/Acg3uGAmLeWkpFscnjsdbbFiHTz.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S02 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4150.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S02 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pE3NrXLeOnxGkh0G5BE4nAHgBOK.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S02 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4151.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S02 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/u50OmN8DNEDpllmYvq74NRQ8020.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S02 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S02 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zUYhnwMazyAhgjCK6Hj8ok7UCcq.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S02 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4153.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S02 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pVTmyUEnwTM4KyITluSYsptZlCJ.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S02 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4154.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S02 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iomZjjzEgKarngl5WXNJZE65oIk.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S02 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4155.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S02 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3qRUWCI4kmgevKVzpnO9U7DyxoQ.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S02 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4156.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S02 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rZqoVBS9OGdpTujIv1csrbT63e2.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S02 E16
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4157.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S02 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AvsCAh7ooTR4Sg1uo1ikcFBoXoS.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S02 E17
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4158.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S02 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uGjRTW1J1hO7t2VCkldeBAfeWcW.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S02 E18
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4159.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S02 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tsj1f4dBPGMVXMtK9FdAEH6q85H.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S02 E19
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4160.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S02 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/l7g2qq4zpLIclzMp5UTavcGqb4z.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S02 E20
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4161.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S02 E21" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AlfQUgVZgtp2nLkWtRbHY6w0GXs.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S02 E21
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4162.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S02 E22" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1yF6UAAcA3oNHebLzS9p3RMzd6q.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S02 E22
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4163.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S03 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tVTpSPMfUfNYyqqVgN10XdmbTv1.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S03 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4164.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S03 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5iUDS3LvolxB2kMgCUdO8AqVB42.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S03 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4165.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S03 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8vC0VsaRElqimokRB6nm4YCx6zU.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S03 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4166.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S03 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mVeBhJtYSTPqxa9LCubHQddJ3BI.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S03 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4167.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S03 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cbo2BWMREDjocurwBFQ6tJeULDz.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S03 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4168.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S03 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/utv4YP4F3AVCl4vyi0JONEZuJGp.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S03 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4169.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S03 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/apMRO08CG9y4o983f2riCbc6gFf.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S03 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4170.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S03 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/v0slcDSBMMaxHRAz8Q8l7Co4Kai.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S03 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4171.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S03 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/htot9tb51P1xEQRfQmcTW8Jvpgk.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S03 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4172.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S03 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/JUJUtIX59zQSOFZzmamG6iT4Jc.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S03 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4173.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S03 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pWs6RewnDd24lhZsxJSIq3Bv2qX.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S03 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4174.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S03 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rwuAcsXhHbD5nnrqqf74zENU8gB.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S03 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4175.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S03 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/giVERJdvkT7UsJvtyg9aPpNBC4z.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S03 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4176.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S03 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/v4DJLF5o5XuM8cSZDEVZ0xbuivf.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S03 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4177.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S03 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/IQ8VUqDKBSXa0QnoZwtg1jumMs.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S03 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4178.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S03 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wFLTtyaQmZDpBkAHyUuIO4GANuT.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S03 E16
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4179.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S03 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2SVAIjpXvWhi8wmj1lMmRU8vc7b.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S03 E17
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4180.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S03 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5wpVNikh0Ltkb77agjrcEcpKk4W.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S03 E18
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4181.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S03 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qtyRxHT5CAL5sZouwxaRHImwF2w.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S03 E19
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4182.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S03 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uEPuzt9SnYkFwuWsclmTOuVdP5g.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S03 E20
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4183.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S03 E21" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5aeuhonFJAWNCb7kpkUTSocjDJ5.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S03 E21
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4184.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S03 E22" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7F9dEv8MEGjdlRVheISugF8PYwa.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S03 E22
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4185.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S03 E23" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sAf7e4OBahKQqmIi6jpBzXZChUG.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S03 E23
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4186.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S04 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7cWGpThRj5tyZ8EpmI7CjIFCjBe.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S04 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4187.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S04 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jGjfyarmdi1A3tXq4bpUTlfzdmM.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S04 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4188.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S04 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sMZFdwIa2VO0ublOfntaGQkP9I8.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S04 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4189.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S04 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tpA4OvrDfQAJw18mFzhdoHxvFz3.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S04 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4190.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S04 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dSBAlDRcr1CUpYj4dCavvoXyUKZ.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S04 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4191.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S04 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iidpcjPnrYaG6hG79YMcQltufpn.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S04 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4192.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S04 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/q6z06bzk5G6YurMPdZgzukEb1hS.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S04 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4193.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S04 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nBOp4A5xrRfzH5B2WC7asXLUjdP.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S04 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4194.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S04 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gftjHHCt9gMV5St4AS3Ap0tKef5.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S04 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4195.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S04 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fLwo1oPiWqDDA17yRyaKgWN6CTy.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S04 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4196.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S04 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/l5qDRto7fsJyIUAMkfsM0iVTK1E.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S04 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4197.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S04 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1nQXy2rb8fOlmqACSqHYT8Nq8OR.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S04 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4198.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S04 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/h5VzY5Yu1zml2zHTHXK5F05s39y.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S04 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4199.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S04 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kI3d4jtezzoqMg8JxHWBL4MHyOD.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S04 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4200.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S04 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yLNWd8pMGMGTU57qrK5bKM3i4L0.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S04 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4201.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S04 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/47bunC7ick3Apg90OL2RX76YJX4.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S04 E16
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4202.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S04 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4x4RoZcUMM75m6BDK4yx1oETJPG.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S04 E17
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4203.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S04 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gD8cBVgmpArHiLzF7zTSt8eGjzX.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S04 E18
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4204.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S04 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7IHKJ9KdcwzDrlUtXz60zOApGWm.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S04 E19
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4205.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S04 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yH06nDa6MkNIXXntYfCyijgGjr6.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S04 E20
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4206.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S04 E21" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dTnseqAP3EVo1LeX61n9gvNdCk8.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S04 E21
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4207.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S04 E22" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sobwRNE2GmcUnescV1fJI1D9O1H.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S04 E22
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4208.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S04 E23" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/opf3iVIb0weGjsYrNzda8EOLtCn.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S04 E23
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4209.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S05 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ikk5XR4TRqbuiDJRx1L8qjlNeL2.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S05 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4210.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S05 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dT6aMHhZgXQznrRNboMM0GgQT6G.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S05 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4211.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S05 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mHEHKA8HwiIad6IzWhMekcYr7Xb.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S05 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4212.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S05 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xbcY7yc3k3XNYbLNZpuZJXTopj6.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S05 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S05 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/w472LKnsyWHaoeSHF2vQw3UriFy.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S05 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S05 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kIB04YLdbpy5TwFL0eivaHXihyR.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S05 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S05 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qjaL2FQh9tJlkOlORcZhjtzVnaI.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S05 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S05 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/e2rOeAVW3xFrbsHlFGPtLoxlEXQ.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S05 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S05 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wn7952sl0mJDDArxIiXWza33qtW.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S05 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4218.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S05 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k4V0P8gdBdMdQWHQTfTN1b1PAZj.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S05 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4219.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S05 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eogTFPjCGpixobNUx4I7sW5JDBi.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S05 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4220.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S05 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rtjYQPoyfDnJnVsBkbmBBvJRbjM.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S05 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4221.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S05 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/39d9Me0OL62oSXIUxrjqf603loL.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S05 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4222.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S05 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zXqE9ejhmW68gaj2hH3VpKKC9vR.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S05 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4223.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S05 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7ztafSk7YMY0whErXRGe2X0U6vX.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S05 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4224.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S05 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kcaSyGsZ3KhxOqIiF1uIoWKAvNj.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S05 E16
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4225.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S05 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/p3ci6pzpwDPjQ3956oS9rBGFnT7.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S05 E17
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4226.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S05 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3DjmM9NCxmXXSzazcWFupkmfsBc.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S05 E18
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4227.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S05 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wLsMFgpvuxYsVFTXVnZ8pzKrAZD.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S05 E19
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4228.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S05 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ejhgwxZEktJI3jNcdyNkE8elTvP.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S05 E20
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4229.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S05 E21" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3bGFp8WPsYwN2bLJqovhpmpJ3uH.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S05 E21
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4230.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S05 E22" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2uoH4NVPoW4us0SSt9vjj6VrEUM.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S05 E22
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4231.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S06 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6P8LlhZnJ2HDx05KoWRFBzv49Ku.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S06 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4232.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S06 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/svvhJJkMCDhFDODXIVeGDpGIgVh.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S06 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4233.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S06 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hTyJha4xUk0sRokpFS97VH6PJd8.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S06 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4234.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S06 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fAFwJLoQigWurDHfznAY1zJt9kf.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S06 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4235.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S06 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/j1SLo9X26q6Yo7xqOl0VQBis9z.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S06 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4236.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S06 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5Tgpt6vggTjd3TeNLHv2fGXxfbk.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S06 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4237.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S06 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hcysmqCAGvyuJdSosrDi2JYqngT.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S06 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4238.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S06 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/urPh5HDpscJ21cTNZpJO5c2vgzb.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S06 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4239.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S06 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dnCfPUWIbwTKYxOuUY1VzPWtQZX.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S06 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4240.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S06 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gq79pyFmIvSgHLte3Jk9k7Mx3Ao.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S06 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4241.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S06 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2yI7bvSEqkIB4fmgvObCZeqhH6M.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S06 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4242.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S06 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xvvKm7oZJWeqG7pMXMQFzrvwlqB.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S06 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4243.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S06 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4A3ozaULdY2n96jYp7dpy2XpCzD.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S06 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4244.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S06 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lb4qFQPBcFIlwtA2IArYYh8zHf2.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S06 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4245.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S06 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fV776qmAcOPEyzetyUt2LGaI7HZ.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S06 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4246.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S06 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eFKh7Qg2Mey3hJ7ltHXiaSmvKDe.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S06 E16
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4247.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S06 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dvz5bd3SfJ7ZyMTuFf6gxpMaBBQ.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S06 E17
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4248.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S06 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xq6YJOXS59vviHbhha0tCKkM7WB.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S06 E18
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S06 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hcw00VLOtoCRXeVV3UJFKJUKsNZ.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S06 E19
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4250.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S06 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fPHv2LPLala1G1oHrDKQJVJwXO6.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S06 E20
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S06 E21" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ffrXl6VX7xMyxztJQwzgWZHS63i.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S06 E21
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4252.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S06 E22" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nVtkMPiEuNMQk2j1950dsqkn6oO.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S06 E22
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4253.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S06 E23" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2UReNFzew2kJITaE85eHarKA73s.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S06 E23
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4254.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S07 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lvM37L7vlppE0GNLBj4FuvorKh9.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S07 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4255.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S07 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gUh6CeIh1ad15EwfszOjjEfWp79.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S07 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4256.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S07 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vBixDFEFHVVWfCqQh7QO2wlYEBi.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S07 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4257.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S07 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/l7sQi8SxGSxiFhouXezb0qIvkLj.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S07 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4258.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S07 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8f7Rv2aslPsmwkMVkPez36TV7UU.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S07 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4259.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S07 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hhfdQqv8EH01MViHITCnl934bVu.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S07 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4260.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S07 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yU5LbWOdwlSrn9hazY5KFi9Yu0o.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S07 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4261.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S07 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vj9xAPws1XSfqlPPf47Yfk0k8lk.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S07 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4262.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S07 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kSUkhkwiYwZ4toJvL57THUjValQ.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S07 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4263.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S07 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aWQC2R8NLptDkTggWZ5GjFJtBLD.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S07 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S07 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kkQI7EWrbchwcQLdKkT6Vl6e6B3.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S07 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S07 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/puKgIqGnTKOp6t3aTVQirHz6Tth.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S07 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S07 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tPQA6mmDrhGkgGpIKlJuxInpt3H.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S07 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S07 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vPD7gNmDDL9BpTk1ueZOVvvwpWg.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S07 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S07 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3bLlkw8X7KzDZcHZWdYVeb3SwGS.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S07 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S07 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ir1dD8zVCAsEMKeuaDJJLvRPxwN.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S07 E16
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S07 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1h1m7cGN4Tza1CXv0uLE7PUHcgl.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S07 E17
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4271.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S07 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/thj6haClsjhoeXqU5q91ymbnGHN.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S07 E18
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S07 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zOY29GWtwl7H0ZZ0U9IKFqV4LH4.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S07 E19
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S07 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6rafJxeJiqK977gi0ZieCRxdVQt.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S07 E20
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4274.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S07 E21" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/z6lrmfndIUGt75dggDzfSuassE3.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S07 E21
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4275.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S08 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5ri6qQWM1JgFD5rfTMN4CsD7ULH.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S08 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4287.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S08 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8nf5lVP9HeXJCVWLSHMTJF1yXOn.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S08 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4288.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S08 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kA0PzKMcM8uEUauc7BddbLbQ2sZ.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S08 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4289.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S08 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kE5Lr3t8aurnH8zIdbFr0fR7CrI.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S08 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4290.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S08 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hnIH36NtsMNjmZ0c1e98sAu7agA.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S08 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4291.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S08 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6A149HaBIXqsWIyjcrOuIH8sxnA.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S08 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4292.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S08 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rILTT2q9R6P7aKdJO4wBJCAnc9H.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S08 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4293.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S08 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sfUYk2SV2sNyCYeyPuifh5rm6dd.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S08 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4294.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S08 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4SKuItkKIscVnspCovZUjKq41Ke.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S08 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4295.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S08 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mhEBPM5yobEgOWmyYQsK7QOGr6E.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S08 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4276.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S08 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/TSJLBF42UnBm9SHiJXLnt1yCba.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S08 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4277.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S08 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jLIF23hfpARtXoFWIVuGkh5v66R.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S08 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4278.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S08 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yAg8Eb75fyqvObbo1oFpYeyStTd.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S08 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4279.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S08 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uXZHG5DUcSpE9jWsgwF8y5QvS8s.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S08 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4280.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S08 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gf8SszES1uwu2P2AUPbBhx2x38p.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S08 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4281.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S08 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rHzWDlfYJZPLraz1WSXZo0JV8LL.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S08 E16
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4282.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S08 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/v0T5A9nVln5EQl6aWXhdEAhNSkv.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S08 E17
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4283.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S08 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2frNPwFlq8N99XdDvUdfsdUpTkg.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S08 E18
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4284.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S08 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ehixcQzYZbKmP1fGZV5rXzwasJO.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S08 E19
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4285.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S08 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wMsrnnSzWV7NrtqyHQLrijNBhYO.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S08 E20
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4286.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S09 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5xCdjOqWE0Kmtn3ioTVVRTJ4gIN.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S09 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/67664.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S09 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nTKTPaoEVEK8kukBxOqC06uV6aw.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S09 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/67665.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S09 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lleGSVnCbxv0AuQ0avmuDJzRUz.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S09 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/67666.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S09 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qZXSQ2ghoUiPqbL9kWfuHXfm6xu.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S09 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/67667.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S09 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qFxJL8PPEOwGIZliNjpXHi7vKXb.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S09 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/67668.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S09 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nelzOy1VwDN9e0QwMydI5GE3Edh.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S09 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/67669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S09 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1WhcbGDxJxihzgg48AqyCqe7SZx.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S09 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/67670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S09 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ej8PKjCM9UpQTEjoxNHmmGTMuTk.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S09 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/67671.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S09 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hKNx4jcponhKtfUDg5gg1o49aqx.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S09 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/67672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S09 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k1OWacVui2ohV0QQaq4NUNe1Su7.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S09 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/67673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S09 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hWqwvGrflUICkT8jwZRPqa3mfKG.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S09 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/67674.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S09 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/c7Ez4dGAWAFU4gT4sFidfQfaD6X.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S09 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/67675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S09 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wjn2MzEPt4JbUtCMDwKEh2Ha7vd.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S09 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/67676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S09 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3RFoQXNyw2cm7YdoGdOF9e2bGJe.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S09 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/67677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S09 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jfrHqEuh5gPj0fZdqvN54kzw1z.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S09 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/67678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S09 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pzzpQJoMnG8syscPM8nTk5UC3Pk.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S09 E16
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/67679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S10 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4zdAar3wf1uowp79GpLk20Yx9LL.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S10 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/67680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S10 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uX453pF9QulMcIl0aFxVftPeFvL.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S10 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/67681.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S10 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y8mstmVJQpsTokgqnLSSt6uBCPu.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S10 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/67682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S10 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bMbMtYa2qJmMNeGJldj8RjtUfIO.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S10 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/67683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S10 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3JUb2M4tw6TfkLjVsmfS9R9qyzo.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S10 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/67684.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S10 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ng5NBPZisJbliw41pvqsCVToYtk.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S10 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/67685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S10 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/85VjnaYPrL7NpOBSmAhz993S8CA.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S10 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/67686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S10 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vXengrIKE4SRhBRuRfqTO9JYcI2.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S10 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/79243.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S10 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mwi5obIoqrElOKXwE65d4ZvAETl.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S10 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/79244.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S10 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aNboag66oGZ52Kq4tfaSiV5liet.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S10 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/79245.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S10 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2lkBFMqfYIxHTpvJ5qCmipnltk2.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S10 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/79246.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S10 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/q1NBG9V5eaeBWaaqYkd8J6Palg2.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S10 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/79247.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S10 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yiUvrf5o85ZcmzfNCLxcVNsKAaQ.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S10 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/79248.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S10 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dackZV5mqSsbZqCb0d5a2ooJPmL.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S10 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/79249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S10 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zyifktSHCuV2zc8vqAp5ZTw6s00.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S10 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/79250.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S10 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9BM6rPvj3Hx78docWZnjhB8rMTh.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S10 E16
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/79251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S10 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3yTol35Awx5NoH2t6edOFiMRUos.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S10 E17
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/79252.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S10 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rMgYwvWADHzgWj9Tq9CTGNnQhpS.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S10 E18
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/79253.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S10 E19" tvg-logo="http://image.tmdb.org/t/p/w300/qRol0aH9BPPXZjQtT5LN0SAh9qM.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S10 E19
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/79262.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S10 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zPoQYYfY91hEpa4am9Y61NvLhUH.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S10 E20
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/80384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S10 E21" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wo7OUgUKxfWMYiZii29cEiV4Fpu.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S10 E21
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/80385.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S10 E22" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1mX2d7AI4Idp6GdmNFI2tZeOU4g.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S10 E22
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/80386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S11 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fDtHKKfcVU1KGsfK3mUGlUjIleT.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S11 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/85411.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S11 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uVVH5gSBwpYHYtyRowtdVmfj1Fo.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S11 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/85412.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S11 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/r5KpIps8nfETPk5vPzKJXi8doB9.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S11 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/85413.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S11 E04" tvg-logo="http://image.tmdb.org/t/p/w300/pWqSIKzf6gqaalUx4ad6nE3Puio.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S11 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86038.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S11 E05" tvg-logo="http://image.tmdb.org/t/p/w300/k0xYl5dey89xhws9Pc9trT9pMBx.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S11 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86039.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S11 E06" tvg-logo="http://image.tmdb.org/t/p/w300/kbvBybyuBcDC9hMDwUMoCo20Vfe.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S11 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S11 E07" tvg-logo="http://image.tmdb.org/t/p/w300/n7l4nHzsWhkHrFCfnMB4lJRPk3H.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S11 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S11 E08" tvg-logo="http://image.tmdb.org/t/p/w300/ltN0Ppt4GJ7oFIWgNGGuqgaLIkf.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S11 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86042.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S11 E09" tvg-logo="http://image.tmdb.org/t/p/w300/k7ZJqhOJ4uLOx5RJlJQck9rrwF0.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S11 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86541.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S11 E10" tvg-logo="http://image.tmdb.org/t/p/w300/j3FuibbwcXUvpUjoh58LikZtBY1.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S11 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86542.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S11 E11" tvg-logo="http://image.tmdb.org/t/p/w300/vqbLZ6EUi77GHj3ZRbJJFI682W.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S11 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86543.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S11 E12" tvg-logo="http://image.tmdb.org/t/p/w300/hErcJV62tQ2SowDEh8UEs3NQv75.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S11 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86544.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S11 E13" tvg-logo="http://image.tmdb.org/t/p/w300/y5tyLM19L8FtLWsXmvW6z0Uq7MF.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S11 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86545.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S11 E14" tvg-logo="http://image.tmdb.org/t/p/w300/xI5aAqxwdYb4RhntCDmvlZdSCQX.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S11 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86546.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S11 E15" tvg-logo="http://image.tmdb.org/t/p/w300/8HUCqtcVRCHQJeL0x4c6zCvRV7X.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S11 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86547.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S11 E16" tvg-logo="http://image.tmdb.org/t/p/w300/cvqqyPv96DdXF4WR62gKkTKvzdm.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S11 E16
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/87074.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S11 E17" tvg-logo="http://image.tmdb.org/t/p/w300/gaO4yxRSOs3FrdTdX4ABrAjIMTv.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S11 E17
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/87079.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire: Heróis Contra o Fogo S11 E18" tvg-logo="http://image.tmdb.org/t/p/w300/90TANAihR3nrqJ6rbmItLk3QnNV.jpg" group-title="GLOBOPLAY",Chicago Fire: Heróis Contra o Fogo S11 E18
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/87080.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bKZbr6Ku6Yo2N7eNxdXYPe7baSm.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S01 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9aDP7WssF8qVuTKD8h2sfLLydNn.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S01 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7t4IV9hfI9GZXlaJbI8GhAQx5Xn.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S01 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4427.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ltB8YKH4WQYoN3pY12qNQbpLweG.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S01 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yGOoaL6Vmhi5dRYt2NfyMs3kORZ.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S01 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4429.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/z7hrNwOgZQS3z7nwzviRGg7VTqP.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S01 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/psjqdssJF8eCX5uNFzwp1TcgzBF.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S01 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4431.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cysdKNSIFfWjTanBh2XqYk3iZz3.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S01 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4432.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S01 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lLjUcO8B42B6LYZpwAlDBhvtVY.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S01 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4433.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S01 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5r26DVWMKYHwWPpK25DKUXNT8KL.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S01 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4434.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S01 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uFmqsBqGQ9EKOCuDbDoNfQCdB12.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S01 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4435.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S01 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mZeb3pLs3XPpIk28Uuo1Qlwo2JZ.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S01 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4436.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S01 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ioHGEVfDlEZbrcHXZjKZKEqlMw5.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S01 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4437.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S01 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kvL4UIsPslVeNuVpzaw4e8S82ZW.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S01 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S01 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3maYiHrASDkPAnIhUf8Koa4Dqc0.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S01 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S02 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/moqEaKxH2MwuSuyMAR4ogL5SGIZ.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S02 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4440.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S02 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fAQGej6uPsr9LoZZXIPzGQo7380.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S02 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S02 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1pAx0a3gTP6Z6WB1szhoONVyWhr.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S02 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S02 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/saFXu0L3Hyfmqxu5u2f9bAWUzxE.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S02 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S02 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yjAeMFH9vCS4h6HSkcjP8oHTtwh.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S02 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S02 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8eYoFQKkPKbfGNQF123yZHWJlhF.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S02 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S02 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y1RBtKHYBhcF9v7BYrgnwHZA3na.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S02 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S02 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/A3CzocOeXLGzvYmvxQai63iK3OQ.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S02 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4447.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S02 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fo9DgYcMmBljYSKykLeCxSmxUO2.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S02 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S02 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6MXtIbtGVyzbzqdtb2auNoe3sme.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S02 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S02 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/25ZrhYyDxZ4u1wtO1VCvs9ZASA7.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S02 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S02 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7p9rdBas1p9udXcKdLAEdXgkIhL.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S02 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S02 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lp2CKSba9Jh5pT04bKd6Ghg6k0y.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S02 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S02 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tsdN4eQrJq9xVJyLaDYpzuEQcMI.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S02 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S02 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4Pnf8zFWaFpkjFHIR0LIBYqVnQ4.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S02 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4454.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S02 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1wFOmgVojMLQFXd9xaErzom7iLg.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S02 E16
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4455.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S02 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/g8mJCBAlyfhBsTeRnAENrWOhiQd.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S02 E17
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4456.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S02 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6gFn10O0SRvA6BTKffkv34mC5BD.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S02 E18
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4457.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S02 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iZDLuXcUPK7IGSxQE0R7TF2bdTF.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S02 E19
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4458.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S02 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5VoMA033IzhQYlLcsIMpdbTlL0u.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S02 E20
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4459.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S02 E21" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9HxxJaJy0RiLVWJf7Z50yFdRHEN.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S02 E21
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4460.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S02 E22" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rwRnzBzwlFvHtepqyhXtZetjRoj.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S02 E22
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4461.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S02 E23" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/c1nlTW8OiXmUUTcNvyH8vhV3uXN.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S02 E23
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4462.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S03 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/s1yhLTtf92k6q3jSsq2ky4ECU9y.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S03 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4463.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S03 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lF2JBQg0qzkU1dZzVMaNdplgkwC.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S03 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4464.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S03 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/udiTgJSqFZUBsI8ohvn65sV1IJx.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S03 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4465.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S03 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lC2Dyjy91d9KlwDBk39xueu1LCQ.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S03 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4466.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S03 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t6Y9Hn1drCsjcyir8NMkl8f4dcR.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S03 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4467.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S03 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zOomjrFjcEzTi0e6VyNXQ8MMx4P.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S03 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4468.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S03 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zlXentglnLCeH1W8g60YQuxAKfN.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S03 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4469.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S03 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/h8EE9iCeBvFMLJMJC6yvaRpTqQG.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S03 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4470.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S03 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/reFpwXrBtQLwMIKulVV6hamtE1o.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S03 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4471.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S03 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gfUixnZQsMqrUNDZmLmY4S3URL.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S03 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S03 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5qdbGHG6ZQIb3sWjITAvSxWFgCl.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S03 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4473.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S03 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wOYWinDBzAnKNTWwzHQuAfkwZU8.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S03 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4474.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S03 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/f2qBPEWVOWCslilg2M02B8lCfb9.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S03 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S03 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wdukWBjzcnPQGnzrEqYc2nrbMNp.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S03 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4476.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S03 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gs3zldGs3dkE9DbBvunjtFjLldO.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S03 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4477.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S03 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7pDfHBbNy61U4k5GCOPH6UQQPOn.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S03 E16
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4478.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S03 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2PBLc0i6hZy6Csd77X2YHACVig1.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S03 E17
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S03 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fts5tfKJ5zsvHbu4YRbN5fIhcnj.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S03 E18
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S03 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/c9ZKBDtNGBnos5NKhkpCDHpYR7h.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S03 E19
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S03 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lsPZOMxD3iwIqBO48dDo8kUb0xR.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S03 E20
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S03 E21" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hFjE5mWEO9PO6fglN0eVSMCJs25.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S03 E21
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S03 E22" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4bmKDu0MnPrUny0Wla3vN7GNF24.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S03 E22
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S03 E23" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bekfy4Rl25MM7Hh7cOLu63G1gt3.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S03 E23
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S04 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xbhrCPtpuahSkLeEazXHUOIqLUy.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S04 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S04 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1qF2BeBB3ZGIRC8LBfufGKP5xoL.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S04 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4487.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S04 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/u4Ck8Mjiqgj6U8CtNR1JtSHZX1M.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S04 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S04 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/68nytHPiHxDdno7pLvWjatcZGJB.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S04 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S04 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8Z7D9FyZFgiIKNQZ9HtLmwBojiA.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S04 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4490.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S04 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mTxIXbM9La0fo7Lh7T46rqvLl7E.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S04 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S04 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8EwW5Z1UeI9dt6ghI0zmfDOD7i6.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S04 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4492.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S04 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pc9JWRugRckkQnPbuwiCdMvXQkX.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S04 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4493.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S04 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8rjgNoEXQq6Rgsjkq9noiDozeQX.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S04 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4494.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S04 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ytysw9AzLuRX4Vpb4YUewRHXHBe.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S04 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S04 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7mrKxx14xWnILuRsibdrcZFVoSB.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S04 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S04 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/C08wOIVi2aEkPvriNVw1JZiiWp.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S04 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S04 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sO6rYtP7R1WU4dy5ZD5AwqpxNxl.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S04 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4498.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S04 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vSCCVD4xnnqfkOFvWDGfNcobMlG.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S04 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S04 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/q9A5NngDLalnBClupImdW9tntUr.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S04 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4500.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S04 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wd8NbYDM7gai5P6j4pm28LRdaB3.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S04 E16
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4501.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S04 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bAWEfM99eK2zSWp5Wwxq44v8ZJ5.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S04 E17
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4502.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S04 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lNUF8WAsdzGS42evW3lscyiQGoM.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S04 E18
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4503.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S04 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lZL1Wn9VoNCLwU2y2GEyLR878Q5.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S04 E19
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4504.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S04 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4t1eFhSw4AstJvwyNmgG6IEW8YS.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S04 E20
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4505.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S04 E21" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dorJEauu8CcV7yJHCySMAXtsnUV.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S04 E21
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4506.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S04 E22" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/949doAt33j4vz77WC7uH5x05W4r.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S04 E22
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4507.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S04 E23" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8ikdosIfmKmkkbb90HfZjfMA7LY.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S04 E23
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4508.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S05 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pAOsD64PIkLa82WmmFmY9NWuXgN.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S05 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4509.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S05 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yLbaWlleqPO8sYHtVESQKSi9KOt.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S05 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4510.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S05 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dCIDimLbkGuhnmgdZ7k8fVSE9oM.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S05 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4511.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S05 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/VSYt0Ol1J9rnrlzdn9LGkf091e.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S05 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4512.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S05 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jbNGRisMn5pxJ6WpujBOaPgpWnH.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S05 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4513.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S05 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kMPLIAsWWmavppN1h0qN7MPODxY.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S05 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4514.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S05 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ehFCUhTAXNWoK89x82cey762K7O.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S05 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4515.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S05 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8FwOmdKsgWN6W7C1MViggr7mXae.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S05 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4516.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S05 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/A2nAtoDritp0B9RbTwiuq0DTLvf.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S05 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4517.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S05 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/85Dy1awLCEIm0IyDZpx2dkb8yIF.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S05 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4518.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S05 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/c5E6ad8jWv2DllhtNzNm6VFRpak.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S05 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4519.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S05 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/viGpFCDfQuLQmvbZFc8udItAxmK.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S05 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4520.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S05 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ywAgWJMjRQ5KKVvoj8K9XJd2vT2.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S05 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4521.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S05 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aXyb8BEvBdLL4GLl7Mgv1378Nu9.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S05 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4522.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S05 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hID4hkRRzlzwFUBwifp628eA4VG.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S05 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4523.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S05 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kMff4fm805Ep2jsxY9l6dCxbfjO.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S05 E16
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4524.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S05 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iKmaFhe1VybRrDGRUYMiKtdDnEj.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S05 E17
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4525.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S05 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/71cH8okq3ZZoE7y0t28u7PdU4Ik.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S05 E18
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4526.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S05 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jaldJsPm8LhQDJ8QUAw5OZpBhiY.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S05 E19
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4527.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S05 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tTEzp5NTy2j6cctqnw8RCIcVxyy.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S05 E20
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4528.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S05 E21" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vGJaSExUVU4FKfjYtPSqcF6K6ea.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S05 E21
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4529.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S05 E22" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dKmQqj3rTx8VCQgHg7i3Fydku7p.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S05 E22
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4530.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S06 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yhlCdEyOORvWwalKK6lczzJk5Cn.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S06 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4531.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S06 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fHTGIY3gjuQGuMmtiad8Dan9yRk.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S06 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4532.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S06 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7ac5Q8p3ZT2LLRjiukCiqSocUah.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S06 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4533.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S06 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8iwJMJp6godlfN6y8mZmXYeKi9W.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S06 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4534.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S06 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/A6Fj4lt105FTmkwKmCVhmVJUTn8.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S06 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4535.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S06 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gLiJEHV6PyWxdXqP7TsCBsLfSp1.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S06 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4536.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S06 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mJl9AyeNvxqvEfYic3iDpX8Z0ec.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S06 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4537.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S06 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gTNvsm1uZeME05d0aBRv8MXGJN6.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S06 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4538.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S06 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9BiP43GVDbbgmq9laZBr6EriN0S.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S06 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4539.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S06 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y17ir3v9q3vvgToVrilehzU5XPN.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S06 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4540.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S06 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/o07fpjI41i14lF9dUtn2qJDuR5b.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S06 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4541.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S06 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zA7vvGhwWuR3fTlLhqTQB1xJXop.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S06 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4542.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S06 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3h4v9ovuk9hKP3HIbEaSwKiEhJh.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S06 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4543.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S06 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sQm0ArKziDzPuyOsZn5FAjz5dhA.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S06 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4544.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S06 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jcxbLR2tLTben5hFzbqJBGkwSL7.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S06 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4545.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S06 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cfEL2eVjT8IqVbi1A9ZsBtnlA28.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S06 E16
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4546.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S06 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dBU27W3yACPvJcHlRx2gVzz1oUY.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S06 E17
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4547.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S06 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lqI0dTGgtYz3U2aKltZovxe5WlN.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S06 E18
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4548.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S06 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tMC3mcE9KRj3uSWRfPeyfyeJ7a3.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S06 E19
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4549.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S06 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eqO4ff0JekVkfIY6UV8tOZhLmPa.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S06 E20
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4550.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S06 E21" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jfdp4VbCOtCFW6YBe4VmapBiPLK.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S06 E21
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4551.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S07 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/flbRPD09SjrsJSMeF1HShQCmJTz.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S07 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4567.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S07 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ulaqINENEUbnn7fAG7FheEmUsLq.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S07 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S07 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kiIvzFRVHiPJPeQ7y9zbYeQbUum.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S07 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4569.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S07 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jod2jXeWjVV7KHmyhlVfuj3pg8f.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S07 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4570.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S07 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tKGoqyaMpjsyNIVahObKJsL8cQq.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S07 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4571.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S07 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AvTyVQ6c8mbr0V3SP7FYwcnaSRw.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S07 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4552.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S07 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6v9qi2pC8BFCfN7aK3tM9s2eh5C.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S07 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4553.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S07 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b4fO65R8K5Uujx9tgPrLnuvOb0n.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S07 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4554.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S07 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/o3u0CJNKhQXr8fbl4vdmaBnRkTD.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S07 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4555.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S07 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pLUm1Gw9Qf0U6XAxLe4L2jexHYm.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S07 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4556.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S07 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qXvqYdhH4VL6eYGnWt1H8qo9NaY.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S07 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4557.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S07 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1aCKJNrZCnY1JyXkEx4u8CMyw0E.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S07 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4558.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S07 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/w0liCAjuYla5F6sSkXTF0e5NgS8.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S07 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4559.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S07 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2OAkVCgkpQifQCaKVYiaqShRevE.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S07 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4560.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S07 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/Afu9MI635E2L3OlYvLQMvSKR3Zd.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S07 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4561.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S07 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qVuRvOTQ3w7GTCiAR2dJSXUekPR.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S07 E16
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4562.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S07 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vdmJojuo8G3Hagvmzx6KJ9FVal0.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S07 E17
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4563.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S07 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nYvoBreLqqoNWOUpGUa9Tomcfsn.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S07 E18
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4564.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S07 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oVkiF33tXzCeBk6TtSaHR30OvsS.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S07 E19
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4565.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S07 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gTbGVL4Pzg8qoMpFFuVosJqpE2X.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S07 E20
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4566.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S08 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vwmQgiv9BkOeI7DBfhrb3eU2Z1I.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S08 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4572.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S08 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nxqTcqMaauVc1GDne5y4pAAEzyG.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S08 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4573.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S08 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ab89gWgwiizV21zaNEeSs6YtP25.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S08 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4574.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S08 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xvEJoWlSYyAOXpE0MyEPeMpivyV.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S08 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4575.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S08 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6Gj8A7RSmIXPLbf39yQy5u9zW32.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S08 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4576.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S08 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/r0qhjuSb2cTP38lgtH04Gr8xKPc.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S08 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4577.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S08 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/g7Y4IR1Gnla68u9A978OSK9UG3S.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S08 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4578.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S08 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2GbsnGCkIX6HBSlwJuKTBDq8eXM.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S08 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4579.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S08 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tDe6ZEEJyTVxuHSeB2rJvJy8OZK.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S08 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4580.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S08 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hpDyiOhYrAiY8Eks2zlpxXGtSll.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S08 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4581.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S08 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fpML5YfSTQ3jyJI2X9cXEMEKvEr.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S08 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4582.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S08 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/g57LzoKCcMqI5ivUNN98c63MfKd.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S08 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4583.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S08 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/Erh38K2upvqpLGBuwhaoAjurTU.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S08 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4584.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S08 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rucicja27D9DlcpWk1qTbDDFRjm.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S08 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4585.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S08 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aIk6kG99OMkbNVY3f6iT2UgeI7Z.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S08 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4586.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S08 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2YF6igKJn1YGQodev0jfOwfPmxv.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S08 E16
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4587.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S09 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cVP3sCKOZ8FuSC2LLAveQu2zNLw.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S09 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/67694.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S09 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eVvLxEqcmvOGCLEde5eH0uXTymw.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S09 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/67695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S09 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zcs4M6WwNcDUiyXXQPfzJs3yolC.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S09 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/67696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S09 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/q8tpzL5ByihiG5TfFkoCva8oeTo.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S09 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/67697.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S09 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zxus5LV6slyqlnIssBQagh2MFmY.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S09 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/67698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S09 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ymqVSpS4mowd9rxvCsEzxh8HtNu.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S09 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/67699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S09 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/udI1hoxzCTkrmXxqE2kJMU58ifS.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S09 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/67700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S09 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2PVugQ3ibDVydVH25pgWxYKmotg.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S09 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/79273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S09 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nKRjiafOsLXZ8qCauA3Yqc00195.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S09 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/79263.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S09 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8uA8Xf8UnQyVnyt771ggDkQr1zq.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S09 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/79264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S09 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7R7sJbD9qe8qyzy4HIfbuDVVD6a.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S09 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/79265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S09 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hHx6tNE7ptWKsQMqBvPgfW5rrPT.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S09 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/79266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S09 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nr2goYy8z2NufsW08VBQgS0onZm.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S09 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/79267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S09 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5tbD9VUOoqfnFkl5t1XoEvGNyVN.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S09 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/79268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S09 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5TwWzmY3jSMYnNhJgeNgNrDPwAD.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S09 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/79269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S09 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xrNv8NehdgapXwB8Qwy8jsAUKIq.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S09 E16
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/79270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S09 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/f9aYnAK7T3zr7baFibEgiQpL7FU.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S09 E17
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/79271.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S09 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qyGTX5ep3ltijzALmlV17bKTBjF.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S09 E18
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/79272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S09 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1wqQ5fpbPSllQQCbZTyCTGTpU9d.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S09 E19
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/79274.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S09 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4VE9VkynErbMWKLiyUMpmODg7sE.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S09 E20
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/80398.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S09 E21" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eLp8vfSOpjdl9r41jalDGFulZDx.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S09 E21
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/80399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S09 E22" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qy1EcAmphbLxb2FsHfuoFC5tYAW.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S09 E22
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/80400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S10 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dl4AHeGZ3M8DnlAoDgMffUHA4yU.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S10 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/85414.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S10 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/w52QQfcKcFEoWVGPKhYVfP6OMN2.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S10 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/85415.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S10 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vIHIrjKFJynJNidD7rMIqJEBzza.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S10 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/85416.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S10 E04" tvg-logo="http://image.tmdb.org/t/p/w300/vtjVxilOOzBeJ4SvikAAR3CwfHY.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S10 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86044.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S10 E05" tvg-logo="http://image.tmdb.org/t/p/w300/i2xxDUhHpN3NxRpMabaUyqDwmJo.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S10 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86045.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S10 E06" tvg-logo="http://image.tmdb.org/t/p/w300/98YxzBAYPxTfzfjVy1jKZ4NX8uW.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S10 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86046.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S10 E07" tvg-logo="http://image.tmdb.org/t/p/w300/iTN1DfIGwUl5hxHBseCypg1wxSK.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S10 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86047.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S10 E08" tvg-logo="http://image.tmdb.org/t/p/w300/gNWUBa26AGXfze683ZrHALryFgt.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S10 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86048.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S10 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aVc32q0RprjRDe3giFEFiA6RbmD.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S10 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S10 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hVOyNeAjcMTjxvNkN6ZzNSCb5Ar.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S10 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86133.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S10 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zccKSOivzoHHGivNouDROdfQxKj.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S10 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S10 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cUFZ5Fw0utC7E0pJ2t0IpJBFQlg.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S10 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S10 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/QjfRko1qNYK9RLMQv7hgYhIefE.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S10 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S10 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hjoKp8gCH89bURv8UZBGiYF5weN.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S10 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S10 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qM3rKdHeWjie4Q2TqJtWOE3tmf6.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S10 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S10 E16" tvg-logo="http://image.tmdb.org/t/p/w300/sgNGp1GjSKDsXfe5Zx9CiyuK9WS.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S10 E16
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86548.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S10 E17" tvg-logo="http://image.tmdb.org/t/p/w300/2W4LxHnkdmb9grVCDWbg1wA0QG7.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S10 E17
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/87084.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D.: Distrito 21 S10 E18" tvg-logo="http://image.tmdb.org/t/p/w300/oMNZhjveYVoNLVXDyrrg6Wtp2Z6.jpg" group-title="GLOBOPLAY",Chicago P.D.: Distrito 21 S10 E18
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/87085.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zgO40DcRVc3sh9vg9CpRoaICn0a.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S01 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4309.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sTsALfOcSgzuev7DBDYxfqgHIys.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S01 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fepPfWcmxxhUG6YAocvF46z5F4Z.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S01 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/m0f2e3PUDSzxWsurEvgJ4zgEOD1.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S01 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4312.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tXPSludLRIDMdjnyeYYccUuapZH.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S01 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4313.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/edmspadQG2JuXfFhybJYHvmRmPp.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S01 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4314.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2U9BpVEHmc0eflW1AbzP7WzoeJ2.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S01 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4315.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vTIVLRhdPasn9ScpF9VsGIbT8WV.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S01 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4316.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S01 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8d7prpxtd8GfbbwJ75SNef9yERa.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S01 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4317.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S01 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mCUfJNIh4zfFZheVR1NAdflxjtL.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S01 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4318.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S01 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zY3fqztdhXg5wOR9jSGQgoiVAvw.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S01 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4319.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S01 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gi0e3nVID3AHMflcgTnZDw4nYDi.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S01 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4320.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S01 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yP2owYh6HhlXPElgLOO9nFnjmoJ.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S01 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4321.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S01 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kkXtDKwRWDOI5rIPsT8KcamZoRs.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S01 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4322.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S01 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wkrMMFic0esHP8W6IQbRIclsYlN.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S01 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4323.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S01 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k003JZvSIk9r0iyYozSXmbWlA1d.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S01 E16
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4324.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S01 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ew3dDVsOPhuYdBXuHLmLCP3o64f.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S01 E17
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4325.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S01 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zRLUINlG4xSJVXD4SkNaQ0JuaZ0.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S01 E18
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4326.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S02 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8ibEZlJlpMUv3FneGcRzsdVBwD.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S02 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4327.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S02 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9W4zvmTLqDXGsOeLSXsKtlcKoRH.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S02 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4328.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S02 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1kJt6R7FZFjWsZeO3tclOR3gZW.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S02 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4329.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S02 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jAUFGofrlz5tEiTzToEzch6y24H.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S02 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4330.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S02 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ufpmvF4mfhMvoJPZBsMsHCPqctR.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S02 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4331.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S02 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aB7iFtqJptH2NHJqdETIetEIIzc.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S02 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S02 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/daHzYyvoYj9m7m0wkd7q6OLulB0.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S02 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4333.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S02 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wceQwzHAdYpin0NRJmekUobFkHg.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S02 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4334.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S02 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lOet2Sufni16mzROEM05srgTp2w.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S02 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4335.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S02 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tKlksOJ3qBmvQI0qJ5oVT3CGoJR.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S02 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4336.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S02 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vB4qh4PQApI2dzFqRRV4uTKAraR.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S02 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4337.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S02 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t4Q3HM3Nh9mo1h1HJLhWaDaaRBi.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S02 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4338.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S02 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ccVoPhf9XBpSQXUpR0dD0fh5HYk.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S02 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4339.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S02 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4OZnOBTSLWfhmS2xHYYU2ZZoeVu.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S02 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S02 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pDMoUwnoJHkKjjLV9gTj04kVUNh.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S02 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S02 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kdPgZuANTcXhZtpEfYhLJwyDMkF.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S02 E16
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S02 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3qZszmIvpcfmWSDxTU4GNrn3IEv.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S02 E17
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4343.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S02 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iMRvarA0H5kj7eBzQsjuvrfdAJ4.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S02 E18
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4344.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S02 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eUCGd5R8nRztPoCGD6sDbHhNZXC.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S02 E19
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S02 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ntGPuwmYOwqhIHeJ73cs8TJp7F4.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S02 E20
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4346.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S02 E21" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fj3U3MnXj3wP7wYhrDJki6ABIv.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S02 E21
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4347.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S02 E22" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wDJv2XKJF9oMcmnExtTOq3CQ4d0.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S02 E22
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4348.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S03 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1o81cTezj9TsVuWjC0uyjLSID9g.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S03 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4349.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S03 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lnGtRI349MacnWiSswAuUiepg10.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S03 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4350.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S03 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gnfw8lO2gXBpRHpcAtkejxN9Yl8.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S03 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4351.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S03 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xBMVuM5LaxJkGdILTvWLZQTd312.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S03 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4352.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S03 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/peBTyOOsTWS3loNZH4ngW0m8DCI.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S03 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4353.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S03 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3xCHQzE0h1cu9Es9ZNsNlaqRPHo.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S03 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4354.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S03 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uDBENGEhFMuNtMMc05J2Ft9F35R.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S03 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4355.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S03 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rkB3EMKwZRdSlVEyBa524hOq6fL.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S03 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4356.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S03 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pJDHpurNl0iGWZY4hBEsa12c7cz.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S03 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4357.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S03 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6klGQ9psCgXfRHb3UXiM56AsUtY.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S03 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4358.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S03 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tQ6YO3Fhes3fIPjtDJpTvxh14qt.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S03 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4359.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S03 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3G1hBSFtcTwlV1PgFpmSZdiCj9N.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S03 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4360.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S03 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gzkgOS32yt7voqfWcFU0LZZpLEU.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S03 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4361.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S03 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hHSU6kgeymjmrFPJCCFWqjXL7L2.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S03 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4362.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S03 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/p4qNF4OQPDixiooWaBtrr7c6lbz.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S03 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4363.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S03 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lnFfg85pUiHNvxToTHBjr7fVtvG.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S03 E16
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4364.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S03 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jy9d0Oh9aWdvdoGKtMpv4O0UTe9.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S03 E17
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4365.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S03 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/avwMFoZppfV0VBYz8VZamwgasFK.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S03 E18
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4366.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S03 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/A9qSgANGDFdGLmyZJNj5AsFyb7M.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S03 E19
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4367.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S03 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xpz8Dj7EOjh4fVTteFpVOdfbAL2.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S03 E20
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S04 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uwS5zxtikpVRHAgPhFjKecx3ErD.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S04 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4369.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S04 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wEHD8qgeDb5cz3sI86tWziMl5Lt.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S04 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4370.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S04 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mKSXZLCRYm6SjAUqao0cVwgAfL0.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S04 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4371.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S04 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/v4u9paIUV9GVbxLZGx9a0MTDsfc.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S04 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4372.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S04 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kqr3UTrrR2KVwgTPafNxMgy3owb.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S04 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4373.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S04 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6LwqoefPHCP1c5eAT9cKeR1AeD1.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S04 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4374.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S04 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9MC4FJplPNjw3hf5vrQyi4a3kXz.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S04 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4375.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S04 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/srN51RpnDJWQO517eqMn2wccyrr.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S04 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4376.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S04 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ryyLzd7sK1IkUB5G6jkL2IWIR1T.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S04 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4377.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S04 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fls9zoGwnzgLTW19jIMFnmeu2Kd.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S04 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4378.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S04 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fzdzlQawcoZJdEyAeKNpO7EkcAe.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S04 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4379.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S04 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yXff7CSCEC9mnecbEpfOjr0Kphl.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S04 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4380.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S04 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7fbn6mdZ30gzXusXOLmd2RNLW6X.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S04 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4381.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S04 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rkAoMbXO15LWg3hPCiHItnjfsV8.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S04 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S04 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ae159QlfXuV3ax6aYcDoYUnfJVa.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S04 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4383.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S04 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7oOJRIUFXzI5fu0QniUPfCzIhfe.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S04 E16
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S04 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/c7b7NBF6bOcgtMYf3FsU1K0yPRc.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S04 E17
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4385.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S04 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/otIOkfxJm7bI0aMiayTRRazpfNz.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S04 E18
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S04 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tjknQ8yFluiLQw0e4hYgnD8t705.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S04 E19
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S04 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jhXcqfEzk13UOwp8xiWxXVEGkN2.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S04 E20
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S05 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/11c8wdYzrt7X7OIIGrJP69pKzem.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S05 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S05 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/q9A0XEiKBfcFnj10BpiASmh6DB8.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S05 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S05 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fRt5Vpo3Dii5tb4BYe2fO04pxsN.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S05 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S05 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bAdCjy62tm4wFYuIXr5rypt6byS.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S05 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S05 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wtWhhXjpKYo4L4vPAYIDmOKlE5P.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S05 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S05 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6UMQ4njei4bDWJF9FcHJVJmZOHm.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S05 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4404.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S05 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/c9A9MLNXmheX2jhnGVE3rGxRU0o.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S05 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4405.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S05 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2TXwwRFRbcwWI4jf9ByNqwyjWUK.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S05 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S05 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9b2a5OPe57CN7drtdBa6xSd6YiD.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S05 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4407.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S05 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oweJmVAuBUil1RfwSMfggVAbFZN.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S05 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S05 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hyegwBoDp0X69pck6Ip8i9kRRRj.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S05 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4389.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S05 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3Vl8UtQ8nutdmH1qYIz31l1wBvL.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S05 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4390.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S05 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uXIHQRLQ6Gr9T7CIdrjWcXuTyhP.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S05 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S05 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gRUFzN18u8L754WKBLsZobMfXQX.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S05 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S05 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oAY7X771aknAs7JhB66J6Ufypjg.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S05 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S05 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/njWuGZysOeKgV1UuK5kxEyoClVE.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S05 E16
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S05 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eYDJkpsh70k3OnkThP6xZiV3LKj.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S05 E17
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S05 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/anemITZwK4CldRyBeqjl4Ya9Bax.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S05 E18
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S05 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/suK3cRpTFalj6a8IVG15O29f8Hh.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S05 E19
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S05 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pRaqsGYKcRMq1qXXFLImaKjtm7T.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S05 E20
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4398.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S06 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6OuTtFD1JCrTMZ2vguKMJfh7B9G.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S06 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4409.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S06 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5GDbgCFC1S5wuAQG8dkXmE9vVXo.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S06 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4410.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S06 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wYdGhVEtV0y5MsH5mlWxsqLL89R.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S06 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4411.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S06 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cXWZhVATJTxmKohddzCNjhJuJuh.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S06 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4412.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S06 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/j2HKck049pQzQFgzwejPF2IJxaQ.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S06 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4413.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S06 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dsm8sZZ4lfWcPYTcNdCPQtM9TIR.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S06 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4414.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S06 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/e05oEmYBWqqyrovmBRXbkVfBaGQ.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S06 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4415.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S06 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8hZku0KfOzfdOfui9BQQNGZeHXV.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S06 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4416.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S06 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hRuccRBZbnS0TGUJixCpkRDqF89.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S06 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4417.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S06 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/581kXVntHrvwQkq9MIh2metcoNi.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S06 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4418.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S06 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/id07iuCLXitXoiyof83HvyN11AV.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S06 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4419.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S06 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uvodyu9EBmCLX5J4OfirxLVx2gk.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S06 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4420.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S06 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uvwoaXJ62LcRPHroEdZtJBxPNhq.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S06 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4421.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S06 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nvap5A3TOlnF5ES3hjNQmJSVtmx.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S06 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4422.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S06 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rjerW6FhaHPnG7LWaiS8XvRTo30.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S06 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S06 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eAyoRg6XmunM3IyK49pZSszTOjb.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S06 E16
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S07 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fpbYI1kISQKupgcgBtFuk9PEbck.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S07 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/67687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S07 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7qWJniiTY1sdjH6Dv2CsUx6Ylz8.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S07 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/67688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S07 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1icWbgQbGVPaFGzWQnezUDfdtUS.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S07 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/67689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S07 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8y42QwelJnJh7n9d9WmMd437dEo.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S07 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/67690.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S07 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6fbDby6wxraJQIibpXVbPT2vla2.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S07 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/67691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S07 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/i5X61ESJKc3ygx37UKmEwNgyMEt.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S07 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/67692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S07 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wvBnEHlZRyyp8JhXwhuBzwr5sRR.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S07 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/67693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S07 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lOHRUM3G1XiT9YXRN2mE6n0cyHF.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S07 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/77395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S07 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9JKzNU2z9QtRYPbCygA9DoZznfN.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S07 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/77396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S07 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AagoN1gnwpdMIUROXBrgjVhllXZ.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S07 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/77397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S07 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ipLKm0UB9MUTVW8n7qSFEeVsgnH.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S07 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/77398.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S07 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y8KxPzVFW6U3jhifexzllGe0e7g.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S07 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/77399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S07 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/v2XQnxg1mE1oSJOPz1eyAUoOyCb.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S07 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/80387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S07 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jLyYixny61zkQoScsX0XAjJwChD.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S07 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/80388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S07 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2LQGAXsMQ8i1zciTzaSeCf5VeLJ.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S07 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/80389.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S07 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ynRNlCgZajDOFxamwf1zOfAUWZg.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S07 E16
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/80390.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S07 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1M1zdI2Afp22sa9T0DZwJpvL63B.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S07 E17
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/80391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S07 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7ZdQXui8rTLWOdwvisKxXWmoyMb.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S07 E18
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/80392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S07 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jmVafuM3F8sbPt3s04oGlXh1XqB.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S07 E19
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/80393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S07 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/slmrLiyObtmEwiYkbpMrUmz6kJc.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S07 E20
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/80394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S07 E21" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/82rUY8UiuhHaVucYxMDxo0iuYhA.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S07 E21
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/80395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S07 E22" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/a8yKaOAWqCbiaAIXr5wiQh9TRy6.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S07 E22
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/80396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S08 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hwZVDbsTX4LPq05uFmqzZtQOac.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S08 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/85417.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S08 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tW2NEKXWfbY9SRoz8NdYn8ba2VM.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S08 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/85418.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S08 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zKfzAkeoss8D8CQcduAWq9DrKkS.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S08 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/85419.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S08 E04" tvg-logo="http://image.tmdb.org/t/p/w300/1ksD03IQqlHJc7Y59v8OTvU71eh.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S08 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86025.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S08 E05" tvg-logo="http://image.tmdb.org/t/p/w300/1ffl8vjWhq61blIgiDULlxDjnyP.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S08 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S08 E06" tvg-logo="http://image.tmdb.org/t/p/w300/5Q9EF22yEsrWlZ4vtvuJTnIL4gG.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S08 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86027.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S08 E07" tvg-logo="http://image.tmdb.org/t/p/w300/t00wIBnuNF0SZQb3EzSjdTQ0Z78.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S08 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86028.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S08 E08" tvg-logo="http://image.tmdb.org/t/p/w300/zWy2fCODyxbSNtY8e0am5KRd31f.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S08 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86029.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S08 E09" tvg-logo="http://image.tmdb.org/t/p/w300/1fFzezYjGrfVNAHpmwwJ20tjijV.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S08 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86549.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S08 E10" tvg-logo="http://image.tmdb.org/t/p/w300/riepwGTN0pthBmsIbJRqjGrmVSF.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S08 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86550.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S08 E11" tvg-logo="http://image.tmdb.org/t/p/w300/bYJmVrD06ZpF3mpzmwk7OHZUO4G.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S08 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86551.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S08 E12" tvg-logo="http://image.tmdb.org/t/p/w300/ie6WYMU1CaHaAvtUPTXjfFm1hHt.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S08 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86552.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S08 E13" tvg-logo="http://image.tmdb.org/t/p/w300/ppFsqkFrb6gZyVr5DTPYpUF3cU0.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S08 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86553.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S08 E14" tvg-logo="http://image.tmdb.org/t/p/w300/inkGktPKmBsiO3hbxgQnCyF0J3Y.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S08 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86554.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S08 E15" tvg-logo="http://image.tmdb.org/t/p/w300/eizp6THwR1zI5H8DGhJV8acpXro.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S08 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/86555.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S08 E16" tvg-logo="http://image.tmdb.org/t/p/w300/9Pg4XPcJX8YMc4rAndDRNJy1Os3.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S08 E16
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/87081.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S08 E17" tvg-logo="http://image.tmdb.org/t/p/w300/cIuQ5wsKzxzj3EulSxxAslITXvF.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S08 E17
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/87082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med - Atendimento de Emergência S08 E18" tvg-logo="http://image.tmdb.org/t/p/w300/dQ6SLJspr4sGqKdYxCO55AQCXhY.jpg" group-title="GLOBOPLAY",Chicago Med - Atendimento de Emergência S08 E18
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/87083.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Justice: A Serviço da Lei S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8vEKZDW7uGl0VvdtaxT0UfGie2g.jpg" group-title="GLOBOPLAY",Chicago Justice: A Serviço da Lei S01 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4296.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Justice: A Serviço da Lei S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ak2aokFOPJpM7UBSYVX6mi660eQ.jpg" group-title="GLOBOPLAY",Chicago Justice: A Serviço da Lei S01 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4297.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Justice: A Serviço da Lei S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kb88MNDHFOSC6IGdpNho33L1tA0.jpg" group-title="GLOBOPLAY",Chicago Justice: A Serviço da Lei S01 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4298.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Justice: A Serviço da Lei S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3KMzmoBrb9F3TqqkHIWJNK4yvIu.jpg" group-title="GLOBOPLAY",Chicago Justice: A Serviço da Lei S01 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4299.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Justice: A Serviço da Lei S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/x1a0UKwRez1fKx1CJ33znyGl5Ik.jpg" group-title="GLOBOPLAY",Chicago Justice: A Serviço da Lei S01 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4300.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Justice: A Serviço da Lei S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rqyd82BAyGioK357PKYaHWnS62E.jpg" group-title="GLOBOPLAY",Chicago Justice: A Serviço da Lei S01 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4301.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Justice: A Serviço da Lei S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vbRvVi7odHzfl3F9w1ROiRxFmBr.jpg" group-title="GLOBOPLAY",Chicago Justice: A Serviço da Lei S01 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4302.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Justice: A Serviço da Lei S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yJV3UCsYPlqheEk0mY3cpAsCPwP.jpg" group-title="GLOBOPLAY",Chicago Justice: A Serviço da Lei S01 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Justice: A Serviço da Lei S01 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tuIClH66ZHvyiFKukIySYXc3RH1.jpg" group-title="GLOBOPLAY",Chicago Justice: A Serviço da Lei S01 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Justice: A Serviço da Lei S01 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jKc8uriHg8f8iyHnbGQM2GH7Etg.jpg" group-title="GLOBOPLAY",Chicago Justice: A Serviço da Lei S01 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4305.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Justice: A Serviço da Lei S01 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qNREa5tJT6OONzAGyy54JHcUQCN.jpg" group-title="GLOBOPLAY",Chicago Justice: A Serviço da Lei S01 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Justice: A Serviço da Lei S01 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iVjHlZKKRoFuaST7VAe2GfVA5nP.jpg" group-title="GLOBOPLAY",Chicago Justice: A Serviço da Lei S01 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4307.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Justice: A Serviço da Lei S01 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/izkGrmIjnuvMYJdh0W5JhsT4o0w.jpg" group-title="GLOBOPLAY",Chicago Justice: A Serviço da Lei S01 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4308.mp4
+
+#EXTM3U url-tvg=" http://grade-de-HBO MAX.xml "
+ ############## HBO MAX ################ # 
+#EXTINF:-1 tvg-id=" iddocanaldeHBO MAX" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Carnivale S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ynya8vAhZORhBOwQB5bzZ6r4Orf.jpg" group-title="HBO MAX",Carnivale S01 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3951.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnivale S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/m4UZ2M2eqFhM9lWNb78lPyewaSi.jpg" group-title="HBO MAX",Carnivale S01 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnivale S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dj8b58lKPCB4cQQWwt93lNui7Rv.jpg" group-title="HBO MAX",Carnivale S01 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3953.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnivale S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k1jU13qEnMeF342zWEEV7v9H6tu.jpg" group-title="HBO MAX",Carnivale S01 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3954.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnivale S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rCA9iNvOEeSyv9pSwq5NZJwudud.jpg" group-title="HBO MAX",Carnivale S01 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3955.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnivale S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4L9SpcC8dOin6SGudR5oDktR623.jpg" group-title="HBO MAX",Carnivale S01 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnivale S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/g84DRxSBRRdmoqOgmmdwUc8PXmW.jpg" group-title="HBO MAX",Carnivale S01 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnivale S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6A8F2G0WHDOa01il6ClYG32IUOY.jpg" group-title="HBO MAX",Carnivale S01 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3958.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnivale S01 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/i9f9pv35c7Y09rk4SkyveuyhqNl.jpg" group-title="HBO MAX",Carnivale S01 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnivale S01 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6Bbb6L89YhIaMFG0laEwkgmW1ob.jpg" group-title="HBO MAX",Carnivale S01 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnivale S01 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8jKplPkv9q6s84SYGyoIo5an7nO.jpg" group-title="HBO MAX",Carnivale S01 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3961.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnivale S01 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wRsOv2sChMGAZSsRXbyMVxPal1X.jpg" group-title="HBO MAX",Carnivale S01 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3962.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnivale S02 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oeN2uVXMBGWD0sx6aT7EtZA4MyB.jpg" group-title="HBO MAX",Carnivale S02 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3963.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnivale S02 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rvchSiAjjR5Cn45053Yn6DUc9OO.jpg" group-title="HBO MAX",Carnivale S02 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3964.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnivale S02 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1YOPI51psUYFFNOSUAt5GK7imuZ.jpg" group-title="HBO MAX",Carnivale S02 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3965.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnivale S02 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9YC4VXKpsUDXCmemiaeYgHh5uyW.jpg" group-title="HBO MAX",Carnivale S02 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3966.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnivale S02 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/spOAbxB96nZsnQwRInexANVLyjg.jpg" group-title="HBO MAX",Carnivale S02 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnivale S02 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y7nqDoEKwjqPaYwOztRLo0gNZ9r.jpg" group-title="HBO MAX",Carnivale S02 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3968.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnivale S02 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kepK9BROlsWQn7TnfxChbExQg4u.jpg" group-title="HBO MAX",Carnivale S02 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3969.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnivale S02 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8d9cTFLILmnDdNDy5I4gqEElWRv.jpg" group-title="HBO MAX",Carnivale S02 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3970.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnivale S02 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1ye3ETl8cS5Tlqd4CizyFIIL24P.jpg" group-title="HBO MAX",Carnivale S02 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3971.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnivale S02 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qcJlcvoaP1IzbmhpcQLndhuOWae.jpg" group-title="HBO MAX",Carnivale S02 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3972.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnivale S02 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4gqoJvbKBa2L0frtON98TweNvbP.jpg" group-title="HBO MAX",Carnivale S02 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3973.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnivale S02 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/557qVkUa7CwEm6BTpbPYXupKgNz.jpg" group-title="HBO MAX",Carnivale S02 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3974.mp4
+
+#EXTM3U url-tvg=" http://grade-de-NETFLIX.xml "
+ ############## NETFLIX ################ # 
+#EXTINF:-1 tvg-id=" iddocanaldeNETFLIX" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Carta ao Rei S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1pb70YWUKnngm9EmrMyAjIL3UtB.jpg" group-title="NETFLIX",Carta ao Rei S01 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3975.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carta ao Rei S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6L2eGOGwUuqkvP8jK2hoY96NQPp.jpg" group-title="NETFLIX",Carta ao Rei S01 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3976.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carta ao Rei S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8hUsZTpogja6CA7bQHPEdNJGRmA.jpg" group-title="NETFLIX",Carta ao Rei S01 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3977.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carta ao Rei S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9JSUh0ZwvDuWZiGNEnXayz4s23i.jpg" group-title="NETFLIX",Carta ao Rei S01 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3978.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carta ao Rei S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kqxs8P9IVTm7HWiBXVzqOVly4lg.jpg" group-title="NETFLIX",Carta ao Rei S01 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3979.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carta ao Rei S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hsQjOjYXlczsrvnC3pXsGGVgBHV.jpg" group-title="NETFLIX",Carta ao Rei S01 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnival Row S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hNwsdrs4Ft9mz1SqCbku2oD0Emd.jpg" group-title="AMAZON PRIME",Carnival Row S01 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casamento sem Filtro S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/g5raPTbn6EpHv9LgE7l33nPI5ZV.jpg" group-title="NETFLIX",Casamento sem Filtro S01 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3915.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casamento sem Filtro S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rPkYweSCBBuNUKgTxoAGIM3SaOs.jpg" group-title="NETFLIX",Casamento sem Filtro S01 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3916.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casamento sem Filtro S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zyDv4CG8OFTfMSpKkhzvOWBq1ac.jpg" group-title="NETFLIX",Casamento sem Filtro S01 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3917.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casamento sem Filtro S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/Tv5eenyHVXmMwsGHAV2WzUWcPd.jpg" group-title="NETFLIX",Casamento sem Filtro S01 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3918.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casamento sem Filtro S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vWN7mMHl1Pp9jsLQLhAbG4cqTeV.jpg" group-title="NETFLIX",Casamento sem Filtro S01 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3919.mp4
+
+#EXTM3U url-tvg=" http://grade-de-ANIMES.xml "
+ ############## ANIMES ################ # 
+#EXTINF:-1 tvg-id=" iddocanaldeANIMES" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zjpuy5ccYX5cUuMh6LpeqTxdzCD.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E01
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/3999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2PUW5qPaeU2VWbTdpRJWUXGqUQ3.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E02
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tLOUoUkR7KSt1qtGKWaM0KqfAy7.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E03
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/GecijKdqbaOzjJcK4Hta0WLTs7.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E04
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k6xdJeQ392xiIVvsOGCGkl1K3w9.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E05
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/m5OIMxHlhcQtaE4XjFVDRJMkO2R.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E06
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7ajxG5O93WEQH98q4tr686YjiDj.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E07
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4O4aePmBskS7eAA2ZrC4P0h1J0W.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E08
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gMz5cVuQIoglg3H98iIlyJVWkjy.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E09
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oiUrdEu7Rb21OORqe5dvvzwtLre.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E10
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/557TrbXZmGFRT8BKCUAQkcmt1lB.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E11
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/23fGNQ2nTyRyb1YOzamo0x2JTIw.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E12
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6gjPOav7l8A3brwgYYEJLT5xEw6.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E13
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9xe8yiaAMmXRdFwqzs28Nl4AaH5.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E14
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nkKw3H4ov84LVYET1FYeVxuSXl1.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E15
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/spm6g2oEhj8Hvqr4l0BsbxjUbYv.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E16
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4ijEOugIoODnqAq4hCVdDHlnkao.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E17
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/m9E4Vjr9ruWKqsPvrK1c57hqKuC.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E18
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yCYpBecDId3ztmacu0x6kGsAb8c.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E19
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yn6ZK5I8xQ6ojuJJAmsYBe6MgT.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E20
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E21" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qmDD6hi4HzWh2Ska3AdvseZY1VV.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E21
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E22" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b2obBLb7ygHM9tU8f3aOuyxRHqS.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E22
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E23" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jTVhVnNHDtQbqThtr19w7p8xX3h.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E23
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4021.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E24" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1Ej5gtnod71ZVtvyfmqJBSR5oxC.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E24
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E25" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5rtgdgZ0Yi6cu1AzGCjDdjjtNFD.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E25
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4023.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E26" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2fptc19nnuPTNCqBE7m9aHcfYC1.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E26
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4024.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E27" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AcUj7hGUf2rdLmN7PgFZuD9jhMA.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E27
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4025.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E28" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9cx6ljY3iHIyMO6mQS2IKp6Tgub.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E28
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E29" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sSxTJcVegJ5qOz7F4dJSUOkEURY.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E29
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4027.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E30" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hMQZ3bORwJWCexc0320okJxPoXA.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E30
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4028.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E31" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7q0UxquLPVnmDuicgGl9WYSHWty.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E31
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4029.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E32" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hDugaSFPFECbX0hnaHfSQgjEvS2.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E32
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4030.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E33" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/epyI2Ki39ozy4Y04fqJ7KXnDCpj.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E33
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4031.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E34" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kfQsu2Qs8S93aXqpGL2rSYHymde.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E34
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4032.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E35" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/okwOI4O40okMaHwA87J9WNhVcrs.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E35
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4033.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E36" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kEWm0Hu7uIdTnDO9Bs6oyXJOMkb.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E36
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4034.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E37" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uv4l06JWOwzioLYlxXsF1ij3jc.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E37
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4035.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E38" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nnEXIaFjOLNuRphXOHZPJIdAjqX.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E38
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4036.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E39" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k65i6baVA4yk3pCfwPsf8kj9ttW.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E39
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4037.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E40" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1XipSzqUSxNosIeIFwviz9ave4Q.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E40
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4038.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E41" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oGjihmmH0b5e7DCh9kMpALTpB1r.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E41
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4039.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E42" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AqY9494Y2AbJFcYfdOvv9D4cx3l.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E42
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E43" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3Wt9YQxY7S0xQ2uZneVgZv6Jkz4.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E43
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E44" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/z4xUDQu1B2JVr1aE3qjEOnubeWo.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E44
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4042.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E45" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kQHmCR33dA99PrEoSVlGq4OlFbl.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E45
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4043.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E46" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b2TcKfl49cgOUj8NBzQyIWdTkTF.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E46
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4044.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E47" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pYAxSyxyvZjCGX6UYC1GjrQbhwy.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E47
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4045.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E48" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3z7mfI7FqgOgdk0ecczsOaT5z6R.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E48
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4046.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E49" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1WdjDbXMJ8pExc8pqNBn6Hd4NGN.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E49
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4047.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E50" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4MobswHPFM7C0XWgSbTDAb5oXtY.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E50
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4048.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E51" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uFvffM67MibAJKSVYADaYCEFhME.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E51
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4049.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E52" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9neHVpqfbRBpBtdJk97VOSnBIpP.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E52
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E53" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6l4bC8CedZqagc8sFUy9WhoRAQC.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E53
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E54" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2JoWtyS3vmzOzqs9NXgXs3cswV5.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E54
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4052.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E55" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oJhoxexyNh67xpOSF3SXFOBVxOE.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E55
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4053.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E56" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sqOLtOg5Zrbq8EXRBwJRvG8oplX.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E56
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4054.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E57" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rBGqBcEPfAOXmVbtQsZGyy09F8R.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E57
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4055.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E58" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/562f55ou4AqltHmrvzw3BORvwi.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E58
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E59" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/o8poKV84QpK9rEBf5rbSuDgy74Q.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E59
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4057.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E60" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kwXIezypBtAnVfUzvndlfw8misR.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E60
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4058.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E61" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oICqvMRHqQRpBESiFesc3wImelX.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E61
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4059.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E62" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kFXtr0qnPi79PTN2NLjnKHUZV8A.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E62
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4060.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E63" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qw7O7X0DvebAw6RqVkBI9LQRcRS.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E63
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4061.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E64" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qwY2q1QhUWoC3kwY1tGfZoiH8Dc.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E64
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4062.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E65" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/awELOSGdMLpOkLUjKQf1nmbalKF.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E65
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4063.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E66" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/36qMK4jKtuZ53kRDyAMdfz6aA4K.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E66
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4064.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E67" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3HEIIUC1ZQf9kHXJa9fUrfb3nJm.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E67
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E68" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/JGspfTMqPlydnooClCuLl2hsjv.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E68
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4066.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E69" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mesOLMSRDJHblCXhXnhAYtOIDVM.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E69
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4067.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E70" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/duSZ74oXYpIOMVnjI3M0ZjobVUl.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E70
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E71" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/grGoQM2tdzFQomMtRHHYv38C8Ww.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E71
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4069.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E72" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/z4uskyv7ZY8alIliOYbt9NgnoPj.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E72
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4070.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E73" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vVIEWhpyoSR6oW4tICiv7MokkOP.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E73
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4071.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E74" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/txXneBB1JHbqY74DzXFvW5FFyuD.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E74
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4072.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E75" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dxgwLJFVM0A38TxCdoXdGN2Dt3H.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E75
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4073.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E76" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/e7qB038AGUNrwPQ85X04rcOsOA3.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E76
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4074.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E77" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dCqPSSSkajvqmOa4XZcOJbpnamb.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E77
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4075.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E78" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/o3ixw7XR8pfn3WAmEvsLc9u2fUK.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E78
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E79" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5fmIlTdAYve43PVMpiS7edPTxEo.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E79
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4077.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E80" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/35Rd1A2JtO5b7jJ6tsIRIimoR7n.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E80
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4078.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E81" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qY1BL3jYRfQupapd9HguvDm7b7p.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E81
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4079.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E82" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7ilENkMQjCifpLY1mAniU0eeEhF.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E82
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4080.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E83" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/DXDoALqegjmucnUXQKMjKjyj2M.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E83
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4081.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E84" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dA5wfTLueUwp1qI6DhoLy3CdZhY.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E84
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E85" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mSzLYBXcgUhyom0t81T5RhNYtK2.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E85
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4083.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E86" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/biZbJlXwJdSUDsX6wiaY6OyQq9L.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E86
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4084.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E87" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dx6JbYQ8TBvkzH0lH2hklXCgpJd.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E87
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4085.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E88" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rbZnfxh25vvKWQ7gBSRrukEOihy.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E88
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4086.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E89" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2fF0goAVjuL44UxCtUinhmB4oJR.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E89
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4087.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E90" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kxZSnfNfUvBcv06RwLTPSvqjXB8.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E90
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4088.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E91" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ojEQFm7v0PGJscTrdqepPsFeBAN.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E91
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4089.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E92" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6LbpZimsOpm6jOhDy7yOkXYaZas.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E92
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4090.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E93" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1AQrNaTaf8DEnJxuqBXcje7ut2C.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E93
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4091.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E94" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uUhoE7OPmZ3EXzzPdKaDy9hudSr.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E94
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4092.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E95" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/slXMlOvfbuqEJ2IrL3fmzziYRyr.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E95
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4093.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E96" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/o6SyDzbpMoBox7cHMw0GeVW1xck.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E96
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4094.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E97" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dx6JbYQ8TBvkzH0lH2hklXCgpJd.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E97
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4095.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E98" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6bpLLzzh3uIBNuOMBmTmvBEmkdd.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E98
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4096.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E99" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xP16bBouhe5gT8ysTmJbXkz6RPz.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E99
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4097.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E100" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2X6fuvlfOX48JFSRktEOMY06RRJ.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E100
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4098.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E101" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4eQTo4ycabW2rmsHdgSrOp9jCqz.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E101
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4099.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E102" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2Q7p32R5D4iBzoNmUpVhMfeobQp.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E102
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4100.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E103" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5vODDFhzSrzqgkXapLBCoXpfASD.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E103
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4101.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E104" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6tA1xbEsAfQJB2vyGSroEWoAvpX.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E104
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4102.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E105" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zdbvVaVjG0jtWwDXXqKcU3KyXh7.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E105
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4103.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E106" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cpr96e7XctRaRHwPvVFcLx5AHaH.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E106
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4104.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E107" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fAre0TvBvohMTEcMQnXhlmwOuDo.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E107
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4105.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E108" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6Zbq7N99yChXK7GK1NDw86nrs4G.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E108
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E109" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y5v8nFQteb1hZC1aJjcaWBYjAgi.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E109
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4107.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E110" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lfDyAeCKMAYRI5KJS6BhaOw8SKH.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E110
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4108.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E111" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cwexOxUOix270h2poSschYvAo8u.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E111
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4109.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E112" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xNyt7gxex6Tb0u05un38MY8jNBh.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E112
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4110.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E113" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/v6xQKhApjwYoWWszLgooM6zDN6c.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E113
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4111.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco S01 E114" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/twXR5htF9n8Z8eskIJlK9xsR7Wx.jpg" group-title="ANIMES",Os Cavaleiros do Zodíaco S01 E114
+http://joao-1-us.mainbkonline.shop:80/series/vagner6/atto270901/4112.mp4
